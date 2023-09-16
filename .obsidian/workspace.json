@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总目录/社工.md",
-                "mode": "preview",
+                "file": "总目录/数字电子.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总目录/社工.md",
+                "file": "总目录/数字电子.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总目录/社工.md",
+                "file": "总目录/数字电子.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总目录/社工.md"
+                "file": "总目录/数字电子.md"
               }
             }
           }
@@ -160,21 +160,22 @@
   },
   "active": "c7cc9739c8266f3a",
   "lastOpenFiles": [
+    "总目录/C Sharp.md",
     "总目录/java.md",
+    "总目录/Linux.md",
+    "数字电子/同或.md",
+    "数字电子/逻辑与非.md",
+    "总目录/数字电子.md",
     "总目录/SQL Server数据库.md",
+    "总目录/社工.md",
     "c Sharp笔记/C Sharp中的泛型.md",
     "c Sharp笔记/C Sharp中的Array list用处和与Java中的Array list的不同.md",
     "c Sharp笔记/C Sharp 中的List.md",
     "总目录/vue.md",
     "总目录/php.md",
-    "总目录/Linux.md",
-    "总目录/C Sharp.md",
-    "总目录/数字电子.md",
-    "总目录/社工.md",
     "总目录/根.md",
     "总目录/安卓逆向.md",
     "数字电子/逻辑异或.md",
-    "数字电子/逻辑与非.md",
     "数字电子/逻辑或运算.md",
     "数字电子/逻辑或非.md",
     "数字电子/非运算.md",
@@ -196,7 +197,6 @@
     "降头.md",
     "未命名 1.canvas",
     "SQL Server",
-    "c Sharp笔记/C Sharp 增强for循环.md",
     "img/剪贴板图片 (1).jpg",
     "img/剪贴板图片.jpg",
     "img/a1.jpg",
