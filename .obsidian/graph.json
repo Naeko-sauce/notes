@@ -5,18 +5,89 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Linux笔记",
+      "color": {
+        "a": 1,
+        "rgb": 7888427
+      }
+    },
+    {
+      "query": "path:html",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:java",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:php",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:vue",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:总目录",
+      "color": {
+        "a": 1,
+        "rgb": 16056320
+      }
+    },
+    {
+      "query": "path:社工",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"c Sharp笔记\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2949778
+      }
+    },
+    {
+      "query": "path:\"SQL Server\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 307636
+      }
+    },
+    {
+      "query": "path:数字电子  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 1.15911458333333,
+  "lineSizeMultiplier": 1.15911458333333,
+  "collapse-forces": false,
+  "centerStrength": 0.419270833333333,
+  "repelStrength": 15.8854166666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224463,
+  "linkDistance": 264,
+  "scale": 0.5087618855792901,
   "close": true
 }
