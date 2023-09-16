@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/html/JavaScript-vue.md",
-                "mode": "preview",
+                "file": "java/变量.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7cc9739c8266f3a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "进制",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,14 +94,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/html/JavaScript-vue.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,8 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/html/JavaScript-vue.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -124,17 +131,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "html/html/JavaScript-vue.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,42 +150,49 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dfa7fea05f59ea05",
+  "active": "c7cc9739c8266f3a",
   "lastOpenFiles": [
-    "notes",
-    "java/包.md",
-    "java/变量.md",
-    "java/java基本数据类型转换.md",
-    "java/数组.md",
-    "java/分支.md",
-    "php/基础1.md",
-    "php/php.md",
-    "php/常用系统函数.md",
-    "php/函数.md",
-    "php/php流程控制.md",
-    "降头.md",
-    "社工网站.md",
-    "社工思路自写.md",
-    "Linux笔记/centos命令.md",
-    "2023-09-14.md",
-    "c#笔记/2023-09-14.md",
-    "新建文件夹",
-    "vue/基础.md",
-    "vue",
-    "php/文件包含.md",
-    "php/循环控制.md",
-    "php/基础2.md",
-    "php/php运算符.md",
-    "php/php数据类型.md",
-    "php/php常量.md",
-    "php/php循环.md",
-    "php/php变量.md",
-    "php",
-    "java",
-    "html/html",
-    "html",
+    "总目录/数字电子.md",
+    "总目录/C Sharp.md",
+    "数字电子/逻辑与非.md",
+    "数字电子/非运算.md",
+    "数字电子/逻辑或运算.md",
+    "总目录/Linux.md",
+    "总目录/vue.md",
+    "总目录/SQL Server数据库.md",
+    "总目录/java.md",
+    "数字电子/与运算.md",
+    "总目录/php.md",
+    "数字电子/a.html",
+    "css/a.html",
+    "css/新建文本文档.txt",
+    "css/a.css",
+    "css/a.cs",
+    "css",
     "未命名.canvas",
-    "Linux笔记/未命名",
-    "Linux笔记"
+    "数字电子/未命名.canvas",
+    "总目录/根.md",
+    "总目录/社工.md",
+    "java/键盘输入-进制.md",
+    "java/包.md",
+    "java/java基本数据类型转换.md",
+    "c Sharp笔记/C Sharp访问修饰符.md",
+    "数字电子",
+    "SQL Server/SQL Server.md",
+    "降头.md",
+    "未命名 1.canvas",
+    "SQL Server",
+    "c Sharp笔记/C Sharp 增强for循环.md",
+    "c Sharp笔记/C Sharp中的泛型.md",
+    "c Sharp笔记/C Sharp 中的List.md",
+    "c Sharp笔记/C Sharp中的Array list用处和与Java中的Array list的不同.md",
+    "c Sharp笔记/C Sharp中staitc.md",
+    "java/类变量引出.md",
+    "总目录/安卓逆向.md",
+    "img/剪贴板图片 (1).jpg",
+    "img/剪贴板图片.jpg",
+    "img/a1.jpg",
+    "img",
+    "社工"
   ]
 }

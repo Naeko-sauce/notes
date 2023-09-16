@@ -2,7 +2,7 @@
 
 以下是使用 `out` 关键字的示例：
 
-```
+```c#
 csharpCopy codeclass Program
 {
     static void Main()
