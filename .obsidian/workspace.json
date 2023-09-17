@@ -23,12 +23,8 @@
             "id": "c7cc9739c8266f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总目录/Linux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总目录/Linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总目录/Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "总目录/Linux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,6 +152,8 @@
   },
   "active": "c7cc9739c8266f3a",
   "lastOpenFiles": [
+    "总目录/Linux.md",
+    "Linux笔记/Linux中的重定向符.md",
     "总目录/java.md",
     "Linux笔记/Linux中管道符的作用.md",
     "Linux笔记/echo命令.md",
@@ -170,7 +164,6 @@
     "c Sharp笔记/C Sharp 中的List.md",
     "总目录/数字电子.md",
     "总目录/C Sharp.md",
-    "总目录/Linux.md",
     "数字电子/同或.md",
     "数字电子/逻辑与非.md",
     "总目录/SQL Server数据库.md",
@@ -185,7 +178,6 @@
     "数字电子/逻辑或运算.md",
     "数字电子/逻辑或非.md",
     "数字电子/非运算.md",
-    "数字电子/与运算.md",
     "数字电子/未命名.canvas",
     "数字电子/a.html",
     "css/a.html",
