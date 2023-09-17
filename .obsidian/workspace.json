@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总目录/数字电子.md",
+                "file": "Linux笔记/echo命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "进制",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总目录/数字电子.md",
+                "file": "Linux笔记/echo命令.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总目录/数字电子.md",
+                "file": "Linux笔记/echo命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总目录/数字电子.md"
+                "file": "Linux笔记/echo命令.md"
               }
             }
           }
@@ -160,17 +160,21 @@
   },
   "active": "c7cc9739c8266f3a",
   "lastOpenFiles": [
+    "Linux笔记/echo命令.md",
+    "2023-09-17.md",
+    "Linux笔记/linux查询ip命令.md",
+    "c Sharp笔记/C Sharp 增强for循环.md",
+    "c Sharp笔记/C Sharp 中的List.md",
+    "总目录/数字电子.md",
     "总目录/C Sharp.md",
     "总目录/java.md",
     "总目录/Linux.md",
     "数字电子/同或.md",
     "数字电子/逻辑与非.md",
-    "总目录/数字电子.md",
     "总目录/SQL Server数据库.md",
     "总目录/社工.md",
     "c Sharp笔记/C Sharp中的泛型.md",
     "c Sharp笔记/C Sharp中的Array list用处和与Java中的Array list的不同.md",
-    "c Sharp笔记/C Sharp 中的List.md",
     "总目录/vue.md",
     "总目录/php.md",
     "总目录/根.md",
@@ -190,11 +194,7 @@
     "未命名.canvas",
     "java/键盘输入-进制.md",
     "java/包.md",
-    "java/java基本数据类型转换.md",
-    "c Sharp笔记/C Sharp访问修饰符.md",
     "数字电子",
-    "SQL Server/SQL Server.md",
-    "降头.md",
     "未命名 1.canvas",
     "SQL Server",
     "img/剪贴板图片 (1).jpg",
