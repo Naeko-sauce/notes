@@ -23,8 +23,12 @@
             "id": "c7cc9739c8266f3a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "总目录/Linux.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "总目录/Linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "总目录/Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "总目录/Linux.md"
+              }
             }
           }
         ]
@@ -152,6 +160,7 @@
   },
   "active": "c7cc9739c8266f3a",
   "lastOpenFiles": [
+    "Linux笔记/Linux中的tail命令.md",
     "总目录/Linux.md",
     "Linux笔记/Linux中的重定向符.md",
     "总目录/java.md",
@@ -177,7 +186,6 @@
     "数字电子/逻辑异或.md",
     "数字电子/逻辑或运算.md",
     "数字电子/逻辑或非.md",
-    "数字电子/非运算.md",
     "数字电子/未命名.canvas",
     "数字电子/a.html",
     "css/a.html",
