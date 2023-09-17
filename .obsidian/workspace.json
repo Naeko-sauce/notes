@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux笔记/echo命令.md",
+                "file": "总目录/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux笔记/echo命令.md",
+                "file": "总目录/Linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux笔记/echo命令.md",
+                "file": "总目录/Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux笔记/echo命令.md"
+                "file": "总目录/Linux.md"
               }
             }
           }
@@ -160,14 +160,16 @@
   },
   "active": "c7cc9739c8266f3a",
   "lastOpenFiles": [
+    "总目录/java.md",
+    "Linux笔记/Linux中管道符的作用.md",
     "Linux笔记/echo命令.md",
+    "Linux笔记/centos命令.md",
     "2023-09-17.md",
     "Linux笔记/linux查询ip命令.md",
     "c Sharp笔记/C Sharp 增强for循环.md",
     "c Sharp笔记/C Sharp 中的List.md",
     "总目录/数字电子.md",
     "总目录/C Sharp.md",
-    "总目录/java.md",
     "总目录/Linux.md",
     "数字电子/同或.md",
     "数字电子/逻辑与非.md",
@@ -192,8 +194,6 @@
     "css/a.cs",
     "css",
     "未命名.canvas",
-    "java/键盘输入-进制.md",
-    "java/包.md",
     "数字电子",
     "未命名 1.canvas",
     "SQL Server",
