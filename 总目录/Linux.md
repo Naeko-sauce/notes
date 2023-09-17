@@ -6,4 +6,4 @@
 [[echo命令]]
 [[Linux中的重定向符]]
 [[Linux中的tail命令]]
-
+[[vim]]
