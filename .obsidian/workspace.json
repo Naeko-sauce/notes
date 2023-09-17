@@ -23,8 +23,12 @@
             "id": "c7cc9739c8266f3a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vim/vim的所有命令.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#vdasdasdas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vim/vim的所有命令.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vim/vim的所有命令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vim/vim的所有命令.md"
+              }
             }
           }
         ]
@@ -150,13 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c7cc9739c8266f3a",
+  "active": "061f68dd708a8447",
   "lastOpenFiles": [
+    "vim/vim的三种编辑模式.md",
     "总目录/vim.md",
     "总目录/java.md",
     "总目录/Linux.md",
     "vim/vim的所有命令.md",
-    "vim/vim的三种编辑模式.md",
     "总目录/vue.md",
     "总目录/SQL Server数据库.md",
     "总目录/php.md",
