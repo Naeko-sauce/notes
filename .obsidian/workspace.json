@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/变量.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7cc9739c8266f3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vim/vim的所有命令.md",
+                "file": "总目录/Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vim/vim的所有命令.md",
+                "file": "总目录/Linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vim/vim的所有命令.md",
+                "file": "总目录/Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vim/vim的所有命令.md"
+                "file": "总目录/Linux.md"
               }
             }
           }
@@ -159,13 +145,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "061f68dd708a8447",
+  "active": "320b38cdb4f623b2",
   "lastOpenFiles": [
+    "Linux笔记/Linux中的普通用户和root用户的区别.md",
+    "java/变量.md",
+    "2023-09-17.md",
+    "未命名.canvas",
+    "vim/vim的所有命令.md",
     "vim/vim的三种编辑模式.md",
     "总目录/vim.md",
     "总目录/java.md",
     "总目录/Linux.md",
-    "vim/vim的所有命令.md",
     "总目录/vue.md",
     "总目录/SQL Server数据库.md",
     "总目录/php.md",
@@ -182,12 +172,9 @@
     "Linux笔记/Linux中管道符的作用.md",
     "Linux笔记/echo命令.md",
     "Linux笔记/centos命令.md",
-    "2023-09-17.md",
     "Linux笔记/linux查询ip命令.md",
     "c Sharp笔记/C Sharp 增强for循环.md",
     "c Sharp笔记/C Sharp 中的List.md",
-    "数字电子/同或.md",
-    "数字电子/逻辑与非.md",
     "数字电子/未命名.canvas",
     "数字电子/a.html",
     "css/a.html",
@@ -195,7 +182,6 @@
     "css/a.css",
     "css/a.cs",
     "css",
-    "未命名.canvas",
     "数字电子",
     "未命名 1.canvas",
     "SQL Server",

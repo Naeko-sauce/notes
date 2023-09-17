@@ -7,3 +7,4 @@
 [[Linux中的重定向符]]
 [[Linux中的tail命令]]
 [[vim]]
+[[Linux中的普通用户和root用户的区别]]
