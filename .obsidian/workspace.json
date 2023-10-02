@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python笔记/python画笔turtle的一些常用方法.md",
+                "file": "总目录/python目录/python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python笔记/python画笔turtle的一些常用方法.md",
+                "file": "总目录/python目录/python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python笔记/python画笔turtle的一些常用方法.md",
+                "file": "总目录/python目录/python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python笔记/python画笔turtle的一些常用方法.md"
+                "file": "总目录/python目录/python.md"
               }
             }
           }
@@ -147,10 +147,11 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
+    "python笔记/python逻辑运算符.md",
+    "python笔记/python画笔turtle的一些常用方法.md",
     "总目录/python目录/python.md",
     "总目录/php.md",
     "python笔记/python数据类型.md",
-    "python笔记/python画笔turtle的一些常用方法.md",
     "总目录/根.md",
     "python笔记",
     "总目录/python目录",
@@ -178,7 +179,6 @@
     "总目录/SQL Server数据库.md",
     "总目录/vim.md",
     "SQL Server/SQL Server简单创建命令.md",
-    "SQL Server/SQL Server.md",
     "vim",
     "数字电子/未命名.canvas",
     "数字电子/a.html",
