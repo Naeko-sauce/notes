@@ -11,12 +11,8 @@
             "id": "70d5a84fac87cd7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python笔记/python字符串切片.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python笔记/python字符串切片.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python笔记/python字符串切片.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "python笔记/python字符串切片.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,12 +139,13 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
-    "python笔记/python转义符.md",
-    "python笔记/python字符串切片.md",
-    "python笔记/python数据类型.md",
-    "python笔记/python字符串.md",
-    "python笔记/python逻辑运算符.md",
     "总目录/python目录/python.md",
+    "python笔记/python字符串常用方法.md",
+    "python笔记/python逻辑运算符.md",
+    "python笔记/python数据类型.md",
+    "python笔记/python字符串切片.md",
+    "python笔记/python转义符.md",
+    "python笔记/python字符串.md",
     "python笔记/python画笔turtle的一些常用方法.md",
     "总目录/php.md",
     "总目录/根.md",
@@ -178,7 +171,6 @@
     "java/逆向.md",
     "java/IO流/未命名.md",
     "java-IO流",
-    "java/dos.md",
     "vim",
     "数字电子/未命名.canvas",
     "数字电子/a.html",

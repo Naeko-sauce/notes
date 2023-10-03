@@ -2,3 +2,6 @@
 [[python数据类型]]
 [[python逻辑运算符]]
 [[python字符串]]
+[[python字符串常用方法]]
+[[python字符串切片]]
+[[python转义符]]
