@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python笔记/python字符串.md",
+                "file": "python笔记/python字符串切片.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python笔记/python字符串.md",
+                "file": "python笔记/python字符串切片.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python笔记/python字符串.md",
+                "file": "python笔记/python字符串切片.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python笔记/python字符串.md"
+                "file": "python笔记/python字符串切片.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
+    "python笔记/python转义符.md",
+    "python笔记/python字符串切片.md",
     "python笔记/python数据类型.md",
     "python笔记/python字符串.md",
     "python笔记/python逻辑运算符.md",
@@ -177,8 +179,6 @@
     "java/IO流/未命名.md",
     "java-IO流",
     "java/dos.md",
-    "总目录/SQL Server数据库.md",
-    "总目录/vim.md",
     "vim",
     "数字电子/未命名.canvas",
     "数字电子/a.html",
