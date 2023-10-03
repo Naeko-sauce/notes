@@ -11,8 +11,12 @@
             "id": "70d5a84fac87cd7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "总目录/python目录/python.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "总目录/python目录/python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "总目录/python目录/python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "总目录/python目录/python.md"
+              }
             }
           }
         ]
@@ -139,11 +147,12 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
-    "总目录/python目录/python.md",
+    "python笔记/python字符串格式化.md",
     "python笔记/python字符串常用方法.md",
+    "python笔记/python字符串切片.md",
+    "总目录/python目录/python.md",
     "python笔记/python逻辑运算符.md",
     "python笔记/python数据类型.md",
-    "python笔记/python字符串切片.md",
     "python笔记/python转义符.md",
     "python笔记/python字符串.md",
     "python笔记/python画笔turtle的一些常用方法.md",
@@ -169,7 +178,6 @@
     "总目录/安卓逆向.md",
     "总目录/Linux.md",
     "java/逆向.md",
-    "java/IO流/未命名.md",
     "java-IO流",
     "vim",
     "数字电子/未命名.canvas",

@@ -5,3 +5,4 @@
 [[python字符串常用方法]]
 [[python字符串切片]]
 [[python转义符]]
+[[python字符串格式化]]
