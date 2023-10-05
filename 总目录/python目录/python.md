@@ -2,3 +2,4 @@
 [[python数据类型]]
 [[python逻辑运算符]]
 [[总目录/python目录/python字符串|python字符串]]
+[[python序列]] 
