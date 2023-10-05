@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,10 +147,12 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
+    "python笔记/python可变字符串io.StringIo.md",
+    "2023-10-05.md",
+    "总目录/python目录/python.md",
     "python笔记/python字符串格式化.md",
     "python笔记/python字符串常用方法.md",
     "python笔记/python字符串切片.md",
-    "总目录/python目录/python.md",
     "python笔记/python逻辑运算符.md",
     "python笔记/python数据类型.md",
     "python笔记/python转义符.md",
@@ -176,8 +178,6 @@
     "总目录/数字电子.md",
     "总目录/C Sharp.md",
     "总目录/安卓逆向.md",
-    "总目录/Linux.md",
-    "java/逆向.md",
     "java-IO流",
     "vim",
     "数字电子/未命名.canvas",

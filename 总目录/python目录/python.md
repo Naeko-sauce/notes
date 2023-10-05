@@ -6,3 +6,4 @@
 [[python字符串切片]]
 [[python转义符]]
 [[python字符串格式化]]
+[[python可变字符串io.StringIo]]
