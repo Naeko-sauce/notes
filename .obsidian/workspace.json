@@ -11,12 +11,8 @@
             "id": "70d5a84fac87cd7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总目录/python目录/python序列.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总目录/python目录/python序列.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总目录/python目录/python序列.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "总目录/python目录/python序列.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,13 +139,14 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
+    "总目录/python目录/python序列.md",
     "总目录/python目录/python字符串.md",
+    "python笔记/序列/列表/列表常用方法.md",
     "python笔记/序列/序列介绍.md",
     "python笔记/序列/列表/列表介绍.md",
     "python笔记/序列/列表",
     "python笔记/序列/未命名.md",
     "python笔记/python转义符.md",
-    "总目录/python目录/python序列.md",
     "总目录/python目录/python.md",
     "python笔记/序列",
     "python笔记/未命名.md",
