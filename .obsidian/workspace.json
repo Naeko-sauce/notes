@@ -11,12 +11,8 @@
             "id": "70d5a84fac87cd7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总目录/python目录/python.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总目录/python目录/python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总目录/python目录/python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "总目录/python目录/python.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,16 +139,19 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
-    "python笔记/python可变字符串io.StringIo.md",
-    "2023-10-05.md",
+    "总目录/python目录/python字符串.md",
     "总目录/python目录/python.md",
-    "python笔记/python字符串格式化.md",
-    "python笔记/python字符串常用方法.md",
-    "python笔记/python字符串切片.md",
+    "总目录/Java目录/javaIO流.md",
+    "python笔记/字符串",
+    "python笔记/字符串/python可变字符串io.StringIo.md",
+    "2023-10-05.md",
+    "python笔记/字符串/python字符串格式化.md",
+    "python笔记/字符串/python字符串常用方法.md",
+    "python笔记/字符串/python字符串切片.md",
     "python笔记/python逻辑运算符.md",
     "python笔记/python数据类型.md",
     "python笔记/python转义符.md",
-    "python笔记/python字符串.md",
+    "python笔记/字符串/python字符串.md",
     "python笔记/python画笔turtle的一些常用方法.md",
     "总目录/php.md",
     "总目录/根.md",
@@ -165,7 +160,6 @@
     "总目录/未命名.md",
     "总目录/Java目录",
     "java-IO流/input Stream/FileInputStream的方法.md",
-    "总目录/Java目录/javaIO流.md",
     "总目录/Java目录/java.md",
     "java-IO流/input Stream/InputStream的常见子类.md",
     "java-IO流/input Stream",
@@ -177,14 +171,12 @@
     "总目录/社工.md",
     "总目录/数字电子.md",
     "总目录/C Sharp.md",
-    "总目录/安卓逆向.md",
     "java-IO流",
     "vim",
     "数字电子/未命名.canvas",
     "数字电子/a.html",
     "css/a.html",
     "css/新建文本文档.txt",
-    "css/a.css",
     "未命名 1.canvas",
     "img/剪贴板图片 (1).jpg",
     "img/剪贴板图片.jpg",
