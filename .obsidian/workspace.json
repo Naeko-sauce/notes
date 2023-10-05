@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python笔记/序列/序列介绍.md",
+                "file": "总目录/python目录/python序列.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python笔记/序列/序列介绍.md",
+                "file": "总目录/python目录/python序列.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python笔记/序列/序列介绍.md",
+                "file": "总目录/python目录/python序列.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python笔记/序列/序列介绍.md"
+                "file": "总目录/python目录/python序列.md"
               }
             }
           }
@@ -147,13 +147,16 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
+    "总目录/python目录/python字符串.md",
+    "python笔记/序列/序列介绍.md",
+    "python笔记/序列/列表/列表介绍.md",
+    "python笔记/序列/列表",
+    "python笔记/序列/未命名.md",
     "python笔记/python转义符.md",
     "总目录/python目录/python序列.md",
-    "python笔记/序列/序列介绍.md",
     "总目录/python目录/python.md",
     "python笔记/序列",
     "python笔记/未命名.md",
-    "总目录/python目录/python字符串.md",
     "python笔记/字符串/python可变字符串io.StringIo.md",
     "总目录/Java目录/javaIO流.md",
     "python笔记/字符串",
@@ -176,15 +179,11 @@
     "java-IO流/input Stream/InputStream的常见子类.md",
     "java-IO流/input Stream",
     "java/IO流.md",
-    "java-IO流/File的方法以及说明.md",
-    "java-IO流/File类.md",
-    "Linux笔记/centos命令.md",
     "未命名.canvas",
     "java-IO流",
     "vim",
     "数字电子/未命名.canvas",
     "数字电子/a.html",
-    "css/a.html",
     "未命名 1.canvas",
     "img/剪贴板图片 (1).jpg",
     "img/剪贴板图片.jpg",
