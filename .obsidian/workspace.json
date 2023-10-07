@@ -11,8 +11,12 @@
             "id": "70d5a84fac87cd7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "报错合集/vue报错/vue用pnpm i下载资源时报错.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "报错合集/vue报错/vue用pnpm i下载资源时报错.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "报错合集/vue报错/vue用pnpm i下载资源时报错.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "报错合集/vue报错/vue用pnpm i下载资源时报错.md"
+              }
             }
           }
         ]
@@ -139,10 +147,11 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
+    "vue/基础.md",
+    "vue/vue3的三种书写风格.md",
     "总目录/vue.md",
     "总目录/报错合集/vue报错/vue报错.md",
     "总目录/根.md",
-    "vue/vue3的三种书写风格.md",
     "总目录/报错合集/未命名.md",
     "总目录/报错合集/vue报错",
     "总目录/报错合集",
@@ -171,7 +180,6 @@
     "python笔记/序列/序列介绍.md",
     "python笔记/序列/列表",
     "python笔记/序列/未命名.md",
-    "python笔记/python转义符.md",
     "python笔记/序列",
     "python笔记/字符串",
     "python笔记",
