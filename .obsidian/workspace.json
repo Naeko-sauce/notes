@@ -11,8 +11,12 @@
             "id": "70d5a84fac87cd7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "总目录/vue项目xm笔记/vue项目笔记.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "总目录/vue项目xm笔记/vue项目笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "总目录/vue项目xm笔记/vue项目笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "总目录/vue项目xm笔记/vue项目笔记.md"
+              }
             }
           }
         ]
@@ -139,8 +147,11 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
-    "总目录/vue.md",
+    "总目录/python目录/python序列.md",
     "总目录/vue项目xm笔记/vue项目笔记.md",
+    "vuex项目xm笔记/vite目录介绍.md",
+    "vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
+    "总目录/vue.md",
     "总目录/安卓逆向.md",
     "vuex项目xm笔记/nvm，node版本控制工具.md",
     "总目录/vim.md",
@@ -155,7 +166,6 @@
     "vuex项目xm笔记",
     "python笔记/序列/列表/列表介绍.md",
     "java/类变量引出.md",
-    "总目录/python目录/python序列.md",
     "总目录/python目录/python字符串.md",
     "python笔记/序列/列表/列表常用方法.md",
     "python笔记/序列/序列介绍.md",
@@ -168,8 +178,6 @@
     "python笔记/字符串/python可变字符串io.StringIo.md",
     "总目录/Java目录/javaIO流.md",
     "python笔记/字符串",
-    "2023-10-05.md",
-    "python笔记/字符串/python字符串格式化.md",
     "python笔记",
     "总目录/python目录",
     "总目录/Java目录",
