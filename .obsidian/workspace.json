@@ -11,8 +11,12 @@
             "id": "70d5a84fac87cd7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "总目录/vue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "总目录/vue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "总目录/vue.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "总目录/vue.md"
+              }
             }
           }
         ]
@@ -139,26 +147,25 @@
   },
   "active": "70d5a84fac87cd7c",
   "lastOpenFiles": [
-    "总目录/vue.md",
-    "总目录/vim.md",
-    "总目录/vue项目xm笔记/vue项目笔记.md",
-    "vue/vue中的ref和reactive的用法和不同.md",
     "vue/vue阻止父级冒泡.md",
     "报错合集/vue报错/vue用pnpm i下载资源时报错.md",
     "vue/基础.md",
     "vue/vue3的三种书写风格.md",
+    "总目录/vue.md",
     "总目录/报错合集/vue报错/vue报错.md",
     "总目录/根.md",
     "总目录/报错合集/未命名.md",
     "总目录/报错合集/vue报错",
     "总目录/报错合集",
     "报错合集/vue报错",
+    "总目录/vue项目xm笔记/vue项目笔记.md",
     "报错合集",
     "总目录/python目录/python序列.md",
     "vuex项目xm笔记/vite目录介绍.md",
     "vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
     "总目录/安卓逆向.md",
     "vuex项目xm笔记/nvm，node版本控制工具.md",
+    "总目录/vim.md",
     "vuex项目xm笔记/npm和pnpm.md",
     "html/html/JavaScript-vue.md",
     "vuex项目xm笔记/vue3的新特性.md",
@@ -171,6 +178,7 @@
     "java/类变量引出.md",
     "总目录/python目录/python字符串.md",
     "python笔记/序列/列表/列表常用方法.md",
+    "python笔记/序列/序列介绍.md",
     "python笔记/序列/列表",
     "python笔记/序列",
     "python笔记/字符串",
