@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "ebc0ec7ac83a9704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "新添加.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "新添加.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "新添加.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "新添加.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -141,7 +124,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ebc0ec7ac83a9704",
+  "active": "fd5791eab8f2e059",
   "lastOpenFiles": [
     "新添加.md",
     "测试.md",
