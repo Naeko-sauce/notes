@@ -19,9 +19,11 @@
             "id": "4e9d5cae1975c588",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
+                "file": "测试/测试.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
+                "file": "测试/测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
+                "file": "测试/测试.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
+                "file": "测试/测试.md"
               }
             }
           }
@@ -155,42 +157,42 @@
   },
   "active": "4e9d5cae1975c588",
   "lastOpenFiles": [
-    "程序/Linux笔记/Linux目录.md",
-    "程序/Linux笔记/centos/centos命令.md",
-    "程序/Linux笔记/centos/未命名.md",
     "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
-    "mod/google-icons.excalidrawlib",
-    "mod/未确认 183365.crdownload",
-    "mod/forms.excalidrawlib",
-    "mod/未确认 584362.crdownload",
-    "mod/UML-ER-library.excalidrawlib",
-    "mod/未确认 337593.crdownload",
-    "mod/system-design.excalidrawlib",
-    "mod/未确认 347172.crdownload",
-    "mod/software-architecture.excalidrawlib",
-    "mod/未确认 793782.crdownload",
-    "程序/Linux笔记/centos/echo命令.md",
-    "Excalidraw/Drawing 2023-11-06 14.04.39.excalidraw.md",
-    "Linux笔记/centos/centos命令.md",
-    "程序/Linux笔记/linux查询ip命令.md",
-    "程序/Linux笔记/Linux常用命令.md",
-    "程序/Linux笔记/Linux中管道符的作用.md",
-    "程序/Linux笔记/Linux中的重定向符.md",
-    "程序/Linux笔记/Linux中的普通用户和root用户的区别.md",
-    "程序/Linux笔记/Linux中的tail命令.md",
+    "测试/测试.md",
+    "测试",
+    "程序/降头.md",
     "程序/社工/简户网站.md",
     "程序/社工/简户思路.md",
     "程序/社工/社工网站.md",
     "程序/社工/社工思路有手机号查询半成品姓名.md",
+    "程序/社工",
     "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md",
-    "程序/vue/基础.md",
-    "程序/vue/vue阻止父级冒泡.md",
-    "程序/vue/vue中的ref和reactive的用法和不同.md",
-    "程序/vue/vue3的三种书写风格.md",
-    "Excalidraw/Drawing 2023-11-06 13.55.15.excalidraw.md",
-    "程序/降头.md",
-    "程序/Excalidraw/Drawing 2023-11-06 13.55.15.excalidraw.md",
-    "程序/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
+    "程序/报错合集/vue报错",
+    "程序/报错合集",
+    "程序/数字电子/非运算.md",
+    "程序/数字电子/逻辑或非.md",
+    "程序/数字电子/逻辑或运算.md",
+    "程序/数字电子/逻辑异或.md",
+    "程序/数字电子/逻辑与非.md",
+    "程序/数字电子/同或.md",
+    "程序/数字电子/与运算.md",
+    "程序/数字电子/a.html",
+    "程序/数字电子",
+    "程序/总目录/报错合集/vue报错/vue报错.md",
+    "程序/总目录/报错合集/vue报错",
+    "程序/总目录/vue项目xm笔记/vue项目笔记.md",
+    "程序/总目录/python目录/python序列.md",
+    "程序/总目录/python目录/python字符串.md",
+    "程序/总目录/python目录/python.md",
+    "程序/总目录/Java目录/javaIO流.md",
+    "程序/总目录/Java目录/java.md",
+    "程序/总目录/社工.md",
+    "程序/总目录/根.md",
+    "程序/总目录/数字电子.md",
+    "程序/总目录/报错合集",
+    "程序/总目录/安卓逆向.md",
+    "程序/总目录/vue项目xm笔记",
+    "程序/总目录/python目录",
     "未命名.canvas",
     "数字电子/未命名.canvas",
     "未命名 1.canvas",
