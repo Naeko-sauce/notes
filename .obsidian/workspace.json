@@ -19,12 +19,8 @@
             "id": "4e9d5cae1975c588",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "测试/测试.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试/测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试/测试.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "测试/测试.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,10 +149,21 @@
   },
   "active": "4e9d5cae1975c588",
   "lastOpenFiles": [
+    "程序/总目录/Linux/Linux.md",
+    "程序/Linux笔记/Linux目录.md",
+    "程序/总目录/vue项目xm笔记/vue项目笔记.md",
+    "程序/Excalidraw/Drawing 2023-11-06 13.55.15.excalidraw.md",
+    "程序/总目录/根.md",
+    "程序/总目录/Linux/centos.md",
+    "程序/Linux笔记/centos/centos命令.md",
+    "程序/Linux笔记/centos/echo命令.md",
     "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
+    "程序/总目录/安卓逆向.md",
+    "程序/总目录/Linux",
+    "程序/总目录/C Sharp.md",
+    "未命名",
     "测试/测试.md",
     "测试",
-    "程序/Excalidraw/Drawing 2023-11-06 13.55.15.excalidraw.md",
     "程序/降头.md",
     "程序/社工/简户网站.md",
     "程序/社工/简户思路.md",
@@ -181,17 +184,7 @@
     "程序/数字电子",
     "程序/总目录/报错合集/vue报错/vue报错.md",
     "程序/总目录/报错合集/vue报错",
-    "程序/总目录/vue项目xm笔记/vue项目笔记.md",
-    "程序/总目录/python目录/python序列.md",
-    "程序/总目录/python目录/python字符串.md",
-    "程序/总目录/python目录/python.md",
-    "程序/总目录/Java目录/javaIO流.md",
-    "程序/总目录/Java目录/java.md",
-    "程序/总目录/社工.md",
-    "程序/总目录/根.md",
     "程序/总目录/报错合集",
-    "程序/总目录/vue项目xm笔记",
-    "程序/总目录/python目录",
     "未命名.canvas",
     "数字电子/未命名.canvas",
     "未命名 1.canvas",
