@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d9c5e56d5f20eff",
+        "id": "e7e38238334ffec6",
         "type": "tabs",
         "children": [
           {
-            "id": "3f16e0249b5add3d",
+            "id": "6f23847db34cac8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/SQL Server/T-SQL.md",
+                "file": "寄/寄根.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,22 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "5e706cf51388d353",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "29d78cd944ccfe49",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/SQL Server/T-SQL.md",
+                "file": "寄/寄根.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/SQL Server/T-SQL.md",
+                "file": "寄/寄根.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/SQL Server/T-SQL.md"
+                "file": "寄/寄根.md"
               }
             }
           },
@@ -128,9 +144,25 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "4c04ec94d85f029e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "01f15715c216f3da",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -144,14 +176,36 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "flomo-importer:Flomo Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "3f16e0249b5add3d",
+  "active": "6f23847db34cac8a",
   "lastOpenFiles": [
+    "寄/寄根.md",
+    "寄/2023-11-12.md",
+    "模板/日记模板/日记模板.md",
+    "寄/及.md",
+    "模板/灵感模板/灵感.md",
+    "模板/灵感模板/s.md",
+    "程序/完成事项",
+    "程序/未命名.md",
+    "寄",
+    "模板/日记模板",
+    "程序/降头.md",
+    "模板/灵感模板/是.md",
+    "模板/灵感模板/sasda.md",
+    "程序/社工/简户网站.md",
+    "模板/灵感模板",
+    "模板",
+    "程序/SQL Server/T-SQL.md",
     "程序/vuex项目xm笔记/nvm，node版本控制工具.md",
     "程序/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
-    "程序/降头.md",
     "程序/总目录/vim.md",
     "程序/Linux笔记/Linux中管道符的作用.md",
     "程序/SQL Server/SQL Server.md",
@@ -163,28 +217,12 @@
     "程序/数字电子/非运算.md",
     "程序/社工/社工思路有手机号查询半成品姓名.md",
     "程序/社工/社工网站.md",
-    "程序/社工/简户网站.md",
     "程序/社工/简户思路.md",
-    "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md",
-    "程序/java/逆向.md",
-    "程序/Linux笔记/centos/echo命令.md",
-    "程序/SQL Server/SQL Server简单创建命令.md",
-    "程序/python笔记/python画笔turtle的一些常用方法.md",
-    "程序/python笔记/序列/列表/列表介绍.md",
-    "程序/php/php循环.md",
-    "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
-    "程序/Linux笔记/Linux常用命令.md",
-    "程序/Linux笔记/Linux目录.md",
     "程序/总目录/Linux",
-    "未命名",
     "测试",
     "程序/社工",
     "程序/报错合集/vue报错",
     "程序/报错合集",
-    "程序/数字电子/a.html",
-    "程序/数字电子",
-    "程序/总目录/报错合集/vue报错",
-    "程序/总目录/报错合集",
     "未命名.canvas",
     "数字电子/未命名.canvas",
     "未命名 1.canvas",
