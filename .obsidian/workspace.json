@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e7e38238334ffec6",
+        "id": "b49b4dd450f6a91b",
         "type": "tabs",
         "children": [
           {
-            "id": "6f23847db34cac8a",
+            "id": "9cf505496b7c4115",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "寄/寄根.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw -tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "寄/寄根.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "寄/寄根.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "寄/寄根.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,9 +152,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "b88c75e0d37f22aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,7 +177,6 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "custom-sort:Toggle custom sorting": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "flomo-importer:Flomo Importer": false,
@@ -185,44 +184,45 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6f23847db34cac8a",
+  "active": "9cf505496b7c4115",
   "lastOpenFiles": [
+    "寄/2023-11-15.md",
     "寄/寄根.md",
-    "寄/2023-11-12.md",
-    "模板/日记模板/日记模板.md",
-    "寄/及.md",
+    "Pasted Image 20231115212918.jpeg",
+    "总目录/Linux/Linux.md",
+    "总目录/vim.md",
+    "总目录/Linux/centos.md",
+    "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
+    "程序/Linux笔记/linux查询ip命令.md",
+    "程序/杂项笔记/vm中的boot manager.md",
+    "总目录/安卓逆向.md",
+    "寄/未命名思维导图.md",
+    "寄/未命名.canvas",
+    "模板/灵感模板/未命名看板.md",
     "模板/灵感模板/灵感.md",
-    "模板/灵感模板/s.md",
-    "程序/完成事项",
+    "模板/灵感模板/Untitled.md",
+    "寄/delete.md",
+    "程序/javascript/javascript 获取html元素.md",
+    "程序/javascript/javascript className.md",
+    "总目录/根.md",
+    "模板/日记模板/日记模板.md",
+    "总目录/模板.md",
+    "总目录/javascript.md",
+    "总目录/杂项/杂项.md",
+    "程序/javascript",
     "程序/未命名.md",
-    "寄",
-    "模板/日记模板",
-    "程序/降头.md",
-    "模板/灵感模板/是.md",
-    "模板/灵感模板/sasda.md",
-    "程序/社工/简户网站.md",
-    "模板/灵感模板",
-    "模板",
-    "程序/SQL Server/T-SQL.md",
-    "程序/vuex项目xm笔记/nvm，node版本控制工具.md",
-    "程序/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
-    "程序/总目录/vim.md",
-    "程序/Linux笔记/Linux中管道符的作用.md",
-    "程序/SQL Server/SQL Server.md",
-    "程序/php/常用系统函数.md",
-    "程序/Linux笔记/Linux中的普通用户和root用户的区别.md",
-    "程序/Linux笔记/centos/centos命令.md",
-    "程序/java-IO流/input Stream/InputStream的常见子类.md",
+    "总目录/未命名",
     "程序/总目录/报错合集/vue报错/vue报错.md",
-    "程序/数字电子/非运算.md",
-    "程序/社工/社工思路有手机号查询半成品姓名.md",
-    "程序/社工/社工网站.md",
-    "程序/社工/简户思路.md",
-    "程序/总目录/Linux",
-    "测试",
-    "程序/社工",
-    "程序/报错合集/vue报错",
-    "程序/报错合集",
+    "总目录/报错合集/vue报错/vue报错.md",
+    "总目录/vue项目xm笔记/vue项目笔记.md",
+    "总目录/报错合集/vue报错",
+    "总目录/杂项",
+    "总目录/报错合集",
+    "总目录/vue项目xm笔记",
+    "总目录/python目录",
+    "总目录/Linux",
+    "总目录/Java目录",
+    "总目录",
     "未命名.canvas",
     "数字电子/未命名.canvas",
     "未命名 1.canvas",

@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-11-15",
+      "path": "寄/2023-11-15.md"
+    },
+    {
       "basename": "寄根",
       "path": "寄/寄根.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "总目录/Linux/Linux.md"
+    },
+    {
+      "basename": "vim",
+      "path": "总目录/vim.md"
+    },
+    {
+      "basename": "centos",
+      "path": "总目录/Linux/centos.md"
+    },
+    {
+      "basename": "vm和虚拟机的关系，和linux的内存分布关系图，和目录结构",
+      "path": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
+    },
+    {
+      "basename": "linux查询ip命令",
+      "path": "程序/Linux笔记/linux查询ip命令.md"
+    },
+    {
+      "basename": "vm中的boot manager",
+      "path": "程序/杂项笔记/vm中的boot manager.md"
+    },
+    {
+      "basename": "安卓逆向",
+      "path": "总目录/安卓逆向.md"
+    },
+    {
+      "basename": "灵感",
+      "path": "模板/灵感模板/灵感.md"
+    },
+    {
+      "basename": "javascript 获取html元素",
+      "path": "程序/javascript/javascript 获取html元素.md"
+    },
+    {
+      "basename": "javascript className",
+      "path": "程序/javascript/javascript className.md"
+    },
+    {
+      "basename": "根",
+      "path": "总目录/根.md"
     },
     {
       "basename": "日记模板",
       "path": "模板/日记模板/日记模板.md"
     },
     {
-      "basename": "灵感",
-      "path": "模板/灵感模板/灵感.md"
+      "basename": "模板",
+      "path": "总目录/模板.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "总目录/javascript.md"
+    },
+    {
+      "basename": "杂项",
+      "path": "总目录/杂项/杂项.md"
+    },
+    {
+      "basename": "JavaScript-vue",
+      "path": "程序/html/html/JavaScript-vue.md"
     },
     {
       "basename": "降头",
