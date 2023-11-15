@@ -4,18 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "33983112c6f0d029",
-        "type": "tabs",
+        "id": "41e602637d3b9b1b",
+        "type": "split",
         "children": [
           {
-            "id": "fd5791eab8f2e059",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "33983112c6f0d029",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fd5791eab8f2e059",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "寄/寄根.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "27e8462680e85b25",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66c74151a23f286d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "寄/寄根.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "df1e10f77ab6f2b3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f48d747c8e726bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "寄/寄根.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -67,6 +114,22 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "fbdd2896fb937997",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "a77a77dd1e3d8cb7",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -81,6 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "寄/寄根.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "寄/寄根.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,25 +172,55 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "寄/寄根.md"
+          }
+        }
+      },
+      {
+        "id": "d369ffea89064389",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "3569866ab37b8ed7",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
           "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "fd5791eab8f2e059",
   "lastOpenFiles": [
+    "寄/2023-11-15.md",
+    "寄/寄根.md",
+    "总目录/模板.md",
+    "程序/javascript/javascript 获取html元素.md",
+    "总目录/javascript.md",
+    "总目录/根.md",
+    "Pasted Image 20231115212918.jpeg",
     "新添加.md",
     "测试.md",
     "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md",

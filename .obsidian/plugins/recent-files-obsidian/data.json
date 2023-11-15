@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "寄根",
+      "path": "寄/寄根.md"
+    },
+    {
       "basename": "2023-11-15",
       "path": "寄/2023-11-15.md"
     },
     {
-      "basename": "寄根",
-      "path": "寄/寄根.md"
+      "basename": "模板",
+      "path": "总目录/模板.md"
+    },
+    {
+      "basename": "javascript 获取html元素",
+      "path": "程序/javascript/javascript 获取html元素.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "总目录/javascript.md"
+    },
+    {
+      "basename": "根",
+      "path": "总目录/根.md"
     },
     {
       "basename": "Linux",
@@ -41,28 +57,12 @@
       "path": "模板/灵感模板/灵感.md"
     },
     {
-      "basename": "javascript 获取html元素",
-      "path": "程序/javascript/javascript 获取html元素.md"
-    },
-    {
       "basename": "javascript className",
       "path": "程序/javascript/javascript className.md"
     },
     {
-      "basename": "根",
-      "path": "总目录/根.md"
-    },
-    {
       "basename": "日记模板",
       "path": "模板/日记模板/日记模板.md"
-    },
-    {
-      "basename": "模板",
-      "path": "总目录/模板.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "总目录/javascript.md"
     },
     {
       "basename": "杂项",
