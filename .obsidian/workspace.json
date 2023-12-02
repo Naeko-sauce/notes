@@ -16,7 +16,19 @@
             }
           },
           {
-            "id": "bd519c812bce307e",
+            "id": "987d47d18ed36db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序/python笔记/序列/列表/python中的remove方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "242a1773891099ca",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -24,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -106,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程序/python笔记/序列/列表/python中的remove方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程序/python笔记/序列/列表/python中的remove方法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程序/python笔记/序列/列表/python中的remove方法.md"
+              }
             }
           },
           {
@@ -170,8 +187,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,46 +209,46 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bd519c812bce307e",
+  "active": "242a1773891099ca",
   "lastOpenFiles": [
+    "总目录/根.md",
+    "总目录/报错合集/杂项报错.md",
+    "总目录/报错合集/neovim/neovim报错.md",
+    "总目录/报错合集/vue报错/vue报错.md",
+    "总目录/报错合集/neovim",
+    "程序/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md",
+    "程序/python笔记/序列/列表/python中的pop方法.md",
+    "程序/报错合集/neovim",
+    "总目录/python目录/python序列.md",
+    "总目录/python目录/python.md",
+    "程序/python笔记/序列/列表/python中的remove方法.md",
+    "程序/python笔记/python画笔turtle的一些常用方法.md",
+    "程序/python笔记/序列/列表/python中del用法.md",
+    "总目录/python目录/python字符串.md",
+    "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
+    "程序/Linux笔记/centos/centos命令.md",
+    "程序/Linux笔记/centos/echo命令.md",
+    "程序/Linux笔记/Linux中管道符的作用.md",
+    "程序/three.js/three创建一个立方体.md",
+    "总目录/杂项/杂项.md",
     "总目录/杂项/three杂项.md",
     "程序/杂项笔记/three杂项/three创建渲染器.md",
     "程序/杂项笔记/vm中的boot manager.md",
+    "总目录/vue.md",
     "程序/杂项笔记/three杂项/three创建相机.md",
     "总目录/javascript.md",
     "总目录/three.js.md",
     "总目录/SQL Server数据库.md",
-    "程序/杂项笔记/three杂项/const scene = new THREE.Scene();是什么意思.md",
-    "程序/three.js/three创建基本网状结构材料.md",
-    "程序/three.js/three创建一个立方体.md",
     "程序/three.js",
-    "总目录/杂项/杂项.md",
-    "总目录/根.md",
     "程序/杂项笔记/three杂项",
-    "寄/2023-11-17.md",
-    "寄/2023-11-16.md",
-    "寄/2023-11-15.md",
-    "寄/寄根.md",
     "Pasted Image 20231115212918.jpeg",
-    "总目录/Linux/Linux.md",
-    "总目录/vim.md",
-    "总目录/Linux/centos.md",
-    "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
-    "程序/Linux笔记/linux查询ip命令.md",
-    "总目录/安卓逆向.md",
-    "寄/未命名思维导图.md",
     "寄/未命名.canvas",
-    "模板/灵感模板/未命名看板.md",
-    "模板/灵感模板/灵感.md",
-    "模板/灵感模板/Untitled.md",
     "程序/javascript",
     "总目录/未命名",
     "总目录/报错合集/vue报错",
     "总目录/杂项",
     "总目录/报错合集",
     "总目录/vue项目xm笔记",
-    "总目录/python目录",
-    "总目录/Linux",
     "未命名.canvas",
     "数字电子/未命名.canvas",
     "未命名 1.canvas",
