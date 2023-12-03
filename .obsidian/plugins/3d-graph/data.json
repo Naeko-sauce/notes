@@ -1,0 +1,48 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "程序/社工",
+        "color": "#1a1637"
+      },
+      {
+        "query": "程序/报错合集",
+        "color": "#ff8585"
+      },
+      {
+        "query": "程序/数字电子",
+        "color": "#91fd0d"
+      },
+      {
+        "query": "程序/杂项笔记",
+        "color": "#393eea"
+      },
+      {
+        "query": "程序/c Sharp笔记",
+        "color": "#ddc213"
+      },
+      {
+        "query": "程序/css",
+        "color": "#c729ba"
+      },
+      {
+        "query": "程序/html",
+        "color": "#0bf90f"
+      },
+      {
+        "query": "程序/java",
+        "color": "#00eeff"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 4,
+    "linkThickness": 5,
+    "particleSize": 6,
+    "particleCount": 4
+  }
+}

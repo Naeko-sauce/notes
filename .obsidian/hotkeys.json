@@ -6,5 +6,21 @@
       ],
       "key": "1"
     }
+  ],
+  "3d-graph:open-3d-graph-global": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "3d-graph:open-3d-graph-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
   ]
 }

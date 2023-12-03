@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "python中的remove方法",
+      "path": "程序/python笔记/序列/列表/python中的remove方法.md"
+    },
+    {
+      "basename": "安卓逆向",
+      "path": "总目录/安卓逆向.md"
+    },
+    {
       "basename": "根",
       "path": "总目录/根.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "python",
       "path": "总目录/python目录/python.md"
-    },
-    {
-      "basename": "python中的remove方法",
-      "path": "程序/python笔记/序列/列表/python中的remove方法.md"
     },
     {
       "basename": "python画笔turtle的一些常用方法",
@@ -147,10 +151,6 @@
     {
       "basename": "linux查询ip命令",
       "path": "程序/Linux笔记/linux查询ip命令.md"
-    },
-    {
-      "basename": "安卓逆向",
-      "path": "总目录/安卓逆向.md"
     },
     {
       "basename": "灵感",
