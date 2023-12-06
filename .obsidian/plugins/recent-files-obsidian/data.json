@@ -1,28 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "python中的remove方法",
-      "path": "程序/python笔记/序列/列表/python中的remove方法.md"
+      "basename": "网络安全",
+      "path": "总目录/网络安全/网络安全.md"
     },
     {
-      "basename": "安卓逆向",
-      "path": "总目录/安卓逆向.md"
-    },
-    {
-      "basename": "根",
-      "path": "总目录/根.md"
-    },
-    {
-      "basename": "杂项报错",
-      "path": "总目录/报错合集/杂项报错.md"
+      "basename": "使用LAMP部署DVWA",
+      "path": "程序/网络安全/使用LAMP部署DVWA.md"
     },
     {
       "basename": "neovim报错",
       "path": "总目录/报错合集/neovim/neovim报错.md"
     },
     {
+      "basename": "安卓逆向",
+      "path": "总目录/安卓逆向.md"
+    },
+    {
+      "basename": "社工",
+      "path": "总目录/社工.md"
+    },
+    {
+      "basename": "vim",
+      "path": "总目录/vim.md"
+    },
+    {
+      "basename": "three.js",
+      "path": "总目录/three.js.md"
+    },
+    {
+      "basename": "SQL Server数据库",
+      "path": "总目录/SQL Server数据库.md"
+    },
+    {
+      "basename": "数字电子",
+      "path": "总目录/数字电子.md"
+    },
+    {
+      "basename": "根",
+      "path": "总目录/根.md"
+    },
+    {
+      "basename": "模板",
+      "path": "总目录/模板.md"
+    },
+    {
+      "basename": "vue项目笔记",
+      "path": "总目录/vue项目xm笔记/vue项目笔记.md"
+    },
+    {
+      "basename": "kalilinux软件常用命令",
+      "path": "总目录/Linux/kalilinux软件常用命令.md"
+    },
+    {
+      "basename": "kali卸载LAMP环境",
+      "path": "程序/网络安全/kali卸载LAMP环境.md"
+    },
+    {
+      "basename": "kali安装lamp环境",
+      "path": "程序/网络安全/kali安装lamp环境.md"
+    },
+    {
+      "basename": "LAMP和LANMP的区别",
+      "path": "程序/网络安全/LAMP和LANMP的区别.md"
+    },
+    {
+      "basename": "LANMP",
+      "path": "程序/网络安全/LANMP.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "总目录/Linux/Linux.md"
+    },
+    {
+      "basename": "centos",
+      "path": "总目录/Linux/centos.md"
+    },
+    {
+      "basename": "apache2常用命令",
+      "path": "程序/Linux笔记/kalilinux/apache2常用命令.md"
+    },
+    {
+      "basename": "echo命令",
+      "path": "程序/Linux笔记/centos/echo命令.md"
+    },
+    {
+      "basename": "centos命令",
+      "path": "程序/Linux笔记/centos/centos命令.md"
+    },
+    {
+      "basename": "linux查询ip命令",
+      "path": "程序/Linux笔记/linux查询ip命令.md"
+    },
+    {
+      "basename": "Linux常用命令",
+      "path": "程序/Linux笔记/Linux常用命令.md"
+    },
+    {
+      "basename": "Linux目录",
+      "path": "程序/Linux笔记/Linux目录.md"
+    },
+    {
+      "basename": "Linux中的普通用户和root用户的区别",
+      "path": "程序/Linux笔记/Linux中的普通用户和root用户的区别.md"
+    },
+    {
+      "basename": "Linux中的重定向符",
+      "path": "程序/Linux笔记/Linux中的重定向符.md"
+    },
+    {
+      "basename": "vm和虚拟机的关系，和linux的内存分布关系图，和目录结构",
+      "path": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
+    },
+    {
       "basename": "vue报错",
       "path": "总目录/报错合集/vue报错/vue报错.md"
+    },
+    {
+      "basename": "杂项报错",
+      "path": "总目录/报错合集/杂项报错.md"
+    },
+    {
+      "basename": "python中的remove方法",
+      "path": "程序/python笔记/序列/列表/python中的remove方法.md"
     },
     {
       "basename": "lazyvim安装使用空格s+g搜索报错解决方法",
@@ -51,18 +151,6 @@
     {
       "basename": "python字符串",
       "path": "总目录/python目录/python字符串.md"
-    },
-    {
-      "basename": "vm和虚拟机的关系，和linux的内存分布关系图，和目录结构",
-      "path": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
-    },
-    {
-      "basename": "centos命令",
-      "path": "程序/Linux笔记/centos/centos命令.md"
-    },
-    {
-      "basename": "echo命令",
-      "path": "程序/Linux笔记/centos/echo命令.md"
     },
     {
       "basename": "Linux中管道符的作用",
@@ -101,14 +189,6 @@
       "path": "总目录/javascript.md"
     },
     {
-      "basename": "three.js",
-      "path": "总目录/three.js.md"
-    },
-    {
-      "basename": "SQL Server数据库",
-      "path": "总目录/SQL Server数据库.md"
-    },
-    {
       "basename": "const scene = new THREE.Scene();是什么意思",
       "path": "程序/杂项笔记/three杂项/const scene = new THREE.Scene();是什么意思.md"
     },
@@ -119,62 +199,6 @@
     {
       "basename": "2023-11-16",
       "path": "寄/2023-11-16.md"
-    },
-    {
-      "basename": "2023-11-15",
-      "path": "寄/2023-11-15.md"
-    },
-    {
-      "basename": "寄根",
-      "path": "寄/寄根.md"
-    },
-    {
-      "basename": "模板",
-      "path": "总目录/模板.md"
-    },
-    {
-      "basename": "javascript 获取html元素",
-      "path": "程序/javascript/javascript 获取html元素.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "总目录/Linux/Linux.md"
-    },
-    {
-      "basename": "vim",
-      "path": "总目录/vim.md"
-    },
-    {
-      "basename": "centos",
-      "path": "总目录/Linux/centos.md"
-    },
-    {
-      "basename": "linux查询ip命令",
-      "path": "程序/Linux笔记/linux查询ip命令.md"
-    },
-    {
-      "basename": "灵感",
-      "path": "模板/灵感模板/灵感.md"
-    },
-    {
-      "basename": "javascript className",
-      "path": "程序/javascript/javascript className.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "模板/日记模板/日记模板.md"
-    },
-    {
-      "basename": "JavaScript-vue",
-      "path": "程序/html/html/JavaScript-vue.md"
-    },
-    {
-      "basename": "降头",
-      "path": "程序/降头.md"
-    },
-    {
-      "basename": "简户网站",
-      "path": "程序/社工/简户网站.md"
     }
   ],
   "omittedPaths": [],

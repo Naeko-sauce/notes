@@ -10,4 +10,5 @@
 [[Linux中的普通用户和root用户的区别]]
 [[Linux目录]]
 [[centos]]
+[[kalilinux软件常用命令]]
 

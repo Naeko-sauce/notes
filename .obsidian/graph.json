@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 61600
       }
+    },
+    {
+      "query": "path:程序/网络安全  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
     }
   ],
   "collapse-display": false,
@@ -95,6 +102,6 @@
   "repelStrength": 15.8854166666667,
   "linkStrength": 1,
   "linkDistance": 264,
-  "scale": 0.0889892578125,
-  "close": false
+  "scale": 0.06165877303407147,
+  "close": true
 }
