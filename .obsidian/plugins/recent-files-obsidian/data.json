@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "天干地支基础",
+      "path": "卦/天干地支基础.md"
+    },
+    {
+      "basename": "五行基础",
+      "path": "卦/五行基础.md"
+    },
+    {
+      "basename": "阴阳",
+      "path": "卦/阴阳.md"
+    },
+    {
+      "basename": "五行阴阳",
+      "path": "总目录/卦/五行阴阳.md"
+    },
+    {
+      "basename": "六爻",
+      "path": "总目录/卦/六爻.md"
+    },
+    {
+      "basename": "杂项报错",
+      "path": "总目录/报错合集/杂项报错.md"
+    },
+    {
+      "basename": "根",
+      "path": "总目录/根.md"
+    },
+    {
       "basename": "网络安全",
       "path": "总目录/网络安全/网络安全.md"
     },
@@ -35,10 +63,6 @@
     {
       "basename": "数字电子",
       "path": "总目录/数字电子.md"
-    },
-    {
-      "basename": "根",
-      "path": "总目录/根.md"
     },
     {
       "basename": "模板",
@@ -117,10 +141,6 @@
       "path": "总目录/报错合集/vue报错/vue报错.md"
     },
     {
-      "basename": "杂项报错",
-      "path": "总目录/报错合集/杂项报错.md"
-    },
-    {
       "basename": "python中的remove方法",
       "path": "程序/python笔记/序列/列表/python中的remove方法.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "vue",
       "path": "总目录/vue.md"
-    },
-    {
-      "basename": "three创建相机",
-      "path": "程序/杂项笔记/three杂项/three创建相机.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "总目录/javascript.md"
-    },
-    {
-      "basename": "const scene = new THREE.Scene();是什么意思",
-      "path": "程序/杂项笔记/three杂项/const scene = new THREE.Scene();是什么意思.md"
-    },
-    {
-      "basename": "three创建基本网状结构材料",
-      "path": "程序/three.js/three创建基本网状结构材料.md"
-    },
-    {
-      "basename": "2023-11-16",
-      "path": "寄/2023-11-16.md"
     }
   ],
   "omittedPaths": [],
