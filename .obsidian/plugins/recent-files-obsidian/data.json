@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "网络通信的基本流程",
+      "path": "程序/杂项笔记/网络通信的基本流程.md"
+    },
+    {
+      "basename": "vps和服务器的区别",
+      "path": "程序/杂项笔记/vps和服务器的区别.md"
+    },
+    {
+      "basename": "vm中的boot manager",
+      "path": "程序/杂项笔记/vm中的boot manager.md"
+    },
+    {
       "basename": "杂项",
       "path": "总目录/杂项/杂项.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "kalilinux软件常用命令",
       "path": "总目录/Linux/kalilinux软件常用命令.md"
-    },
-    {
-      "basename": "vps和服务器的区别",
-      "path": "程序/杂项笔记/vps和服务器的区别.md"
     },
     {
       "basename": "three创建一个立方体",
@@ -191,14 +199,6 @@
     {
       "basename": "Linux中管道符的作用",
       "path": "程序/Linux笔记/Linux中管道符的作用.md"
-    },
-    {
-      "basename": "three创建渲染器",
-      "path": "程序/杂项笔记/three杂项/three创建渲染器.md"
-    },
-    {
-      "basename": "vm中的boot manager",
-      "path": "程序/杂项笔记/vm中的boot manager.md"
     }
   ],
   "omittedPaths": [],

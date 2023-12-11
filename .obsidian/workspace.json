@@ -11,11 +11,26 @@
             "id": "b1ce4dfda3c6dc41",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程序/杂项笔记/vps和服务器的区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c5763a5b440f779",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "程序/杂项笔记/网络通信的基本流程.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程序/杂项笔记/网络通信的基本流程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程序/杂项笔记/网络通信的基本流程.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程序/杂项笔记/网络通信的基本流程.md"
+              }
             }
           },
           {
@@ -183,15 +202,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b1ce4dfda3c6dc41",
+  "active": "3c5763a5b440f779",
   "lastOpenFiles": [
+    "mod/computers.excalidrawlib",
+    "mod/未确认 455333.crdownload",
+    "mod/network-topology-icons.excalidrawlib",
+    "程序/杂项笔记/vps和服务器的区别.md",
+    "程序/杂项笔记/网络通信的基本流程.md",
+    "程序/杂项笔记/网络通信的基本过程.md",
+    "程序/杂项笔记/vm中的boot manager.md",
     "总目录/杂项/杂项.md",
     "总目录/杂项/three杂项.md",
     "总目录/卦/五行阴阳.md",
     "总目录/网络安全/网络安全.md",
     "总目录/Linux/centos.md",
     "总目录/Linux/kalilinux软件常用命令.md",
-    "程序/杂项笔记/vps和服务器的区别.md",
     "程序/three.js/three创建一个立方体.md",
     "总目录/three.js.md",
     "卦/天干地支基础.md",
@@ -209,20 +234,14 @@
     "总目录/vim.md",
     "总目录/SQL Server数据库.md",
     "总目录/数字电子.md",
-    "总目录/模板.md",
-    "总目录/vue项目xm笔记/vue项目笔记.md",
-    "程序/网络安全/kali卸载LAMP环境.md",
-    "程序/网络安全/kali安装lamp环境.md",
     "程序/Linux笔记/kalilinux",
     "总目录/网络安全",
     "程序/网络安全",
     "总目录/报错合集/neovim",
     "程序/报错合集/neovim",
     "程序/three.js",
-    "程序/杂项笔记/three杂项",
     "Pasted Image 20231115212918.jpeg",
     "寄/未命名.canvas",
-    "程序/javascript",
     "未命名.canvas",
     "数字电子/未命名.canvas",
     "未命名 1.canvas",
