@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "杂项",
+      "path": "总目录/杂项/杂项.md"
+    },
+    {
+      "basename": "three杂项",
+      "path": "总目录/杂项/three杂项.md"
+    },
+    {
+      "basename": "五行阴阳",
+      "path": "总目录/卦/五行阴阳.md"
+    },
+    {
+      "basename": "网络安全",
+      "path": "总目录/网络安全/网络安全.md"
+    },
+    {
+      "basename": "centos",
+      "path": "总目录/Linux/centos.md"
+    },
+    {
+      "basename": "kalilinux软件常用命令",
+      "path": "总目录/Linux/kalilinux软件常用命令.md"
+    },
+    {
+      "basename": "vps和服务器的区别",
+      "path": "程序/杂项笔记/vps和服务器的区别.md"
+    },
+    {
+      "basename": "three创建一个立方体",
+      "path": "程序/three.js/three创建一个立方体.md"
+    },
+    {
+      "basename": "three.js",
+      "path": "总目录/three.js.md"
+    },
+    {
       "basename": "天干地支基础",
       "path": "卦/天干地支基础.md"
     },
@@ -13,10 +49,6 @@
       "path": "卦/阴阳.md"
     },
     {
-      "basename": "五行阴阳",
-      "path": "总目录/卦/五行阴阳.md"
-    },
-    {
       "basename": "六爻",
       "path": "总目录/卦/六爻.md"
     },
@@ -27,10 +59,6 @@
     {
       "basename": "根",
       "path": "总目录/根.md"
-    },
-    {
-      "basename": "网络安全",
-      "path": "总目录/网络安全/网络安全.md"
     },
     {
       "basename": "使用LAMP部署DVWA",
@@ -53,10 +81,6 @@
       "path": "总目录/vim.md"
     },
     {
-      "basename": "three.js",
-      "path": "总目录/three.js.md"
-    },
-    {
       "basename": "SQL Server数据库",
       "path": "总目录/SQL Server数据库.md"
     },
@@ -71,10 +95,6 @@
     {
       "basename": "vue项目笔记",
       "path": "总目录/vue项目xm笔记/vue项目笔记.md"
-    },
-    {
-      "basename": "kalilinux软件常用命令",
-      "path": "总目录/Linux/kalilinux软件常用命令.md"
     },
     {
       "basename": "kali卸载LAMP环境",
@@ -95,10 +115,6 @@
     {
       "basename": "Linux",
       "path": "总目录/Linux/Linux.md"
-    },
-    {
-      "basename": "centos",
-      "path": "总目录/Linux/centos.md"
     },
     {
       "basename": "apache2常用命令",
@@ -177,28 +193,12 @@
       "path": "程序/Linux笔记/Linux中管道符的作用.md"
     },
     {
-      "basename": "three创建一个立方体",
-      "path": "程序/three.js/three创建一个立方体.md"
-    },
-    {
-      "basename": "杂项",
-      "path": "总目录/杂项/杂项.md"
-    },
-    {
-      "basename": "three杂项",
-      "path": "总目录/杂项/three杂项.md"
-    },
-    {
       "basename": "three创建渲染器",
       "path": "程序/杂项笔记/three杂项/three创建渲染器.md"
     },
     {
       "basename": "vm中的boot manager",
       "path": "程序/杂项笔记/vm中的boot manager.md"
-    },
-    {
-      "basename": "vue",
-      "path": "总目录/vue.md"
     }
   ],
   "omittedPaths": [],
