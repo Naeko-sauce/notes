@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "透视相机",
+      "path": "程序/three.js/透视相机.md"
+    },
+    {
+      "basename": "three锥形相机",
+      "path": "程序/three.js/three锥形相机.md"
+    },
+    {
+      "basename": "three创建一个立方体",
+      "path": "程序/three.js/three创建一个立方体.md"
+    },
+    {
+      "basename": "three创建基本网状结构材料",
+      "path": "程序/three.js/three创建基本网状结构材料.md"
+    },
+    {
+      "basename": "const scene = new THREE.Scene();是什么意思",
+      "path": "程序/杂项笔记/three杂项/const scene = new THREE.Scene();是什么意思.md"
+    },
+    {
       "basename": "网络通信的基本流程",
       "path": "程序/杂项笔记/网络通信的基本流程.md"
     },
@@ -35,10 +55,6 @@
     {
       "basename": "kalilinux软件常用命令",
       "path": "总目录/Linux/kalilinux软件常用命令.md"
-    },
-    {
-      "basename": "three创建一个立方体",
-      "path": "程序/three.js/three创建一个立方体.md"
     },
     {
       "basename": "three.js",
@@ -183,22 +199,6 @@
     {
       "basename": "python",
       "path": "总目录/python目录/python.md"
-    },
-    {
-      "basename": "python画笔turtle的一些常用方法",
-      "path": "程序/python笔记/python画笔turtle的一些常用方法.md"
-    },
-    {
-      "basename": "python中del用法",
-      "path": "程序/python笔记/序列/列表/python中del用法.md"
-    },
-    {
-      "basename": "python字符串",
-      "path": "总目录/python目录/python字符串.md"
-    },
-    {
-      "basename": "Linux中管道符的作用",
-      "path": "程序/Linux笔记/Linux中管道符的作用.md"
     }
   ],
   "omittedPaths": [],
