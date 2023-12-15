@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "three.js",
+      "path": "总目录/three.js.md"
+    },
+    {
+      "basename": "three创建坐标辅助器",
+      "path": "程序/three.js/three创建坐标辅助器.md"
+    },
+    {
+      "basename": "three创建渲染器",
+      "path": "程序/杂项笔记/three杂项/three创建渲染器.md"
+    },
+    {
+      "basename": "three创建相机",
+      "path": "程序/杂项笔记/three杂项/three创建相机.md"
+    },
+    {
+      "basename": "const scene = new THREE.Scene();是什么意思",
+      "path": "程序/杂项笔记/three杂项/const scene = new THREE.Scene();是什么意思.md"
+    },
+    {
       "basename": "杂项报错",
       "path": "总目录/报错合集/杂项报错.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "lazyvim安装使用空格s+g搜索报错解决方法",
       "path": "程序/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md"
-    },
-    {
-      "basename": "three.js",
-      "path": "总目录/three.js.md"
     },
     {
       "basename": "模板",
@@ -51,10 +67,6 @@
     {
       "basename": "three创建基本网状结构材料",
       "path": "程序/three.js/three创建基本网状结构材料.md"
-    },
-    {
-      "basename": "const scene = new THREE.Scene();是什么意思",
-      "path": "程序/杂项笔记/three杂项/const scene = new THREE.Scene();是什么意思.md"
     },
     {
       "basename": "网络通信的基本流程",
@@ -187,18 +199,6 @@
     {
       "basename": "Linux中的重定向符",
       "path": "程序/Linux笔记/Linux中的重定向符.md"
-    },
-    {
-      "basename": "vm和虚拟机的关系，和linux的内存分布关系图，和目录结构",
-      "path": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
-    },
-    {
-      "basename": "python中的remove方法",
-      "path": "程序/python笔记/序列/列表/python中的remove方法.md"
-    },
-    {
-      "basename": "python中的pop方法",
-      "path": "程序/python笔记/序列/列表/python中的pop方法.md"
     }
   ],
   "omittedPaths": [],
