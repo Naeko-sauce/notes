@@ -5,6 +5,22 @@
       "path": "总目录/three.js.md"
     },
     {
+      "basename": "SQL Server数据库",
+      "path": "总目录/SQL Server数据库.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "总目录/javascript.md"
+    },
+    {
+      "basename": "C Sharp",
+      "path": "总目录/C Sharp.md"
+    },
+    {
+      "basename": "three循环渲染",
+      "path": "程序/three.js/three循环渲染.md"
+    },
+    {
       "basename": "three创建坐标辅助器",
       "path": "程序/three.js/three创建坐标辅助器.md"
     },
@@ -137,10 +153,6 @@
       "path": "总目录/vim.md"
     },
     {
-      "basename": "SQL Server数据库",
-      "path": "总目录/SQL Server数据库.md"
-    },
-    {
       "basename": "数字电子",
       "path": "总目录/数字电子.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Linux常用命令",
       "path": "程序/Linux笔记/Linux常用命令.md"
-    },
-    {
-      "basename": "Linux目录",
-      "path": "程序/Linux笔记/Linux目录.md"
-    },
-    {
-      "basename": "Linux中的普通用户和root用户的区别",
-      "path": "程序/Linux笔记/Linux中的普通用户和root用户的区别.md"
-    },
-    {
-      "basename": "Linux中的重定向符",
-      "path": "程序/Linux笔记/Linux中的重定向符.md"
     }
   ],
   "omittedPaths": [],
