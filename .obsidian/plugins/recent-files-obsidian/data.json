@@ -1,32 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "three.js",
-      "path": "总目录/three.js.md"
+      "basename": "three控制物体匀速移动",
+      "path": "程序/three.js/three控制物体匀速移动.md"
     },
     {
-      "basename": "php",
-      "path": "总目录/php.md"
+      "basename": "three轨道控制器",
+      "path": "程序/three.js/three轨道控制器.md"
     },
     {
       "basename": "three旋转与缩放",
       "path": "程序/three.js/three旋转与缩放.md"
     },
     {
-      "basename": "透视相机",
-      "path": "程序/three.js/透视相机.md"
+      "basename": "three循环渲染",
+      "path": "程序/three.js/three循环渲染.md"
     },
     {
       "basename": "three创建基本网状结构材料",
       "path": "程序/three.js/three创建基本网状结构材料.md"
     },
     {
-      "basename": "three循环渲染",
-      "path": "程序/three.js/three循环渲染.md"
+      "basename": "透视相机",
+      "path": "程序/three.js/透视相机.md"
     },
     {
-      "basename": "three轨道控制器",
-      "path": "程序/three.js/three轨道控制器.md"
+      "basename": "archlinux挂载报错",
+      "path": "程序/报错合集/linux报错/archlinux挂载报错.md"
+    },
+    {
+      "basename": "lazyvim安装使用空格s+g搜索报错解决方法",
+      "path": "程序/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md"
+    },
+    {
+      "basename": "vue用pnpm i下载资源时报错",
+      "path": "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md"
+    },
+    {
+      "basename": "简户思路",
+      "path": "程序/社工/简户思路.md"
+    },
+    {
+      "basename": "简户网站",
+      "path": "程序/社工/简户网站.md"
+    },
+    {
+      "basename": "社工思路有手机号查询半成品姓名",
+      "path": "程序/社工/社工思路有手机号查询半成品姓名.md"
+    },
+    {
+      "basename": "社工网站",
+      "path": "程序/社工/社工网站.md"
+    },
+    {
+      "basename": "非运算",
+      "path": "程序/数字电子/非运算.md"
+    },
+    {
+      "basename": "逻辑或非",
+      "path": "程序/数字电子/逻辑或非.md"
+    },
+    {
+      "basename": "逻辑或运算",
+      "path": "程序/数字电子/逻辑或运算.md"
+    },
+    {
+      "basename": "逻辑异或",
+      "path": "程序/数字电子/逻辑异或.md"
+    },
+    {
+      "basename": "同或",
+      "path": "程序/数字电子/同或.md"
+    },
+    {
+      "basename": "与运算",
+      "path": "程序/数字电子/与运算.md"
+    },
+    {
+      "basename": "网络通信的基本流程",
+      "path": "程序/杂项笔记/网络通信的基本流程.md"
+    },
+    {
+      "basename": "vm中的boot manager",
+      "path": "程序/杂项笔记/vm中的boot manager.md"
+    },
+    {
+      "basename": "Linux目录",
+      "path": "程序/Linux笔记/Linux目录.md"
+    },
+    {
+      "basename": "linux查询ip命令",
+      "path": "程序/Linux笔记/linux查询ip命令.md"
+    },
+    {
+      "basename": "apache2常用命令",
+      "path": "程序/Linux笔记/kalilinux/apache2常用命令.md"
+    },
+    {
+      "basename": "Linux中的重定向符",
+      "path": "程序/Linux笔记/Linux中的重定向符.md"
+    },
+    {
+      "basename": "three创建渲染器",
+      "path": "程序/杂项笔记/three杂项/three创建渲染器.md"
+    },
+    {
+      "basename": "three杂项",
+      "path": "总目录/杂项/three杂项.md"
+    },
+    {
+      "basename": "three.js",
+      "path": "总目录/three.js.md"
+    },
+    {
+      "basename": "php",
+      "path": "总目录/php.md"
     },
     {
       "basename": "three创建一个立方体",
@@ -49,10 +137,6 @@
       "path": "程序/three.js/three创建坐标辅助器.md"
     },
     {
-      "basename": "three创建渲染器",
-      "path": "程序/杂项笔记/three杂项/three创建渲染器.md"
-    },
-    {
       "basename": "three创建相机",
       "path": "程序/杂项笔记/three杂项/three创建相机.md"
     },
@@ -73,14 +157,6 @@
       "path": "总目录/报错合集/vue报错/vue报错.md"
     },
     {
-      "basename": "archlinux挂载报错",
-      "path": "程序/报错合集/linux报错/archlinux挂载报错.md"
-    },
-    {
-      "basename": "lazyvim安装使用空格s+g搜索报错解决方法",
-      "path": "程序/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md"
-    },
-    {
       "basename": "模板",
       "path": "总目录/模板.md"
     },
@@ -93,24 +169,12 @@
       "path": "程序/three.js/three锥形相机.md"
     },
     {
-      "basename": "网络通信的基本流程",
-      "path": "程序/杂项笔记/网络通信的基本流程.md"
-    },
-    {
       "basename": "vps和服务器的区别",
       "path": "程序/杂项笔记/vps和服务器的区别.md"
     },
     {
-      "basename": "vm中的boot manager",
-      "path": "程序/杂项笔记/vm中的boot manager.md"
-    },
-    {
       "basename": "杂项",
       "path": "总目录/杂项/杂项.md"
-    },
-    {
-      "basename": "three杂项",
-      "path": "总目录/杂项/three杂项.md"
     },
     {
       "basename": "五行阴阳",
@@ -135,70 +199,6 @@
     {
       "basename": "五行基础",
       "path": "卦/五行基础.md"
-    },
-    {
-      "basename": "阴阳",
-      "path": "卦/阴阳.md"
-    },
-    {
-      "basename": "六爻",
-      "path": "总目录/卦/六爻.md"
-    },
-    {
-      "basename": "使用LAMP部署DVWA",
-      "path": "程序/网络安全/使用LAMP部署DVWA.md"
-    },
-    {
-      "basename": "安卓逆向",
-      "path": "总目录/安卓逆向.md"
-    },
-    {
-      "basename": "社工",
-      "path": "总目录/社工.md"
-    },
-    {
-      "basename": "vim",
-      "path": "总目录/vim.md"
-    },
-    {
-      "basename": "数字电子",
-      "path": "总目录/数字电子.md"
-    },
-    {
-      "basename": "vue项目笔记",
-      "path": "总目录/vue项目xm笔记/vue项目笔记.md"
-    },
-    {
-      "basename": "kali卸载LAMP环境",
-      "path": "程序/网络安全/kali卸载LAMP环境.md"
-    },
-    {
-      "basename": "kali安装lamp环境",
-      "path": "程序/网络安全/kali安装lamp环境.md"
-    },
-    {
-      "basename": "LAMP和LANMP的区别",
-      "path": "程序/网络安全/LAMP和LANMP的区别.md"
-    },
-    {
-      "basename": "LANMP",
-      "path": "程序/网络安全/LANMP.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "总目录/Linux/Linux.md"
-    },
-    {
-      "basename": "apache2常用命令",
-      "path": "程序/Linux笔记/kalilinux/apache2常用命令.md"
-    },
-    {
-      "basename": "echo命令",
-      "path": "程序/Linux笔记/centos/echo命令.md"
-    },
-    {
-      "basename": "centos命令",
-      "path": "程序/Linux笔记/centos/centos命令.md"
     }
   ],
   "omittedPaths": [],

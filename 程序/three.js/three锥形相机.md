@@ -2032,8 +2032,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 95,
-			"versionNonce": 2037334916,
+			"version": 96,
+			"versionNonce": 422469081,
 			"isDeleted": false,
 			"id": "vjXmqxQT",
 			"fillStyle": "hachure",
@@ -2053,7 +2053,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702649560909,
+			"updated": 1702737707821,
 			"link": "[[透视相机]]",
 			"locked": false,
 			"fontSize": 20,
@@ -2083,10 +2083,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 186.41081593927893,
-		"scrollY": 275.31075071157494,
+		"scrollX": 182.96323529411765,
+		"scrollY": 276.27849264705884,
 		"zoom": {
-			"value": 1.55
+			"value": 1.6
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
