@@ -37,7 +37,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "程序/three.js/three锥形相机.md"
+                "file": "程序/杂项笔记/网络通信的基本流程.md"
               }
             }
           },
@@ -45,16 +45,12 @@
             "id": "bdee703fe5f5c8ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程序/three.js/three控制物体匀速移动.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#灵感",
+                "query": "网络通信",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/three.js/three控制物体匀速移动.md",
+                "file": "程序/杂项笔记/网络通信的基本流程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/three.js/three控制物体匀速移动.md",
+                "file": "程序/杂项笔记/网络通信的基本流程.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/three.js/three控制物体匀速移动.md"
+                "file": "程序/杂项笔记/网络通信的基本流程.md"
               }
             }
           },
@@ -208,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,10 +223,26 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "bdee703fe5f5c8ec",
+  "active": "26f0241e6af06cda",
   "lastOpenFiles": [
-    "程序/three.js/three轨道控制器.md",
+    "程序/杂项笔记/网络通信的基本流程.png",
+    "程序/three.js/three锥形相机.md",
+    "程序/杂项笔记/vps和服务器的区别.md",
+    "总目录/杂项/杂项.md",
+    "程序/杂项笔记/网络通信的基本流程.md",
+    "总目录/C Sharp.md",
+    "总目录/卦/梅花易数.md",
+    "总目录/卦/五行阴阳.md",
+    "总目录/网络安全/网络安全.md",
+    "卦/天干地支基础.md",
+    "总目录/报错合集/杂项报错.md",
+    "总目录/报错合集/vue报错/vue报错.md",
+    "总目录/报错合集/neovim/neovim报错.md",
+    "总目录/根.md",
+    "程序/社工/社工思路有手机号查询半成品姓名.md",
+    "程序/社工/简户网站.md",
     "程序/three.js/three控制物体匀速移动.md",
+    "程序/three.js/three轨道控制器.md",
     "程序/three.js/three旋转与缩放.md",
     "程序/three.js/three循环渲染.md",
     "程序/three.js/three创建基本网状结构材料.md",
@@ -238,22 +251,6 @@
     "程序/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md",
     "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md",
     "程序/社工/简户思路.md",
-    "程序/社工/简户网站.md",
-    "程序/社工/社工思路有手机号查询半成品姓名.md",
-    "程序/社工/社工网站.md",
-    "程序/数字电子/非运算.md",
-    "程序/数字电子/逻辑或非.md",
-    "程序/数字电子/逻辑或运算.md",
-    "程序/数字电子/逻辑异或.md",
-    "程序/数字电子/同或.md",
-    "程序/数字电子/与运算.md",
-    "程序/杂项笔记/网络通信的基本流程.md",
-    "程序/杂项笔记/vm中的boot manager.md",
-    "程序/Linux笔记/Linux目录.md",
-    "程序/Linux笔记/linux查询ip命令.md",
-    "程序/Linux笔记/kalilinux/apache2常用命令.md",
-    "程序/Linux笔记/Linux中的重定向符.md",
-    "程序/杂项笔记/three杂项/three创建渲染器.md",
     "程序/报错合集/linux报错",
     "mod/computers.excalidrawlib",
     "mod/未确认 455333.crdownload",
