@@ -35,8 +35,12 @@
             "id": "26f0241e6af06cda",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "总目录/three.js.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "总目录/three.js.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "总目录/three.js.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "总目录/three.js.md"
+              }
             }
           },
           {
@@ -219,10 +227,15 @@
   },
   "active": "26f0241e6af06cda",
   "lastOpenFiles": [
+    "程序/three.js/three控制物体匀速移动.md",
     "总目录/three.js.md",
-    "总目录/SQL Server数据库.md",
-    "程序/three.js/three追踪时间.md",
+    "总目录/杂项/three杂项.md",
+    "程序/three.js/使用gsap移动.md",
     "程序/three.js/three轨道控制器.md",
+    "程序/three.js/three创建一个立方体.md",
+    "程序/杂项笔记/three杂项/gsap javascript库.md",
+    "程序/three.js/three追踪时间.md",
+    "总目录/SQL Server数据库.md",
     "程序/杂项笔记/网络通信的基本流程.md",
     "程序/杂项笔记/网络通信的基本流程.png",
     "程序/three.js/three锥形相机.md",
@@ -239,13 +252,8 @@
     "总目录/根.md",
     "程序/社工/社工思路有手机号查询半成品姓名.md",
     "程序/社工/简户网站.md",
-    "程序/three.js/three控制物体匀速移动.md",
     "程序/three.js/three旋转与缩放.md",
     "程序/three.js/three循环渲染.md",
-    "程序/three.js/three创建基本网状结构材料.md",
-    "程序/three.js/透视相机.md",
-    "程序/报错合集/linux报错/archlinux挂载报错.md",
-    "程序/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md",
     "程序/报错合集/linux报错",
     "mod/computers.excalidrawlib",
     "mod/未确认 455333.crdownload",
