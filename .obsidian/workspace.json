@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总目录/three.js.md",
+                "file": "总目录/杂项/three杂项.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总目录/three.js.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总目录/three.js.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "总目录/three.js.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,11 +221,16 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "26f0241e6af06cda",
+  "active": "bdee703fe5f5c8ec",
   "lastOpenFiles": [
-    "程序/three.js/three控制物体匀速移动.md",
-    "总目录/three.js.md",
     "总目录/杂项/three杂项.md",
+    "总目录/vue项目xm笔记/vue项目笔记.md",
+    "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md",
+    "卦/天干地支基础.md",
+    "卦/五行基础.md",
+    "卦/阴阳.md",
+    "总目录/three.js.md",
+    "程序/three.js/three控制物体匀速移动.md",
     "程序/three.js/使用gsap移动.md",
     "程序/three.js/three轨道控制器.md",
     "程序/three.js/three创建一个立方体.md",
@@ -245,15 +246,10 @@
     "总目录/卦/梅花易数.md",
     "总目录/卦/五行阴阳.md",
     "总目录/网络安全/网络安全.md",
-    "卦/天干地支基础.md",
     "总目录/报错合集/杂项报错.md",
     "总目录/报错合集/vue报错/vue报错.md",
     "总目录/报错合集/neovim/neovim报错.md",
     "总目录/根.md",
-    "程序/社工/社工思路有手机号查询半成品姓名.md",
-    "程序/社工/简户网站.md",
-    "程序/three.js/three旋转与缩放.md",
-    "程序/three.js/three循环渲染.md",
     "程序/报错合集/linux报错",
     "mod/computers.excalidrawlib",
     "mod/未确认 455333.crdownload",
