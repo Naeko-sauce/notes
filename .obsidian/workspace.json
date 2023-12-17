@@ -47,8 +47,10 @@
             "id": "bdee703fe5f5c8ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "程序/杂项笔记/网络通信的基本流程.md"
+              }
             }
           }
         ],
@@ -134,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程序/杂项笔记/网络通信的基本流程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程序/杂项笔记/网络通信的基本流程.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程序/杂项笔记/网络通信的基本流程.md"
+              }
             }
           },
           {
@@ -223,6 +229,9 @@
   },
   "active": "bdee703fe5f5c8ec",
   "lastOpenFiles": [
+    "程序/杂项笔记/vm中的boot manager.md",
+    "程序/杂项笔记/vps和服务器的区别.md",
+    "程序/杂项笔记/网络通信的基本流程.png",
     "总目录/杂项/three杂项.md",
     "总目录/vue项目xm笔记/vue项目笔记.md",
     "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md",
@@ -238,9 +247,7 @@
     "程序/three.js/three追踪时间.md",
     "总目录/SQL Server数据库.md",
     "程序/杂项笔记/网络通信的基本流程.md",
-    "程序/杂项笔记/网络通信的基本流程.png",
     "程序/three.js/three锥形相机.md",
-    "程序/杂项笔记/vps和服务器的区别.md",
     "总目录/杂项/杂项.md",
     "总目录/C Sharp.md",
     "总目录/卦/梅花易数.md",
@@ -249,7 +256,6 @@
     "总目录/报错合集/杂项报错.md",
     "总目录/报错合集/vue报错/vue报错.md",
     "总目录/报错合集/neovim/neovim报错.md",
-    "总目录/根.md",
     "程序/报错合集/linux报错",
     "mod/computers.excalidrawlib",
     "mod/未确认 455333.crdownload",
