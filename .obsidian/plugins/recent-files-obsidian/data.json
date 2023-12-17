@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "three轨道控制器",
+      "path": "程序/three.js/three轨道控制器.md"
+    },
+    {
+      "basename": "three追踪时间",
+      "path": "程序/three.js/three追踪时间.md"
+    },
+    {
       "basename": "网络通信的基本流程",
       "path": "程序/杂项笔记/网络通信的基本流程.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "three控制物体匀速移动",
       "path": "程序/three.js/three控制物体匀速移动.md"
-    },
-    {
-      "basename": "three轨道控制器",
-      "path": "程序/three.js/three轨道控制器.md"
     },
     {
       "basename": "three旋转与缩放",
@@ -195,10 +199,6 @@
     {
       "basename": "centos",
       "path": "总目录/Linux/centos.md"
-    },
-    {
-      "basename": "kalilinux软件常用命令",
-      "path": "总目录/Linux/kalilinux软件常用命令.md"
     }
   ],
   "omittedPaths": [],
