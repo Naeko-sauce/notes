@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/three.js/使用gsap移动.md",
+                "file": "程序/python笔记/python转义符.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/three.js/使用gsap移动.md",
+                "file": "程序/python笔记/python转义符.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/three.js/使用gsap移动.md",
+                "file": "程序/python笔记/python转义符.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/three.js/使用gsap移动.md"
+                "file": "程序/python笔记/python转义符.md"
               }
             }
           },
@@ -217,8 +217,21 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "dfa7fea05f59ea05",
+  "active": "26f0241e6af06cda",
   "lastOpenFiles": [
+    "程序/python笔记/python逻辑运算符.md",
+    "程序/python笔记/python数据类型.md",
+    "程序/python笔记/python转义符.md",
+    "总目录/three.js.md",
+    "程序/three.js/three和gsap动画代码常用.md",
+    "程序/three.js/three点击暂停动画.md",
+    "总目录/安卓逆向.md",
+    "总目录/vue项目xm笔记/vue项目笔记.md",
+    "程序/three.js/gsap设置动画延迟开始.md",
+    "总目录/社工.md",
+    "程序/three.js/gsap设置动画往返运动.md",
+    "程序/three.js/gsap设置循环.md",
+    "程序/three.js/使用gsap移动.md",
     "程序/three.js/three旋转与缩放.md",
     "程序/杂项笔记/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md",
     "程序/杂项笔记/http代理详细解释.md",
@@ -232,20 +245,7 @@
     "程序/杂项笔记/GFW防火墙是怎么拦截外网.md",
     "程序/数字电子/与运算.md",
     "程序/Linux笔记/Linux目录.md",
-    "总目录/杂项/three杂项.md",
     "程序/杂项笔记/网络通信的基本流程.png",
-    "程序/杂项笔记/vm中的boot manager.md",
-    "程序/杂项笔记/vps和服务器的区别.md",
-    "总目录/vue项目xm笔记/vue项目笔记.md",
-    "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md",
-    "卦/天干地支基础.md",
-    "卦/五行基础.md",
-    "卦/阴阳.md",
-    "总目录/three.js.md",
-    "程序/three.js/three控制物体匀速移动.md",
-    "程序/three.js/使用gsap移动.md",
-    "程序/three.js/three轨道控制器.md",
-    "程序/three.js/three创建一个立方体.md",
     "程序/报错合集/linux报错",
     "mod/computers.excalidrawlib",
     "mod/未确认 455333.crdownload",

@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "python转义符",
+      "path": "程序/python笔记/python转义符.md"
+    },
+    {
+      "basename": "python逻辑运算符",
+      "path": "程序/python笔记/python逻辑运算符.md"
+    },
+    {
+      "basename": "python数据类型",
+      "path": "程序/python笔记/python数据类型.md"
+    },
+    {
+      "basename": "three.js",
+      "path": "总目录/three.js.md"
+    },
+    {
+      "basename": "three和gsap动画代码常用",
+      "path": "程序/three.js/three和gsap动画代码常用.md"
+    },
+    {
+      "basename": "three点击暂停动画",
+      "path": "程序/three.js/three点击暂停动画.md"
+    },
+    {
+      "basename": "安卓逆向",
+      "path": "总目录/安卓逆向.md"
+    },
+    {
+      "basename": "vue项目笔记",
+      "path": "总目录/vue项目xm笔记/vue项目笔记.md"
+    },
+    {
+      "basename": "gsap设置动画延迟开始",
+      "path": "程序/three.js/gsap设置动画延迟开始.md"
+    },
+    {
+      "basename": "社工",
+      "path": "总目录/社工.md"
+    },
+    {
+      "basename": "gsap设置动画往返运动",
+      "path": "程序/three.js/gsap设置动画往返运动.md"
+    },
+    {
+      "basename": "gsap设置循环",
+      "path": "程序/three.js/gsap设置循环.md"
+    },
+    {
       "basename": "使用gsap移动",
       "path": "程序/three.js/使用gsap移动.md"
     },
@@ -69,10 +117,6 @@
       "path": "程序/杂项笔记/vps和服务器的区别.md"
     },
     {
-      "basename": "vue项目笔记",
-      "path": "总目录/vue项目xm笔记/vue项目笔记.md"
-    },
-    {
       "basename": "three旋转为什么要用圆周率",
       "path": "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md"
     },
@@ -87,10 +131,6 @@
     {
       "basename": "阴阳",
       "path": "卦/阴阳.md"
-    },
-    {
-      "basename": "three.js",
-      "path": "总目录/three.js.md"
     },
     {
       "basename": "three控制物体匀速移动",
@@ -159,46 +199,6 @@
     {
       "basename": "three循环渲染",
       "path": "程序/three.js/three循环渲染.md"
-    },
-    {
-      "basename": "three创建基本网状结构材料",
-      "path": "程序/three.js/three创建基本网状结构材料.md"
-    },
-    {
-      "basename": "透视相机",
-      "path": "程序/three.js/透视相机.md"
-    },
-    {
-      "basename": "archlinux挂载报错",
-      "path": "程序/报错合集/linux报错/archlinux挂载报错.md"
-    },
-    {
-      "basename": "lazyvim安装使用空格s+g搜索报错解决方法",
-      "path": "程序/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md"
-    },
-    {
-      "basename": "vue用pnpm i下载资源时报错",
-      "path": "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md"
-    },
-    {
-      "basename": "简户思路",
-      "path": "程序/社工/简户思路.md"
-    },
-    {
-      "basename": "社工网站",
-      "path": "程序/社工/社工网站.md"
-    },
-    {
-      "basename": "非运算",
-      "path": "程序/数字电子/非运算.md"
-    },
-    {
-      "basename": "逻辑或非",
-      "path": "程序/数字电子/逻辑或非.md"
-    },
-    {
-      "basename": "逻辑或运算",
-      "path": "程序/数字电子/逻辑或运算.md"
     }
   ],
   "omittedPaths": [],
