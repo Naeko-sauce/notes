@@ -35,9 +35,11 @@
             "id": "26f0241e6af06cda",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "程序/杂项笔记/网络通信的基本流程.md"
+                "file": "程序/three.js/使用gsap移动.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/杂项笔记/网络通信的基本流程.md",
+                "file": "程序/three.js/使用gsap移动.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/杂项笔记/网络通信的基本流程.md",
+                "file": "程序/three.js/使用gsap移动.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/杂项笔记/网络通信的基本流程.md"
+                "file": "程序/three.js/使用gsap移动.md"
               }
             }
           },
@@ -215,13 +217,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "26f0241e6af06cda",
+  "active": "dfa7fea05f59ea05",
   "lastOpenFiles": [
-    "总目录/杂项/three杂项.md",
+    "程序/three.js/three旋转与缩放.md",
+    "程序/杂项笔记/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md",
+    "程序/杂项笔记/http代理详细解释.md",
+    "程序/杂项笔记/HTTP，TCP，UDP.md",
+    "总目录/网络安全/网络安全.md",
+    "总目录/杂项/杂项.md",
+    "程序/杂项笔记/socks5代理详细解释.md",
+    "程序/杂项笔记/各种代理.md",
+    "程序/杂项笔记/DNS污染.md",
     "程序/杂项笔记/网络通信的基本流程.md",
+    "程序/杂项笔记/GFW防火墙是怎么拦截外网.md",
+    "程序/数字电子/与运算.md",
+    "程序/Linux笔记/Linux目录.md",
+    "总目录/杂项/three杂项.md",
+    "程序/杂项笔记/网络通信的基本流程.png",
     "程序/杂项笔记/vm中的boot manager.md",
     "程序/杂项笔记/vps和服务器的区别.md",
-    "程序/杂项笔记/网络通信的基本流程.png",
     "总目录/vue项目xm笔记/vue项目笔记.md",
     "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md",
     "卦/天干地支基础.md",
@@ -232,18 +246,6 @@
     "程序/three.js/使用gsap移动.md",
     "程序/three.js/three轨道控制器.md",
     "程序/three.js/three创建一个立方体.md",
-    "程序/杂项笔记/three杂项/gsap javascript库.md",
-    "程序/three.js/three追踪时间.md",
-    "总目录/SQL Server数据库.md",
-    "程序/three.js/three锥形相机.md",
-    "总目录/杂项/杂项.md",
-    "总目录/C Sharp.md",
-    "总目录/卦/梅花易数.md",
-    "总目录/卦/五行阴阳.md",
-    "总目录/网络安全/网络安全.md",
-    "总目录/报错合集/杂项报错.md",
-    "总目录/报错合集/vue报错/vue报错.md",
-    "总目录/报错合集/neovim/neovim报错.md",
     "程序/报错合集/linux报错",
     "mod/computers.excalidrawlib",
     "mod/未确认 455333.crdownload",

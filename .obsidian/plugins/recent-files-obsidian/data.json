@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "使用gsap移动",
+      "path": "程序/three.js/使用gsap移动.md"
+    },
+    {
+      "basename": "three旋转与缩放",
+      "path": "程序/three.js/three旋转与缩放.md"
+    },
+    {
+      "basename": "http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单",
+      "path": "程序/杂项笔记/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md"
+    },
+    {
+      "basename": "http代理详细解释",
+      "path": "程序/杂项笔记/http代理详细解释.md"
+    },
+    {
+      "basename": "HTTP，TCP，UDP",
+      "path": "程序/杂项笔记/HTTP，TCP，UDP.md"
+    },
+    {
+      "basename": "网络安全",
+      "path": "总目录/网络安全/网络安全.md"
+    },
+    {
+      "basename": "杂项",
+      "path": "总目录/杂项/杂项.md"
+    },
+    {
+      "basename": "socks5代理详细解释",
+      "path": "程序/杂项笔记/socks5代理详细解释.md"
+    },
+    {
+      "basename": "各种代理",
+      "path": "程序/杂项笔记/各种代理.md"
+    },
+    {
+      "basename": "DNS污染",
+      "path": "程序/杂项笔记/DNS污染.md"
+    },
+    {
       "basename": "网络通信的基本流程",
       "path": "程序/杂项笔记/网络通信的基本流程.md"
+    },
+    {
+      "basename": "GFW防火墙是怎么拦截外网",
+      "path": "程序/杂项笔记/GFW防火墙是怎么拦截外网.md"
+    },
+    {
+      "basename": "与运算",
+      "path": "程序/数字电子/与运算.md"
+    },
+    {
+      "basename": "Linux目录",
+      "path": "程序/Linux笔记/Linux目录.md"
     },
     {
       "basename": "three杂项",
@@ -15,10 +67,6 @@
     {
       "basename": "vps和服务器的区别",
       "path": "程序/杂项笔记/vps和服务器的区别.md"
-    },
-    {
-      "basename": "网络通信的基本流程",
-      "path": "程序/杂项笔记/网络通信的基本流程.png"
     },
     {
       "basename": "vue项目笔记",
@@ -49,10 +97,6 @@
       "path": "程序/three.js/three控制物体匀速移动.md"
     },
     {
-      "basename": "使用gsap移动",
-      "path": "程序/three.js/使用gsap移动.md"
-    },
-    {
       "basename": "three轨道控制器",
       "path": "程序/three.js/three轨道控制器.md"
     },
@@ -77,10 +121,6 @@
       "path": "程序/three.js/three锥形相机.md"
     },
     {
-      "basename": "杂项",
-      "path": "总目录/杂项/杂项.md"
-    },
-    {
       "basename": "C Sharp",
       "path": "总目录/C Sharp.md"
     },
@@ -91,10 +131,6 @@
     {
       "basename": "五行阴阳",
       "path": "总目录/卦/五行阴阳.md"
-    },
-    {
-      "basename": "网络安全",
-      "path": "总目录/网络安全/网络安全.md"
     },
     {
       "basename": "杂项报错",
@@ -119,10 +155,6 @@
     {
       "basename": "简户网站",
       "path": "程序/社工/简户网站.md"
-    },
-    {
-      "basename": "three旋转与缩放",
-      "path": "程序/three.js/three旋转与缩放.md"
     },
     {
       "basename": "three循环渲染",
@@ -167,38 +199,6 @@
     {
       "basename": "逻辑或运算",
       "path": "程序/数字电子/逻辑或运算.md"
-    },
-    {
-      "basename": "逻辑异或",
-      "path": "程序/数字电子/逻辑异或.md"
-    },
-    {
-      "basename": "同或",
-      "path": "程序/数字电子/同或.md"
-    },
-    {
-      "basename": "与运算",
-      "path": "程序/数字电子/与运算.md"
-    },
-    {
-      "basename": "Linux目录",
-      "path": "程序/Linux笔记/Linux目录.md"
-    },
-    {
-      "basename": "linux查询ip命令",
-      "path": "程序/Linux笔记/linux查询ip命令.md"
-    },
-    {
-      "basename": "apache2常用命令",
-      "path": "程序/Linux笔记/kalilinux/apache2常用命令.md"
-    },
-    {
-      "basename": "Linux中的重定向符",
-      "path": "程序/Linux笔记/Linux中的重定向符.md"
-    },
-    {
-      "basename": "three创建渲染器",
-      "path": "程序/杂项笔记/three杂项/three创建渲染器.md"
     }
   ],
   "omittedPaths": [],
