@@ -1,0 +1,238 @@
+{
+  "savedSettings": [],
+  "temporaryLocalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false,
+      "depth": 1,
+      "linkType": "both"
+    },
+    "groups": [],
+    "display": {
+      "nodeSize": 3,
+      "linkThickness": 2,
+      "linkDistance": 100,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 300,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "temporaryGlobalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false
+    },
+    "groups": [
+      {
+        "query": "path:font  ",
+        "color": "#d846f7"
+      },
+      {
+        "query": "path:卦  ",
+        "color": "#3b6b0b"
+      },
+      {
+        "query": "path:寄  ",
+        "color": "#8949a4"
+      },
+      {
+        "query": "path:总目录  ",
+        "color": "#ced82b"
+      },
+      {
+        "query": "path:模板  ",
+        "color": "#1bbc62"
+      },
+      {
+        "query": "path:总目录/Java目录  ",
+        "color": "#5260e6"
+      },
+      {
+        "query": "path:总目录/Linux  ",
+        "color": "#c62a2a"
+      },
+      {
+        "query": "path:总目录/python目录  ",
+        "color": "#9d2475"
+      },
+      {
+        "query": "path:总目录/vue项目xm笔记  ",
+        "color": "#bf5f23"
+      },
+      {
+        "query": "path:总目录/卦  ",
+        "color": "#5d5678"
+      },
+      {
+        "query": "path:总目录/报错合集  ",
+        "color": "#39ca7c"
+      },
+      {
+        "query": "path:总目录/杂项  ",
+        "color": "#e2abbe"
+      },
+      {
+        "query": "path:总目录/网络安全  ",
+        "color": "#38dd66"
+      },
+      {
+        "query": "path:模板/日记模板  ",
+        "color": "#27a7d4"
+      },
+      {
+        "query": "path:模板/灵感模板  ",
+        "color": "#525cf7"
+      },
+      {
+        "query": "path:程序/Linux笔记  ",
+        "color": "#cab9f2"
+      },
+      {
+        "query": "path:\"程序/SQL Server\"  ",
+        "color": "#5e73fa"
+      },
+      {
+        "query": "path:\"程序/c Sharp笔记\"  ",
+        "color": "#16066f"
+      },
+      {
+        "query": "path:程序/css  ",
+        "color": "#8ed821"
+      },
+      {
+        "query": "path:\"程序/c Sharp笔记\"  ",
+        "color": "#f9faae"
+      },
+      {
+        "query": "path:程序/html  ",
+        "color": "#c20ac6"
+      },
+      {
+        "query": "path:程序/java  ",
+        "color": "#52b54f"
+      },
+      {
+        "query": "path:程序/java-IO流  ",
+        "color": "#3085db"
+      },
+      {
+        "query": "path:程序/javascript  ",
+        "color": "#3780cd"
+      },
+      {
+        "query": "path:程序/php  ",
+        "color": "#e2a2a2"
+      },
+      {
+        "query": "path:程序/python笔记  ",
+        "color": "#f9282d"
+      },
+      {
+        "query": "path:程序/three.js  ",
+        "color": "#3e1547"
+      },
+      {
+        "query": "path:程序/vue  ",
+        "color": "#22d57"
+      },
+      {
+        "query": "path:程序/vim  ",
+        "color": "#9c0acd"
+      },
+      {
+        "query": "path:程序/vuex项目xm笔记  ",
+        "color": "#7f501a"
+      },
+      {
+        "query": "path:程序/报错合集  ",
+        "color": "#8d6f41"
+      },
+      {
+        "query": "path:程序/数字电子  ",
+        "color": "#e92f8f"
+      },
+      {
+        "query": "path:程序/杂项笔记  ",
+        "color": "#20b43b"
+      },
+      {
+        "query": "path:程序/社工  ",
+        "color": "#b15279"
+      },
+      {
+        "query": "path:程序/网络安全  ",
+        "color": "#413138"
+      },
+      {
+        "query": "path:总目录/报错合集/neovim  ",
+        "color": "#2b9d7c"
+      },
+      {
+        "query": "path:总目录/报错合集/vue报错  ",
+        "color": "#4a441f"
+      },
+      {
+        "query": "path:程序/Linux笔记/centos  ",
+        "color": "#4cf6c3"
+      },
+      {
+        "query": "path:程序/Linux笔记/kalilinux  ",
+        "color": "#650eb9"
+      },
+      {
+        "query": "path:程序/html/html  ",
+        "color": "#a43c8e"
+      },
+      {
+        "query": "path:\"程序/java-IO流/input Stream\"  ",
+        "color": "#a17f0a"
+      },
+      {
+        "query": "path:程序/python笔记/字符串  ",
+        "color": "#a99614"
+      },
+      {
+        "query": "path:程序/杂项笔记/网络协议杂项  ",
+        "color": "#41c935"
+      },
+      {
+        "query": "path:程序/杂项笔记/three杂项  ",
+        "color": "#db545f"
+      },
+      {
+        "query": "",
+        "color": "#7427f"
+      }
+    ],
+    "display": {
+      "nodeSize": 2,
+      "linkThickness": 1,
+      "linkDistance": 106,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 290,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "pluginSetting": {
+    "maxNodeNumber": 1000,
+    "searchEngine": "default"
+  }
+}
