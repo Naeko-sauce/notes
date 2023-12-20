@@ -22,39 +22,9 @@
               "type": "3d-graph-view-global",
               "state": {}
             }
-          },
-          {
-            "id": "a78341a872344be4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2c2d8ae1eef3f7c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总目录/杂项/网络杂项.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5a1b1fa436edf6f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "程序/杂项笔记/网络协议杂项/socks原理图.png"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/杂项笔记/网络协议杂项/socks原理图.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/杂项笔记/网络协议杂项/socks原理图.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程序/杂项笔记/网络协议杂项/socks原理图.png"
-              }
+              "state": {}
             }
           },
           {
@@ -224,19 +190,19 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "flomo-importer:Flomo Importer": false,
       "templater-obsidian:Templater": false,
-      "obsidian-memos:Memos": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "e5a1b1fa436edf6f",
+  "active": "78d616f9b5960b6e",
   "lastOpenFiles": [
-    "程序/杂项笔记/网络协议杂项/Drawing 2023-12-19 20.48.57.excalidraw.md",
-    "程序/杂项笔记/网络协议杂项/socks原理图.png",
-    "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md",
     "总目录/杂项/网络杂项.md",
-    "程序/杂项笔记/网络协议杂项/未命名.md",
-    "程序/杂项笔记/未命名.md",
     "总目录/杂项/杂项.md",
+    "程序/杂项笔记/linux挂载磁盘的命令解释.md",
+    "程序/杂项笔记/网络协议杂项/socks原理图.png",
+    "程序/杂项笔记/网络协议杂项/Drawing 2023-12-19 20.48.57.excalidraw.md",
+    "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md",
+    "程序/杂项笔记/网络协议杂项/未命名.md",
     "总目录/Java目录/java.md",
     "总目录/Java目录/javaIO流.md",
     "总目录/python目录/python.md",
