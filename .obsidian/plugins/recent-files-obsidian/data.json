@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "three.js",
+      "path": "总目录/three.js.md"
+    },
+    {
+      "basename": "three窗口更新自动适应",
+      "path": "程序/three.js/three窗口更新自动适应.md"
+    },
+    {
+      "basename": "three追踪时间",
+      "path": "程序/three.js/three追踪时间.md"
+    },
+    {
+      "basename": "three锥形相机",
+      "path": "程序/three.js/three锥形相机.md"
+    },
+    {
+      "basename": "threejs设置阻尼效果",
+      "path": "程序/three.js/threejs设置阻尼效果.md"
+    },
+    {
       "basename": "网络杂项",
       "path": "总目录/杂项/网络杂项.md"
     },
@@ -51,10 +71,6 @@
     {
       "basename": "模板",
       "path": "总目录/模板.md"
-    },
-    {
-      "basename": "three.js",
-      "path": "总目录/three.js.md"
     },
     {
       "basename": "SQL Server数据库",
@@ -183,22 +199,6 @@
     {
       "basename": "http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单",
       "path": "程序/杂项笔记/网络协议杂项/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md"
-    },
-    {
-      "basename": "各种代理",
-      "path": "程序/杂项笔记/网络协议杂项/各种代理.md"
-    },
-    {
-      "basename": "网络通信的基本流程",
-      "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
-    },
-    {
-      "basename": "与运算",
-      "path": "程序/数字电子/与运算.md"
-    },
-    {
-      "basename": "Linux目录",
-      "path": "程序/Linux笔记/Linux目录.md"
     }
   ],
   "omittedPaths": [],
