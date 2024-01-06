@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux",
+      "path": "总目录/Linux/Linux.md"
+    },
+    {
+      "basename": "更改linux磁盘文件用户访问权限",
+      "path": "程序/Linux笔记/更改linux磁盘文件用户访问权限.md"
+    },
+    {
       "basename": "three.js",
       "path": "总目录/three.js.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "使用gsap移动",
       "path": "程序/three.js/使用gsap移动.md"
-    },
-    {
-      "basename": "three旋转与缩放",
-      "path": "程序/three.js/three旋转与缩放.md"
-    },
-    {
-      "basename": "http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单",
-      "path": "程序/杂项笔记/网络协议杂项/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md"
     }
   ],
   "omittedPaths": [],
