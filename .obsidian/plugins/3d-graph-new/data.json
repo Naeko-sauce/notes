@@ -215,7 +215,7 @@
       }
     ],
     "display": {
-      "nodeSize": 2,
+      "nodeSize": 2.9,
       "linkThickness": 1,
       "linkDistance": 106,
       "nodeRepulsion": 2800,
@@ -225,7 +225,7 @@
       "linkHoverColor": "#0000ff",
       "showExtension": false,
       "showFullPath": false,
-      "showCenterCoordinates": true,
+      "showCenterCoordinates": false,
       "showLinkArrow": true,
       "dontMoveWhenDrag": false,
       "dagOrientation": "null"
