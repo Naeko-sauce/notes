@@ -31,9 +31,11 @@
             "id": "c6eefbe3839da24c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "程序/java/java递归图解.md"
+                "file": "程序/网络安全/网络安全的基本攻击模式.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/java/java递归图解.md",
+                "file": "程序/网络安全/网络安全的基本攻击模式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/java/java递归图解.md",
+                "file": "程序/网络安全/网络安全的基本攻击模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/java/java递归图解.md"
+                "file": "程序/网络安全/网络安全的基本攻击模式.md"
               }
             }
           },
@@ -225,17 +227,19 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "flomo-importer:Flomo Importer": false,
-      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "c6eefbe3839da24c",
   "lastOpenFiles": [
-    "总目录/网络安全/未命名思维导图.md",
+    "程序/Linux笔记/更改linux磁盘文件用户访问权限.md",
+    "程序/网络安全/网络安全的基本攻击模式.md",
     "程序/java/java递归图解.md",
+    "总目录/网络安全/未命名思维导图.md",
     "程序/杂项笔记/网络协议杂项/Pasted Image 20240107125827_699.png",
     "总目录/Java目录/java.md",
     "总目录/php.md",
@@ -259,8 +263,6 @@
     "程序/python笔记/python画笔turtle的一些常用方法.md",
     "程序/python笔记/字符串/python字符串常用方法.md",
     "程序/python笔记/字符串/python字符串格式化.md",
-    "程序/python笔记/字符串/python可变字符串io.StringIo.md",
-    "程序/python笔记/字符串/python字符串.md",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
     "程序/报错合集/linux报错/未命名",
     "总目录/杂项/未命名",
