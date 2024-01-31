@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/汇编/8080cpu.md",
+                "file": "程序/汇编/段寄存器.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/汇编/8080cpu.md",
+                "file": "程序/汇编/段寄存器.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/汇编/8080cpu.md",
+                "file": "程序/汇编/段寄存器.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/汇编/8080cpu.md"
+                "file": "程序/汇编/段寄存器.md"
               }
             }
           },
@@ -196,34 +196,34 @@
   "active": "b1ce4dfda3c6dc41",
   "lastOpenFiles": [
     "程序/汇编/汇编的组成.md",
-    "程序/汇编/8080cpu.md",
-    "程序/three.js/three锥形相机.md",
-    "程序/three.js/threejs设置阻尼效果.md",
-    "程序/three.js/three循环渲染.md",
-    "程序/three.js/three追踪时间.md",
-    "程序/three.js/three旋转与缩放.md",
-    "程序/three.js/three轨道控制器.md",
-    "程序/汇编/汇编指令存放地址.md",
-    "程序/java/键盘输入-进制.md",
-    "程序/汇编",
-    "程序/未命名.md",
-    "程序/网络安全/网络安全常用术语.md",
-    "总目录/Java目录/java.md",
-    "总目录/Java目录/javaIO流.md",
-    "总目录/Linux/centos.md",
-    "总目录/Linux/kalilinux软件常用命令.md",
-    "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
+    "程序/汇编/段寄存器.md",
+    "程序/数字电子/同或.md",
+    "程序/数字电子/非运算.md",
+    "程序/数字电子/逻辑异或.md",
+    "程序/数字电子/逻辑与非.md",
+    "程序/数字电子/与运算.md",
+    "程序/网络安全/使用LAMP部署DVWA.md",
+    "程序/网络安全/kali安装lamp环境.md",
     "程序/网络安全/LAMP和LANMP的区别.md",
-    "程序/java-IO流/input Stream/FileInputStream的方法.md",
+    "程序/杂项笔记/网络协议杂项/GFW防火墙是怎么拦截外网.md",
     "程序/杂项笔记/网络协议杂项/http代理详细解释.md",
     "程序/杂项笔记/网络协议杂项/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md",
-    "程序/杂项笔记/网络协议杂项/HTTP，TCP，UDP.md",
-    "程序/杂项笔记/网络协议杂项/vm中的boot manager.md",
+    "程序/杂项笔记/网络协议杂项/IPSec和openvpn的优缺点和作用.md",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
-    "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md",
+    "程序/杂项笔记/three杂项/const scene = new THREE.Scene();是什么意思.md",
+    "程序/杂项笔记/three杂项/gsap javascript库.md",
+    "程序/杂项笔记/three杂项/three创建渲染器.md",
+    "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md",
+    "程序/杂项笔记/linux挂载磁盘的命令解释.md",
+    "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md",
+    "程序/杂项笔记/网络协议杂项/vps和服务器的区别.md",
+    "程序/杂项笔记/网络协议杂项/vm中的boot manager.md",
+    "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
+    "程序/java-IO流/input Stream/FileInputStream的方法.md",
+    "程序/java/java基本数据类型转换.md",
+    "程序/java/java递归图解.md",
+    "程序/汇编",
     "程序/杂项笔记/网络协议杂项/Pasted Image 20240107125827_699.png",
-    "程序/网络安全/kali卸载LAMP环境.md",
-    "程序/网络安全/网络安全的基本攻击模式.md",
     "程序/报错合集/linux报错/未命名",
     "总目录/杂项/未命名",
     "程序/杂项笔记/网络协议杂项",

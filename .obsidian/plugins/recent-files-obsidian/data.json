@@ -1,76 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "8080cpu",
-      "path": "程序/汇编/8080cpu.md"
+      "basename": "段寄存器",
+      "path": "程序/汇编/段寄存器.md"
     },
     {
       "basename": "汇编的组成",
       "path": "程序/汇编/汇编的组成.md"
     },
     {
-      "basename": "three锥形相机",
-      "path": "程序/three.js/three锥形相机.md"
+      "basename": "同或",
+      "path": "程序/数字电子/同或.md"
     },
     {
-      "basename": "threejs设置阻尼效果",
-      "path": "程序/three.js/threejs设置阻尼效果.md"
+      "basename": "非运算",
+      "path": "程序/数字电子/非运算.md"
     },
     {
-      "basename": "three循环渲染",
-      "path": "程序/three.js/three循环渲染.md"
+      "basename": "逻辑异或",
+      "path": "程序/数字电子/逻辑异或.md"
     },
     {
-      "basename": "three追踪时间",
-      "path": "程序/three.js/three追踪时间.md"
+      "basename": "逻辑与非",
+      "path": "程序/数字电子/逻辑与非.md"
     },
     {
-      "basename": "three旋转与缩放",
-      "path": "程序/three.js/three旋转与缩放.md"
+      "basename": "与运算",
+      "path": "程序/数字电子/与运算.md"
     },
     {
-      "basename": "three轨道控制器",
-      "path": "程序/three.js/three轨道控制器.md"
+      "basename": "使用LAMP部署DVWA",
+      "path": "程序/网络安全/使用LAMP部署DVWA.md"
     },
     {
-      "basename": "汇编指令存放地址",
-      "path": "程序/汇编/汇编指令存放地址.md"
-    },
-    {
-      "basename": "键盘输入-进制",
-      "path": "程序/java/键盘输入-进制.md"
-    },
-    {
-      "basename": "网络安全常用术语",
-      "path": "程序/网络安全/网络安全常用术语.md"
-    },
-    {
-      "basename": "java",
-      "path": "总目录/Java目录/java.md"
-    },
-    {
-      "basename": "javaIO流",
-      "path": "总目录/Java目录/javaIO流.md"
-    },
-    {
-      "basename": "centos",
-      "path": "总目录/Linux/centos.md"
-    },
-    {
-      "basename": "kalilinux软件常用命令",
-      "path": "总目录/Linux/kalilinux软件常用命令.md"
-    },
-    {
-      "basename": "vm和虚拟机的关系，和linux的内存分布关系图，和目录结构",
-      "path": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
+      "basename": "kali安装lamp环境",
+      "path": "程序/网络安全/kali安装lamp环境.md"
     },
     {
       "basename": "LAMP和LANMP的区别",
       "path": "程序/网络安全/LAMP和LANMP的区别.md"
     },
     {
-      "basename": "FileInputStream的方法",
-      "path": "程序/java-IO流/input Stream/FileInputStream的方法.md"
+      "basename": "GFW防火墙是怎么拦截外网",
+      "path": "程序/杂项笔记/网络协议杂项/GFW防火墙是怎么拦截外网.md"
     },
     {
       "basename": "http代理详细解释",
@@ -81,124 +53,152 @@
       "path": "程序/杂项笔记/网络协议杂项/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md"
     },
     {
-      "basename": "HTTP，TCP，UDP",
-      "path": "程序/杂项笔记/网络协议杂项/HTTP，TCP，UDP.md"
-    },
-    {
-      "basename": "vm中的boot manager",
-      "path": "程序/杂项笔记/网络协议杂项/vm中的boot manager.md"
+      "basename": "IPSec和openvpn的优缺点和作用",
+      "path": "程序/杂项笔记/网络协议杂项/IPSec和openvpn的优缺点和作用.md"
     },
     {
       "basename": "socks原理图",
       "path": "程序/杂项笔记/网络协议杂项/socks原理图.png"
     },
     {
-      "basename": "网络通信的基本流程",
-      "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
+      "basename": "const scene = new THREE.Scene();是什么意思",
+      "path": "程序/杂项笔记/three杂项/const scene = new THREE.Scene();是什么意思.md"
     },
     {
-      "basename": "kali卸载LAMP环境",
-      "path": "程序/网络安全/kali卸载LAMP环境.md"
+      "basename": "gsap javascript库",
+      "path": "程序/杂项笔记/three杂项/gsap javascript库.md"
     },
     {
-      "basename": "网络安全的基本攻击模式",
-      "path": "程序/网络安全/网络安全的基本攻击模式.md"
+      "basename": "three创建渲染器",
+      "path": "程序/杂项笔记/three杂项/three创建渲染器.md"
     },
     {
-      "basename": "更改linux磁盘文件用户访问权限",
-      "path": "程序/Linux笔记/更改linux磁盘文件用户访问权限.md"
+      "basename": "three旋转为什么要用圆周率",
+      "path": "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md"
     },
     {
-      "basename": "java递归图解",
-      "path": "程序/java/java递归图解.md"
+      "basename": "linux挂载磁盘的命令解释",
+      "path": "程序/杂项笔记/linux挂载磁盘的命令解释.md"
     },
     {
-      "basename": "php",
-      "path": "总目录/php.md"
+      "basename": "socks5代理详细解释",
+      "path": "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md"
     },
     {
-      "basename": "SQL Server数据库",
-      "path": "总目录/SQL Server数据库.md"
+      "basename": "vps和服务器的区别",
+      "path": "程序/杂项笔记/网络协议杂项/vps和服务器的区别.md"
     },
     {
-      "basename": "three.js",
-      "path": "总目录/three.js.md"
+      "basename": "vm中的boot manager",
+      "path": "程序/杂项笔记/网络协议杂项/vm中的boot manager.md"
     },
     {
-      "basename": "根",
-      "path": "总目录/根.md"
+      "basename": "vm和虚拟机的关系，和linux的内存分布关系图，和目录结构",
+      "path": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
     },
     {
-      "basename": "安卓逆向",
-      "path": "总目录/安卓逆向.md"
+      "basename": "FileInputStream的方法",
+      "path": "程序/java-IO流/input Stream/FileInputStream的方法.md"
     },
     {
       "basename": "java基本数据类型转换",
       "path": "程序/java/java基本数据类型转换.md"
     },
     {
+      "basename": "java递归图解",
+      "path": "程序/java/java递归图解.md"
+    },
+    {
       "basename": "IO流",
       "path": "程序/java/IO流.md"
     },
     {
-      "basename": "dos",
-      "path": "程序/java/dos.md"
-    },
-    {
-      "basename": "数组",
-      "path": "程序/java/数组.md"
-    },
-    {
-      "basename": "逆向",
-      "path": "程序/java/逆向.md"
-    },
-    {
-      "basename": "面向对象",
-      "path": "程序/java/面向对象.md"
+      "basename": "8080cpu",
+      "path": "程序/汇编/8080cpu.md"
     },
     {
       "basename": "笔记",
       "path": "程序/java/笔记.md"
     },
     {
-      "basename": "python转义符",
-      "path": "程序/python笔记/python转义符.md"
+      "basename": "分支",
+      "path": "程序/java/分支.md"
     },
     {
-      "basename": "python数据类型",
-      "path": "程序/python笔记/python数据类型.md"
+      "basename": "File类",
+      "path": "程序/java-IO流/File类.md"
     },
     {
-      "basename": "python逻辑运算符",
-      "path": "程序/python笔记/python逻辑运算符.md"
+      "basename": "File的方法以及说明",
+      "path": "程序/java-IO流/File的方法以及说明.md"
     },
     {
-      "basename": "python画笔turtle的一些常用方法",
-      "path": "程序/python笔记/python画笔turtle的一些常用方法.md"
+      "basename": "寄根",
+      "path": "寄/寄根.md"
     },
     {
-      "basename": "python字符串常用方法",
-      "path": "程序/python笔记/字符串/python字符串常用方法.md"
+      "basename": "2023-11-17",
+      "path": "寄/2023-11-17.md"
     },
     {
-      "basename": "python字符串格式化",
-      "path": "程序/python笔记/字符串/python字符串格式化.md"
+      "basename": "天干地支基础",
+      "path": "卦/天干地支基础.md"
     },
     {
-      "basename": "python可变字符串io.StringIo",
-      "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
+      "basename": "五行基础",
+      "path": "卦/五行基础.md"
     },
     {
-      "basename": "python字符串",
-      "path": "程序/python笔记/字符串/python字符串.md"
+      "basename": "阴阳",
+      "path": "卦/阴阳.md"
+    },
+    {
+      "basename": "vue中的ref和reactive的用法和不同",
+      "path": "程序/vue/vue中的ref和reactive的用法和不同.md"
+    },
+    {
+      "basename": "three轨道控制器",
+      "path": "程序/three.js/three轨道控制器.md"
+    },
+    {
+      "basename": "three循环渲染",
+      "path": "程序/three.js/three循环渲染.md"
+    },
+    {
+      "basename": "threejs设置阻尼效果",
+      "path": "程序/three.js/threejs设置阻尼效果.md"
+    },
+    {
+      "basename": "gsap设置动画延迟开始",
+      "path": "程序/three.js/gsap设置动画延迟开始.md"
+    },
+    {
+      "basename": "php基础",
+      "path": "程序/php/php基础.md"
+    },
+    {
+      "basename": "php常量",
+      "path": "程序/php/php常量.md"
+    },
+    {
+      "basename": "函数",
+      "path": "程序/php/函数.md"
     },
     {
       "basename": "vue用pnpm i下载资源时报错",
       "path": "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md"
     },
     {
-      "basename": "socks5代理详细解释",
-      "path": "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md"
+      "basename": "lazyvim安装使用空格s+g搜索报错解决方法",
+      "path": "程序/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md"
+    },
+    {
+      "basename": "archlinux挂载报错",
+      "path": "程序/报错合集/linux报错/archlinux挂载报错.md"
+    },
+    {
+      "basename": "archlinux使用yay安装python编辑器报错找不到软件包",
+      "path": "程序/报错合集/linux报错/archlinux使用yay安装python编辑器报错找不到软件包.md"
     }
   ],
   "omittedPaths": [],
