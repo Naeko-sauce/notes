@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8080cpu",
+      "path": "程序/汇编/8080cpu.md"
+    },
+    {
       "basename": "汇编的组成",
       "path": "程序/汇编/汇编的组成.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "socks5代理详细解释",
       "path": "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "总目录/Linux/Linux.md"
     }
   ],
   "omittedPaths": [],
