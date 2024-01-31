@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "three锥形相机",
+      "path": "程序/three.js/three锥形相机.md"
+    },
+    {
+      "basename": "threejs设置阻尼效果",
+      "path": "程序/three.js/threejs设置阻尼效果.md"
+    },
+    {
+      "basename": "three循环渲染",
+      "path": "程序/three.js/three循环渲染.md"
+    },
+    {
+      "basename": "three追踪时间",
+      "path": "程序/three.js/three追踪时间.md"
+    },
+    {
+      "basename": "three旋转与缩放",
+      "path": "程序/three.js/three旋转与缩放.md"
+    },
+    {
+      "basename": "three轨道控制器",
+      "path": "程序/three.js/three轨道控制器.md"
+    },
+    {
+      "basename": "汇编指令存放地址",
+      "path": "程序/汇编/汇编指令存放地址.md"
+    },
+    {
+      "basename": "键盘输入-进制",
+      "path": "程序/java/键盘输入-进制.md"
+    },
+    {
       "basename": "网络安全常用术语",
       "path": "程序/网络安全/网络安全常用术语.md"
     },
@@ -117,10 +149,6 @@
       "path": "程序/java/面向对象.md"
     },
     {
-      "basename": "键盘输入-进制",
-      "path": "程序/java/键盘输入-进制.md"
-    },
-    {
       "basename": "笔记",
       "path": "程序/java/笔记.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "three窗口更新自动适应",
       "path": "程序/three.js/three窗口更新自动适应.md"
-    },
-    {
-      "basename": "three追踪时间",
-      "path": "程序/three.js/three追踪时间.md"
-    },
-    {
-      "basename": "three锥形相机",
-      "path": "程序/three.js/three锥形相机.md"
-    },
-    {
-      "basename": "threejs设置阻尼效果",
-      "path": "程序/three.js/threejs设置阻尼效果.md"
-    },
-    {
-      "basename": "网络杂项",
-      "path": "总目录/杂项/网络杂项.md"
-    },
-    {
-      "basename": "杂项",
-      "path": "总目录/杂项/杂项.md"
-    },
-    {
-      "basename": "linux挂载磁盘的命令解释",
-      "path": "程序/杂项笔记/linux挂载磁盘的命令解释.md"
-    },
-    {
-      "basename": "python",
-      "path": "总目录/python目录/python.md"
     }
   ],
   "omittedPaths": [],
