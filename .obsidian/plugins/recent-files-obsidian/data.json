@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "汇编的组成",
+      "path": "程序/汇编/汇编的组成.md"
+    },
+    {
       "basename": "three锥形相机",
       "path": "程序/three.js/three锥形相机.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Linux",
       "path": "总目录/Linux/Linux.md"
-    },
-    {
-      "basename": "three窗口更新自动适应",
-      "path": "程序/three.js/three窗口更新自动适应.md"
     }
   ],
   "omittedPaths": [],
