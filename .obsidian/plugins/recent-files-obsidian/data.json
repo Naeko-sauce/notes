@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "段地址",
-      "path": "程序/汇编/段地址.md"
+      "basename": "debug",
+      "path": "程序/汇编/debug.md"
     },
     {
       "basename": "段寄存器",
       "path": "程序/汇编/段寄存器.md"
+    },
+    {
+      "basename": "段地址",
+      "path": "程序/汇编/段地址.md"
+    },
+    {
+      "basename": "如何使代码段中的代码被执行",
+      "path": "程序/汇编/如何使代码段中的代码被执行.md"
     },
     {
       "basename": "修改cs、ip中的内容",
@@ -191,14 +199,6 @@
     {
       "basename": "函数",
       "path": "程序/php/函数.md"
-    },
-    {
-      "basename": "vue用pnpm i下载资源时报错",
-      "path": "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md"
-    },
-    {
-      "basename": "lazyvim安装使用空格s+g搜索报错解决方法",
-      "path": "程序/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md"
     }
   ],
   "omittedPaths": [],
