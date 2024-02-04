@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "汇编常用的指令",
-      "path": "程序/汇编/汇编常用的指令.md"
-    },
-    {
-      "basename": "debug",
-      "path": "程序/汇编/debug.md"
-    },
-    {
-      "basename": "段地址",
-      "path": "程序/汇编/段地址.md"
+      "basename": "cpu栈",
+      "path": "程序/汇编/cpu栈.md"
     },
     {
       "basename": "段寄存器",
       "path": "程序/汇编/段寄存器.md"
+    },
+    {
+      "basename": "汇编常用的指令",
+      "path": "程序/汇编/汇编常用的指令.md"
+    },
+    {
+      "basename": "汇编的组成",
+      "path": "程序/汇编/汇编的组成.md"
     },
     {
       "basename": "汇编指令存放地址",
@@ -25,12 +25,16 @@
       "path": "程序/汇编/如何使代码段中的代码被执行.md"
     },
     {
+      "basename": "debug",
+      "path": "程序/汇编/debug.md"
+    },
+    {
       "basename": "修改cs、ip中的内容",
       "path": "程序/汇编/修改cs、ip中的内容.md"
     },
     {
-      "basename": "汇编的组成",
-      "path": "程序/汇编/汇编的组成.md"
+      "basename": "段地址",
+      "path": "程序/汇编/段地址.md"
     },
     {
       "basename": "8080cpu",
@@ -195,10 +199,6 @@
     {
       "basename": "gsap设置动画延迟开始",
       "path": "程序/three.js/gsap设置动画延迟开始.md"
-    },
-    {
-      "basename": "php基础",
-      "path": "程序/php/php基础.md"
     }
   ],
   "omittedPaths": [],
