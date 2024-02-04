@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/汇编/debug.md",
+                "file": "程序/汇编/汇编常用的指令.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/汇编/debug.md",
+                "file": "程序/汇编/汇编常用的指令.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/汇编/debug.md",
+                "file": "程序/汇编/汇编常用的指令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/汇编/debug.md"
+                "file": "程序/汇编/汇编常用的指令.md"
               }
             }
           },
@@ -195,12 +195,15 @@
   },
   "active": "b1ce4dfda3c6dc41",
   "lastOpenFiles": [
-    "程序/汇编/段寄存器.md",
     "程序/汇编/debug.md",
+    "程序/汇编/汇编常用的指令.md",
     "程序/汇编/段地址.md",
+    "程序/汇编/段寄存器.md",
+    "程序/汇编/汇编指令存放地址.md",
     "程序/汇编/如何使代码段中的代码被执行.md",
     "程序/汇编/修改cs、ip中的内容.md",
     "程序/汇编/汇编的组成.md",
+    "程序/汇编/8080cpu.md",
     "程序/数字电子/同或.md",
     "程序/数字电子/非运算.md",
     "程序/数字电子/逻辑异或.md",
@@ -219,9 +222,6 @@
     "程序/杂项笔记/three杂项/three创建渲染器.md",
     "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md",
     "程序/杂项笔记/linux挂载磁盘的命令解释.md",
-    "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md",
-    "程序/杂项笔记/网络协议杂项/vps和服务器的区别.md",
-    "程序/杂项笔记/网络协议杂项/vm中的boot manager.md",
     "程序/汇编",
     "程序/杂项笔记/网络协议杂项/Pasted Image 20240107125827_699.png",
     "程序/报错合集/linux报错/未命名",
