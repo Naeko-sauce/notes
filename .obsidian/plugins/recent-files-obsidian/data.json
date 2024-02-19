@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "pnpm执行时报错",
+      "path": "程序/报错合集/前端报错/pnpm执行时报错.md"
+    },
+    {
       "basename": "npm下载文件下载不了改变代理",
       "path": "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "three循环渲染",
       "path": "程序/three.js/three循环渲染.md"
-    },
-    {
-      "basename": "threejs设置阻尼效果",
-      "path": "程序/three.js/threejs设置阻尼效果.md"
     }
   ],
   "omittedPaths": [],
