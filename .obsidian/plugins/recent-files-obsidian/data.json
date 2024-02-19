@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "npm下载文件下载不了改变代理",
+      "path": "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md"
+    },
+    {
+      "basename": "修改cs、ip中的内容",
+      "path": "程序/汇编/修改cs、ip中的内容.md"
+    },
+    {
       "basename": "cpu栈",
       "path": "程序/汇编/cpu栈.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "debug",
       "path": "程序/汇编/debug.md"
-    },
-    {
-      "basename": "修改cs、ip中的内容",
-      "path": "程序/汇编/修改cs、ip中的内容.md"
     },
     {
       "basename": "段地址",
@@ -195,10 +199,6 @@
     {
       "basename": "threejs设置阻尼效果",
       "path": "程序/three.js/threejs设置阻尼效果.md"
-    },
-    {
-      "basename": "gsap设置动画延迟开始",
-      "path": "程序/three.js/gsap设置动画延迟开始.md"
     }
   ],
   "omittedPaths": [],
