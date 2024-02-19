@@ -76,3 +76,7 @@ npm config delete https-proxy --global
 ```
 
 请注意，这些命令会将相应的配置项从您的 npm 配置文件中删除，而不是将它们设置为空。确保在不再需要代理的情况下使用这些命令。
+
+# npm 替换源
+这是 npm 默认的源
+`npm config set registry https://registry.npmjs.org/`
