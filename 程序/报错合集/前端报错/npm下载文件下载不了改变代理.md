@@ -48,3 +48,31 @@
    这将确保 npm 使用 https registry，并且您可以设置 https 代理。
 
 请注意：在设置代理时，请根据您所在的网络环境和代理服务器的配置进行相应的设置。
+如果您想从 npm 配置中移除代理，可以使用以下命令：
+
+### 移除 HTTP 代理：
+
+```bash
+npm config delete proxy
+```
+
+### 移除 HTTPS 代理：
+
+```bash
+npm config delete https-proxy
+```
+
+### 移除 registry 代理：
+
+```bash
+npm config delete registry
+```
+
+这将删除相应的配置项，从而取消代理设置。请确保您的 npm 配置不再包含不必要的代理信息。如果之前设置了全局代理，可以使用 `--global` 标志删除全局代理配置：
+
+```bash
+npm config delete proxy --global
+npm config delete https-proxy --global
+```
+
+请注意，这些命令会将相应的配置项从您的 npm 配置文件中删除，而不是将它们设置为空。确保在不再需要代理的情况下使用这些命令。
