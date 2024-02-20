@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "c语言中的%和&",
+      "path": "程序/c/c语言中的%和&.md"
+    },
+    {
       "basename": "c 声明变量",
       "path": "程序/c/c 声明变量.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "阴阳",
       "path": "卦/阴阳.md"
-    },
-    {
-      "basename": "vue中的ref和reactive的用法和不同",
-      "path": "程序/vue/vue中的ref和reactive的用法和不同.md"
     }
   ],
   "omittedPaths": [],
