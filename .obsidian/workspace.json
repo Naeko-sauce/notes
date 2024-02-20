@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/报错合集/前端报错/pnpm执行时报错.md",
+                "file": "程序/c/c 声明变量.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/报错合集/前端报错/pnpm执行时报错.md",
+                "file": "程序/c/c 声明变量.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/报错合集/前端报错/pnpm执行时报错.md",
+                "file": "程序/c/c 声明变量.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/报错合集/前端报错/pnpm执行时报错.md"
+                "file": "程序/c/c 声明变量.md"
               }
             }
           },
@@ -195,8 +195,11 @@
   },
   "active": "b1ce4dfda3c6dc41",
   "lastOpenFiles": [
-    "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md",
+    "程序/three.js/three追踪时间.md",
+    "程序/c/c 声明变量.md",
+    "程序/c",
     "程序/报错合集/前端报错/pnpm执行时报错.md",
+    "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md",
     "程序/汇编/修改cs、ip中的内容.md",
     "程序/报错合集/前端报错",
     "程序/汇编/cpu栈.md",
@@ -221,8 +224,6 @@
     "程序/杂项笔记/网络协议杂项/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md",
     "程序/杂项笔记/网络协议杂项/IPSec和openvpn的优缺点和作用.md",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
-    "程序/杂项笔记/three杂项/const scene = new THREE.Scene();是什么意思.md",
-    "程序/杂项笔记/three杂项/gsap javascript库.md",
     "程序/汇编",
     "程序/杂项笔记/网络协议杂项/Pasted Image 20240107125827_699.png",
     "程序/报错合集/linux报错/未命名",
@@ -233,7 +234,6 @@
     "mod/computers.excalidrawlib",
     "mod/未确认 455333.crdownload",
     "mod/network-topology-icons.excalidrawlib",
-    "总目录/卦",
     "Pasted Image 20231115212918.jpeg",
     "寄/未命名.canvas",
     "未命名.canvas",

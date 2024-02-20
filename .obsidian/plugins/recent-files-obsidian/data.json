@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "c 声明变量",
+      "path": "程序/c/c 声明变量.md"
+    },
+    {
+      "basename": "three追踪时间",
+      "path": "程序/three.js/three追踪时间.md"
+    },
+    {
       "basename": "pnpm执行时报错",
       "path": "程序/报错合集/前端报错/pnpm执行时报错.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "vue中的ref和reactive的用法和不同",
       "path": "程序/vue/vue中的ref和reactive的用法和不同.md"
-    },
-    {
-      "basename": "three轨道控制器",
-      "path": "程序/three.js/three轨道控制器.md"
-    },
-    {
-      "basename": "three循环渲染",
-      "path": "程序/three.js/three循环渲染.md"
     }
   ],
   "omittedPaths": [],
