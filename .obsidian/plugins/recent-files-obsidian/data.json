@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "python时间模块的一些用法",
-      "path": "程序/python笔记/python时间模块的一些用法.md"
+      "basename": "python中的同一运算符",
+      "path": "程序/python笔记/python中的同一运算符.md"
+    },
+    {
+      "basename": "python数据类型",
+      "path": "程序/python笔记/python数据类型.md"
+    },
+    {
+      "basename": "python转义符",
+      "path": "程序/python笔记/python转义符.md"
+    },
+    {
+      "basename": "python中的布尔值",
+      "path": "程序/python笔记/python中的布尔值.md"
+    },
+    {
+      "basename": "python的类型",
+      "path": "程序/python笔记/python的类型.md"
     },
     {
       "basename": "python字符串",
@@ -13,32 +29,24 @@
       "path": "程序/python笔记/字符串/python字符串常用方法.md"
     },
     {
-      "basename": "python字符串格式化",
-      "path": "程序/python笔记/字符串/python字符串格式化.md"
-    },
-    {
       "basename": "python字符串切片",
       "path": "程序/python笔记/字符串/python字符串切片.md"
-    },
-    {
-      "basename": "python可变字符串io.StringIo",
-      "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
     },
     {
       "basename": "python逻辑运算符",
       "path": "程序/python笔记/python逻辑运算符.md"
     },
     {
-      "basename": "python的类型",
-      "path": "程序/python笔记/python的类型.md"
+      "basename": "python时间模块的一些用法",
+      "path": "程序/python笔记/python时间模块的一些用法.md"
     },
     {
-      "basename": "python数据类型",
-      "path": "程序/python笔记/python数据类型.md"
+      "basename": "python字符串格式化",
+      "path": "程序/python笔记/字符串/python字符串格式化.md"
     },
     {
-      "basename": "python转义符",
-      "path": "程序/python笔记/python转义符.md"
+      "basename": "python可变字符串io.StringIo",
+      "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
     },
     {
       "basename": "python画笔turtle的一些常用方法",
@@ -191,14 +199,6 @@
     {
       "basename": "socks5代理详细解释",
       "path": "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md"
-    },
-    {
-      "basename": "vps和服务器的区别",
-      "path": "程序/杂项笔记/网络协议杂项/vps和服务器的区别.md"
-    },
-    {
-      "basename": "vm中的boot manager",
-      "path": "程序/杂项笔记/网络协议杂项/vm中的boot manager.md"
     }
   ],
   "omittedPaths": [],
