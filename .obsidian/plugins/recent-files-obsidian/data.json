@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "python定义常量",
+      "path": "程序/python笔记/python定义常量.md"
+    },
+    {
+      "basename": "python可变字符串io.StringIo",
+      "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
+    },
+    {
+      "basename": "python字符串常用方法",
+      "path": "程序/python笔记/字符串/python字符串常用方法.md"
+    },
+    {
+      "basename": "python逻辑运算符",
+      "path": "程序/python笔记/python逻辑运算符.md"
+    },
+    {
+      "basename": "python画笔turtle的一些常用方法",
+      "path": "程序/python笔记/python画笔turtle的一些常用方法.md"
+    },
+    {
+      "basename": "python数据类型",
+      "path": "程序/python笔记/python数据类型.md"
+    },
+    {
+      "basename": "python转义符",
+      "path": "程序/python笔记/python转义符.md"
+    },
+    {
+      "basename": "python字符串切片",
+      "path": "程序/python笔记/字符串/python字符串切片.md"
+    },
+    {
+      "basename": "python字符串格式化",
+      "path": "程序/python笔记/字符串/python字符串格式化.md"
+    },
+    {
+      "basename": "python字符串",
+      "path": "程序/python笔记/字符串/python字符串.md"
+    },
+    {
       "basename": "c 语言中printf，const，scanf的用法",
       "path": "程序/c/c 语言中printf，const，scanf的用法.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "java基本数据类型转换",
       "path": "程序/java/java基本数据类型转换.md"
-    },
-    {
-      "basename": "java递归图解",
-      "path": "程序/java/java递归图解.md"
-    },
-    {
-      "basename": "IO流",
-      "path": "程序/java/IO流.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "程序/java/笔记.md"
-    },
-    {
-      "basename": "分支",
-      "path": "程序/java/分支.md"
-    },
-    {
-      "basename": "File类",
-      "path": "程序/java-IO流/File类.md"
-    },
-    {
-      "basename": "File的方法以及说明",
-      "path": "程序/java-IO流/File的方法以及说明.md"
-    },
-    {
-      "basename": "寄根",
-      "path": "寄/寄根.md"
-    },
-    {
-      "basename": "2023-11-17",
-      "path": "寄/2023-11-17.md"
-    },
-    {
-      "basename": "天干地支基础",
-      "path": "卦/天干地支基础.md"
-    },
-    {
-      "basename": "五行基础",
-      "path": "卦/五行基础.md"
     }
   ],
   "omittedPaths": [],
