@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/python定义常量.md",
+                "file": "程序/python笔记/python的类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/python定义常量.md",
+                "file": "程序/python笔记/python的类型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/python定义常量.md",
+                "file": "程序/python笔记/python的类型.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/python定义常量.md"
+                "file": "程序/python笔记/python的类型.md"
               }
             }
           },
@@ -195,13 +195,15 @@
   },
   "active": "b1ce4dfda3c6dc41",
   "lastOpenFiles": [
-    "程序/python笔记/字符串/python可变字符串io.StringIo.md",
-    "程序/python笔记/python定义常量.md",
-    "程序/python笔记/字符串/python字符串常用方法.md",
+    "程序/python笔记/python数据类型.md",
+    "程序/python笔记/python的类型.md",
+    "程序/python笔记/python转义符.md",
     "程序/python笔记/python逻辑运算符.md",
     "程序/python笔记/python画笔turtle的一些常用方法.md",
-    "程序/python笔记/python数据类型.md",
-    "程序/python笔记/python转义符.md",
+    "程序/python笔记/python定义常量.md",
+    "程序/python笔记/序列/序列介绍.md",
+    "程序/python笔记/字符串/python可变字符串io.StringIo.md",
+    "程序/python笔记/字符串/python字符串常用方法.md",
     "程序/python笔记/字符串/python字符串切片.md",
     "程序/python笔记/字符串/python字符串格式化.md",
     "程序/python笔记/字符串/python字符串.md",
@@ -221,8 +223,6 @@
     "程序/汇编/汇编指令存放地址.md",
     "程序/汇编/如何使代码段中的代码被执行.md",
     "程序/汇编/debug.md",
-    "程序/汇编/段地址.md",
-    "程序/汇编/8080cpu.md",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
     "程序/汇编",
     "程序/杂项笔记/网络协议杂项/Pasted Image 20240107125827_699.png",

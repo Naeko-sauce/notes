@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "python定义常量",
-      "path": "程序/python笔记/python定义常量.md"
+      "basename": "python的类型",
+      "path": "程序/python笔记/python的类型.md"
     },
     {
-      "basename": "python可变字符串io.StringIo",
-      "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
+      "basename": "python数据类型",
+      "path": "程序/python笔记/python数据类型.md"
     },
     {
-      "basename": "python字符串常用方法",
-      "path": "程序/python笔记/字符串/python字符串常用方法.md"
+      "basename": "python转义符",
+      "path": "程序/python笔记/python转义符.md"
     },
     {
       "basename": "python逻辑运算符",
@@ -21,12 +21,20 @@
       "path": "程序/python笔记/python画笔turtle的一些常用方法.md"
     },
     {
-      "basename": "python数据类型",
-      "path": "程序/python笔记/python数据类型.md"
+      "basename": "python定义常量",
+      "path": "程序/python笔记/python定义常量.md"
     },
     {
-      "basename": "python转义符",
-      "path": "程序/python笔记/python转义符.md"
+      "basename": "序列介绍",
+      "path": "程序/python笔记/序列/序列介绍.md"
+    },
+    {
+      "basename": "python可变字符串io.StringIo",
+      "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
+    },
+    {
+      "basename": "python字符串常用方法",
+      "path": "程序/python笔记/字符串/python字符串常用方法.md"
     },
     {
       "basename": "python字符串切片",
@@ -191,14 +199,6 @@
     {
       "basename": "vm和虚拟机的关系，和linux的内存分布关系图，和目录结构",
       "path": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
-    },
-    {
-      "basename": "FileInputStream的方法",
-      "path": "程序/java-IO流/input Stream/FileInputStream的方法.md"
-    },
-    {
-      "basename": "java基本数据类型转换",
-      "path": "程序/java/java基本数据类型转换.md"
     }
   ],
   "omittedPaths": [],
