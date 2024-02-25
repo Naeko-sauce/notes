@@ -1,28 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "python字符串切片",
-      "path": "程序/python笔记/字符串/python字符串切片.md"
-    },
-    {
-      "basename": "python的类型",
-      "path": "程序/python笔记/python的类型.md"
-    },
-    {
-      "basename": "python字符串格式化",
-      "path": "程序/python笔记/字符串/python字符串格式化.md"
-    },
-    {
-      "basename": "python字符串常用方法",
-      "path": "程序/python笔记/字符串/python字符串常用方法.md"
+      "basename": "python字符串分割与合并",
+      "path": "程序/python笔记/字符串/python字符串分割与合并.md"
     },
     {
       "basename": "python字符串",
       "path": "程序/python笔记/字符串/python字符串.md"
     },
     {
-      "basename": "python中的replace函数",
-      "path": "程序/python笔记/字符串/python中的replace函数.md"
+      "basename": "python字符串切片",
+      "path": "程序/python笔记/字符串/python字符串切片.md"
+    },
+    {
+      "basename": "python字符串常用方法",
+      "path": "程序/python笔记/字符串/python字符串常用方法.md"
+    },
+    {
+      "basename": "python字符串格式化",
+      "path": "程序/python笔记/字符串/python字符串格式化.md"
     },
     {
       "basename": "python 中ord和chr",
@@ -33,16 +29,24 @@
       "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
     },
     {
+      "basename": "python中的replace函数",
+      "path": "程序/python笔记/字符串/python中的replace函数.md"
+    },
+    {
+      "basename": "python的类型",
+      "path": "程序/python笔记/python的类型.md"
+    },
+    {
+      "basename": "python定义常量",
+      "path": "程序/python笔记/python定义常量.md"
+    },
+    {
       "basename": "类变量引出",
       "path": "程序/java/类变量引出.md"
     },
     {
       "basename": "python转义符",
       "path": "程序/python笔记/python转义符.md"
-    },
-    {
-      "basename": "python定义常量",
-      "path": "程序/python笔记/python定义常量.md"
     },
     {
       "basename": "python同为运算符",
@@ -195,10 +199,6 @@
     {
       "basename": "gsap javascript库",
       "path": "程序/杂项笔记/three杂项/gsap javascript库.md"
-    },
-    {
-      "basename": "three创建渲染器",
-      "path": "程序/杂项笔记/three杂项/three创建渲染器.md"
     }
   ],
   "omittedPaths": [],
