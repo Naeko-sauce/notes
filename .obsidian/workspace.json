@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/python中的同一运算符.md",
+                "file": "程序/python笔记/python定义常量.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/python中的同一运算符.md",
+                "file": "程序/python笔记/python定义常量.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/python中的同一运算符.md",
+                "file": "程序/python笔记/python定义常量.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/python中的同一运算符.md"
+                "file": "程序/python笔记/python定义常量.md"
               }
             }
           },
@@ -195,10 +195,12 @@
   },
   "active": "b1ce4dfda3c6dc41",
   "lastOpenFiles": [
+    "程序/python笔记/python同为运算符.md",
     "程序/python笔记/python数据类型.md",
+    "程序/python笔记/python中的布尔值.md",
+    "程序/python笔记/python同位运算符.md",
     "程序/python笔记/python中的同一运算符.md",
     "程序/python笔记/python转义符.md",
-    "程序/python笔记/python中的布尔值.md",
     "程序/python笔记/python的类型.md",
     "程序/python笔记/字符串/python字符串.md",
     "程序/python笔记/字符串/python字符串常用方法.md",
@@ -221,8 +223,6 @@
     "程序/报错合集/前端报错",
     "程序/汇编/cpu栈.md",
     "程序/汇编/段寄存器.md",
-    "程序/汇编/汇编常用的指令.md",
-    "程序/汇编/汇编的组成.md",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
     "程序/汇编",
     "程序/杂项笔记/网络协议杂项/Pasted Image 20240107125827_699.png",

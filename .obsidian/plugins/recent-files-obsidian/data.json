@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "python中的同一运算符",
-      "path": "程序/python笔记/python中的同一运算符.md"
+      "basename": "python定义常量",
+      "path": "程序/python笔记/python定义常量.md"
+    },
+    {
+      "basename": "python同为运算符",
+      "path": "程序/python笔记/python同为运算符.md"
     },
     {
       "basename": "python数据类型",
       "path": "程序/python笔记/python数据类型.md"
     },
     {
-      "basename": "python转义符",
-      "path": "程序/python笔记/python转义符.md"
-    },
-    {
       "basename": "python中的布尔值",
       "path": "程序/python笔记/python中的布尔值.md"
+    },
+    {
+      "basename": "python转义符",
+      "path": "程序/python笔记/python转义符.md"
     },
     {
       "basename": "python的类型",
@@ -51,10 +55,6 @@
     {
       "basename": "python画笔turtle的一些常用方法",
       "path": "程序/python笔记/python画笔turtle的一些常用方法.md"
-    },
-    {
-      "basename": "python定义常量",
-      "path": "程序/python笔记/python定义常量.md"
     },
     {
       "basename": "序列介绍",
