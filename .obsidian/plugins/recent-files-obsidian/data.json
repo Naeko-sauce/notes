@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "python 中ord和chr",
+      "path": "程序/python笔记/字符串/python 中ord和chr.md"
+    },
+    {
+      "basename": "python字符串常用方法",
+      "path": "程序/python笔记/字符串/python字符串常用方法.md"
+    },
+    {
+      "basename": "python字符串",
+      "path": "程序/python笔记/字符串/python字符串.md"
+    },
+    {
+      "basename": "python可变字符串io.StringIo",
+      "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
+    },
+    {
+      "basename": "python字符串格式化",
+      "path": "程序/python笔记/字符串/python字符串格式化.md"
+    },
+    {
+      "basename": "python字符串切片",
+      "path": "程序/python笔记/字符串/python字符串切片.md"
+    },
+    {
       "basename": "python定义常量",
       "path": "程序/python笔记/python定义常量.md"
     },
@@ -25,32 +49,12 @@
       "path": "程序/python笔记/python的类型.md"
     },
     {
-      "basename": "python字符串",
-      "path": "程序/python笔记/字符串/python字符串.md"
-    },
-    {
-      "basename": "python字符串常用方法",
-      "path": "程序/python笔记/字符串/python字符串常用方法.md"
-    },
-    {
-      "basename": "python字符串切片",
-      "path": "程序/python笔记/字符串/python字符串切片.md"
-    },
-    {
       "basename": "python逻辑运算符",
       "path": "程序/python笔记/python逻辑运算符.md"
     },
     {
       "basename": "python时间模块的一些用法",
       "path": "程序/python笔记/python时间模块的一些用法.md"
-    },
-    {
-      "basename": "python字符串格式化",
-      "path": "程序/python笔记/字符串/python字符串格式化.md"
-    },
-    {
-      "basename": "python可变字符串io.StringIo",
-      "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
     },
     {
       "basename": "python画笔turtle的一些常用方法",
@@ -195,10 +199,6 @@
     {
       "basename": "linux挂载磁盘的命令解释",
       "path": "程序/杂项笔记/linux挂载磁盘的命令解释.md"
-    },
-    {
-      "basename": "socks5代理详细解释",
-      "path": "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md"
     }
   ],
   "omittedPaths": [],
