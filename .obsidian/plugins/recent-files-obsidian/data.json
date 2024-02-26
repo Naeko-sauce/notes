@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "python字符串驻留机制和字符串比较",
+      "path": "程序/python笔记/字符串/python字符串驻留机制和字符串比较.md"
+    },
+    {
       "basename": "python字符串分割与合并",
       "path": "程序/python笔记/字符串/python字符串分割与合并.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "const scene = new THREE.Scene();是什么意思",
       "path": "程序/杂项笔记/three杂项/const scene = new THREE.Scene();是什么意思.md"
-    },
-    {
-      "basename": "gsap javascript库",
-      "path": "程序/杂项笔记/three杂项/gsap javascript库.md"
     }
   ],
   "omittedPaths": [],
