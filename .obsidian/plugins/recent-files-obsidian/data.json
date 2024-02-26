@@ -1,32 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "成员操作符",
-      "path": "程序/python笔记/字符串/成员操作符.md"
+      "basename": "python字符串去除首位信息",
+      "path": "程序/python笔记/字符串/python字符串去除首位信息.md"
     },
     {
-      "basename": "python字符串驻留机制和字符串比较",
-      "path": "程序/python笔记/字符串/python字符串驻留机制和字符串比较.md"
-    },
-    {
-      "basename": "python字符串分割与合并",
-      "path": "程序/python笔记/字符串/python字符串分割与合并.md"
+      "basename": "python字符串常用查找方法",
+      "path": "程序/python笔记/字符串/python字符串常用查找方法.md"
     },
     {
       "basename": "python字符串",
       "path": "程序/python笔记/字符串/python字符串.md"
-    },
-    {
-      "basename": "python字符串切片",
-      "path": "程序/python笔记/字符串/python字符串切片.md"
-    },
-    {
-      "basename": "python字符串常用方法",
-      "path": "程序/python笔记/字符串/python字符串常用方法.md"
-    },
-    {
-      "basename": "python字符串格式化",
-      "path": "程序/python笔记/字符串/python字符串格式化.md"
     },
     {
       "basename": "python 中ord和chr",
@@ -39,6 +23,30 @@
     {
       "basename": "python中的replace函数",
       "path": "程序/python笔记/字符串/python中的replace函数.md"
+    },
+    {
+      "basename": "python字符串常用方法",
+      "path": "程序/python笔记/字符串/python字符串常用方法.md"
+    },
+    {
+      "basename": "python字符串驻留机制和字符串比较",
+      "path": "程序/python笔记/字符串/python字符串驻留机制和字符串比较.md"
+    },
+    {
+      "basename": "python字符串切片",
+      "path": "程序/python笔记/字符串/python字符串切片.md"
+    },
+    {
+      "basename": "python字符串格式化",
+      "path": "程序/python笔记/字符串/python字符串格式化.md"
+    },
+    {
+      "basename": "python字符串分割与合并",
+      "path": "程序/python笔记/字符串/python字符串分割与合并.md"
+    },
+    {
+      "basename": "成员操作符",
+      "path": "程序/python笔记/字符串/成员操作符.md"
     },
     {
       "basename": "python的类型",
@@ -191,14 +199,6 @@
     {
       "basename": "http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单",
       "path": "程序/杂项笔记/网络协议杂项/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md"
-    },
-    {
-      "basename": "IPSec和openvpn的优缺点和作用",
-      "path": "程序/杂项笔记/网络协议杂项/IPSec和openvpn的优缺点和作用.md"
-    },
-    {
-      "basename": "socks原理图",
-      "path": "程序/杂项笔记/网络协议杂项/socks原理图.png"
     }
   ],
   "omittedPaths": [],
