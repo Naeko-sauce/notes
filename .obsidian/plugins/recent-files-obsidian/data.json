@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "python字符串去除首位信息",
-      "path": "程序/python笔记/字符串/python字符串去除首位信息.md"
-    },
-    {
-      "basename": "python字符串常用查找方法",
-      "path": "程序/python笔记/字符串/python字符串常用查找方法.md"
-    },
-    {
-      "basename": "python字符串",
-      "path": "程序/python笔记/字符串/python字符串.md"
-    },
-    {
-      "basename": "python 中ord和chr",
-      "path": "程序/python笔记/字符串/python 中ord和chr.md"
-    },
-    {
       "basename": "python可变字符串io.StringIo",
       "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
     },
@@ -25,24 +9,56 @@
       "path": "程序/python笔记/字符串/python中的replace函数.md"
     },
     {
+      "basename": "python 中ord和chr",
+      "path": "程序/python笔记/字符串/python 中ord和chr.md"
+    },
+    {
+      "basename": "python字符串",
+      "path": "程序/python笔记/字符串/python字符串.md"
+    },
+    {
+      "basename": "python字符串常用查找方法",
+      "path": "程序/python笔记/字符串/python字符串常用查找方法.md"
+    },
+    {
       "basename": "python字符串常用方法",
       "path": "程序/python笔记/字符串/python字符串常用方法.md"
     },
     {
-      "basename": "python字符串驻留机制和字符串比较",
-      "path": "程序/python笔记/字符串/python字符串驻留机制和字符串比较.md"
+      "basename": "python字符串大小写转换方法",
+      "path": "程序/python笔记/字符串/python字符串大小写转换方法.md"
     },
     {
-      "basename": "python字符串切片",
-      "path": "程序/python笔记/字符串/python字符串切片.md"
+      "basename": "python字符串分割与合并",
+      "path": "程序/python笔记/字符串/python字符串分割与合并.md"
+    },
+    {
+      "basename": "python字符串和数字格式化方法",
+      "path": "程序/python笔记/字符串/python字符串和数字格式化方法.md"
     },
     {
       "basename": "python字符串格式化",
       "path": "程序/python笔记/字符串/python字符串格式化.md"
     },
     {
-      "basename": "python字符串分割与合并",
-      "path": "程序/python笔记/字符串/python字符串分割与合并.md"
+      "basename": "python字符串排版",
+      "path": "程序/python笔记/字符串/python字符串排版.md"
+    },
+    {
+      "basename": "python字符串切片",
+      "path": "程序/python笔记/字符串/python字符串切片.md"
+    },
+    {
+      "basename": "python字符串去除首位信息",
+      "path": "程序/python笔记/字符串/python字符串去除首位信息.md"
+    },
+    {
+      "basename": "python字符串特征判断方法",
+      "path": "程序/python笔记/字符串/python字符串特征判断方法.md"
+    },
+    {
+      "basename": "python字符串驻留机制和字符串比较",
+      "path": "程序/python笔记/字符串/python字符串驻留机制和字符串比较.md"
     },
     {
       "basename": "成员操作符",
@@ -183,22 +199,6 @@
     {
       "basename": "kali安装lamp环境",
       "path": "程序/网络安全/kali安装lamp环境.md"
-    },
-    {
-      "basename": "LAMP和LANMP的区别",
-      "path": "程序/网络安全/LAMP和LANMP的区别.md"
-    },
-    {
-      "basename": "GFW防火墙是怎么拦截外网",
-      "path": "程序/杂项笔记/网络协议杂项/GFW防火墙是怎么拦截外网.md"
-    },
-    {
-      "basename": "http代理详细解释",
-      "path": "程序/杂项笔记/网络协议杂项/http代理详细解释.md"
-    },
-    {
-      "basename": "http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单",
-      "path": "程序/杂项笔记/网络协议杂项/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md"
     }
   ],
   "omittedPaths": [],

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/字符串/python字符串去除首位信息.md",
+                "file": "程序/python笔记/字符串/python可变字符串io.StringIo.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/字符串/python字符串去除首位信息.md",
+                "file": "程序/python笔记/字符串/python可变字符串io.StringIo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/字符串/python字符串去除首位信息.md",
+                "file": "程序/python笔记/字符串/python可变字符串io.StringIo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/字符串/python字符串去除首位信息.md"
+                "file": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
               }
             }
           },
@@ -208,17 +208,21 @@
   },
   "active": "0fddec8b1e302cb8",
   "lastOpenFiles": [
-    "程序/python笔记/字符串/python字符串常用查找方法.md",
-    "程序/python笔记/字符串/python字符串去除首位信息.md",
-    "程序/python笔记/字符串/python字符串.md",
+    "程序/python笔记/字符串/python中的replace函数.md",
     "程序/python笔记/字符串/python 中ord和chr.md",
     "程序/python笔记/字符串/python可变字符串io.StringIo.md",
-    "程序/python笔记/字符串/python中的replace函数.md",
+    "程序/python笔记/字符串/python字符串.md",
+    "程序/python笔记/字符串/python字符串常用查找方法.md",
     "程序/python笔记/字符串/python字符串常用方法.md",
-    "程序/python笔记/字符串/python字符串驻留机制和字符串比较.md",
-    "程序/python笔记/字符串/python字符串切片.md",
-    "程序/python笔记/字符串/python字符串格式化.md",
+    "程序/python笔记/字符串/python字符串大小写转换方法.md",
     "程序/python笔记/字符串/python字符串分割与合并.md",
+    "程序/python笔记/字符串/python字符串和数字格式化方法.md",
+    "程序/python笔记/字符串/python字符串格式化.md",
+    "程序/python笔记/字符串/python字符串排版.md",
+    "程序/python笔记/字符串/python字符串切片.md",
+    "程序/python笔记/字符串/python字符串去除首位信息.md",
+    "程序/python笔记/字符串/python字符串特征判断方法.md",
+    "程序/python笔记/字符串/python字符串驻留机制和字符串比较.md",
     "程序/python笔记/字符串/成员操作符.md",
     "程序/python笔记/python的类型.md",
     "程序/python笔记/python定义常量.md",
@@ -230,10 +234,6 @@
     "程序/python笔记/python同位运算符.md",
     "程序/python笔记/python中的同一运算符.md",
     "程序/python笔记/python逻辑运算符.md",
-    "程序/python笔记/python时间模块的一些用法.md",
-    "程序/python笔记/python画笔turtle的一些常用方法.md",
-    "程序/python笔记/序列/序列介绍.md",
-    "程序/c/c 语言中printf，const，scanf的用法.md",
     "程序/c",
     "程序/报错合集/前端报错",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
