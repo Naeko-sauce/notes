@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "python列表排序方法",
+      "path": "程序/python笔记/序列/列表/python列表排序方法.md"
+    },
+    {
       "basename": "python 列表切片",
       "path": "程序/python笔记/序列/列表/python 列表切片.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "段寄存器",
       "path": "程序/汇编/段寄存器.md"
-    },
-    {
-      "basename": "汇编常用的指令",
-      "path": "程序/汇编/汇编常用的指令.md"
     }
   ],
   "omittedPaths": [],
