@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "python列表排序方法",
-      "path": "程序/python笔记/序列/列表/python列表排序方法.md"
+      "basename": "python元组",
+      "path": "程序/python笔记/序列/元组/python元组.md"
+    },
+    {
+      "basename": "序列介绍",
+      "path": "程序/python笔记/序列/序列介绍.md"
+    },
+    {
+      "basename": "python字符串分割与合并",
+      "path": "程序/python笔记/字符串/python字符串分割与合并.md"
     },
     {
       "basename": "python 列表切片",
       "path": "程序/python笔记/序列/列表/python 列表切片.md"
+    },
+    {
+      "basename": "python列表排序方法",
+      "path": "程序/python笔记/序列/列表/python列表排序方法.md"
     },
     {
       "basename": "python字符串切片",
@@ -31,10 +43,6 @@
     {
       "basename": "python使用list创建列表的方法",
       "path": "程序/python笔记/序列/列表/python使用list创建列表的方法.md"
-    },
-    {
-      "basename": "序列介绍",
-      "path": "程序/python笔记/序列/序列介绍.md"
     },
     {
       "basename": "python中del用法",
@@ -121,10 +129,6 @@
       "path": "程序/python笔记/字符串/python字符串大小写转换方法.md"
     },
     {
-      "basename": "python字符串分割与合并",
-      "path": "程序/python笔记/字符串/python字符串分割与合并.md"
-    },
-    {
       "basename": "python字符串和数字格式化方法",
       "path": "程序/python笔记/字符串/python字符串和数字格式化方法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "修改cs、ip中的内容",
       "path": "程序/汇编/修改cs、ip中的内容.md"
-    },
-    {
-      "basename": "段寄存器",
-      "path": "程序/汇编/段寄存器.md"
     }
   ],
   "omittedPaths": [],
