@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "python 列表切片",
+      "path": "程序/python笔记/序列/列表/python 列表切片.md"
+    },
+    {
+      "basename": "python字符串切片",
+      "path": "程序/python笔记/字符串/python字符串切片.md"
+    },
+    {
+      "basename": "列表常用方法",
+      "path": "程序/python笔记/序列/列表/列表常用方法.md"
+    },
+    {
+      "basename": "cpu栈",
+      "path": "程序/汇编/cpu栈.md"
+    },
+    {
+      "basename": "网络通信的基本流程",
+      "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
+    },
+    {
+      "basename": "列表介绍",
+      "path": "程序/python笔记/序列/列表/列表介绍.md"
+    },
+    {
+      "basename": "python使用list创建列表的方法",
+      "path": "程序/python笔记/序列/列表/python使用list创建列表的方法.md"
+    },
+    {
+      "basename": "序列介绍",
+      "path": "程序/python笔记/序列/序列介绍.md"
+    },
+    {
+      "basename": "python中del用法",
+      "path": "程序/python笔记/序列/列表/python中del用法.md"
+    },
+    {
+      "basename": "python中的remove方法",
+      "path": "程序/python笔记/序列/列表/python中的remove方法.md"
+    },
+    {
+      "basename": "python中的pop方法",
+      "path": "程序/python笔记/序列/列表/python中的pop方法.md"
+    },
+    {
+      "basename": "python时间模块的一些用法",
+      "path": "程序/python笔记/python时间模块的一些用法.md"
+    },
+    {
+      "basename": "SQL Server简单创建命令",
+      "path": "程序/SQL Server/SQL Server简单创建命令.md"
+    },
+    {
+      "basename": "SQL Server",
+      "path": "程序/SQL Server/SQL Server.md"
+    },
+    {
+      "basename": "python转义符",
+      "path": "程序/python笔记/python转义符.md"
+    },
+    {
+      "basename": "python定义常量",
+      "path": "程序/python笔记/python定义常量.md"
+    },
+    {
+      "basename": "python逻辑运算符",
+      "path": "程序/python笔记/python逻辑运算符.md"
+    },
+    {
+      "basename": "python数据类型",
+      "path": "程序/python笔记/python数据类型.md"
+    },
+    {
+      "basename": "python中的布尔值",
+      "path": "程序/python笔记/python中的布尔值.md"
+    },
+    {
+      "basename": "降头",
+      "path": "程序/降头.md"
+    },
+    {
+      "basename": "灵感",
+      "path": "模板/灵感模板/灵感.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "模板/日记模板/日记模板.md"
+    },
+    {
       "basename": "python可变字符串io.StringIo",
       "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
     },
@@ -45,10 +133,6 @@
       "path": "程序/python笔记/字符串/python字符串排版.md"
     },
     {
-      "basename": "python字符串切片",
-      "path": "程序/python笔记/字符串/python字符串切片.md"
-    },
-    {
       "basename": "python字符串去除首位信息",
       "path": "程序/python笔记/字符串/python字符串去除首位信息.md"
     },
@@ -69,44 +153,16 @@
       "path": "程序/python笔记/python的类型.md"
     },
     {
-      "basename": "python定义常量",
-      "path": "程序/python笔记/python定义常量.md"
-    },
-    {
       "basename": "类变量引出",
       "path": "程序/java/类变量引出.md"
-    },
-    {
-      "basename": "python转义符",
-      "path": "程序/python笔记/python转义符.md"
     },
     {
       "basename": "python同为运算符",
       "path": "程序/python笔记/python同为运算符.md"
     },
     {
-      "basename": "python数据类型",
-      "path": "程序/python笔记/python数据类型.md"
-    },
-    {
-      "basename": "python中的布尔值",
-      "path": "程序/python笔记/python中的布尔值.md"
-    },
-    {
-      "basename": "python逻辑运算符",
-      "path": "程序/python笔记/python逻辑运算符.md"
-    },
-    {
-      "basename": "python时间模块的一些用法",
-      "path": "程序/python笔记/python时间模块的一些用法.md"
-    },
-    {
       "basename": "python画笔turtle的一些常用方法",
       "path": "程序/python笔记/python画笔turtle的一些常用方法.md"
-    },
-    {
-      "basename": "序列介绍",
-      "path": "程序/python笔记/序列/序列介绍.md"
     },
     {
       "basename": "c 语言中printf，const，scanf的用法",
@@ -137,68 +193,12 @@
       "path": "程序/汇编/修改cs、ip中的内容.md"
     },
     {
-      "basename": "cpu栈",
-      "path": "程序/汇编/cpu栈.md"
-    },
-    {
       "basename": "段寄存器",
       "path": "程序/汇编/段寄存器.md"
     },
     {
       "basename": "汇编常用的指令",
       "path": "程序/汇编/汇编常用的指令.md"
-    },
-    {
-      "basename": "汇编的组成",
-      "path": "程序/汇编/汇编的组成.md"
-    },
-    {
-      "basename": "汇编指令存放地址",
-      "path": "程序/汇编/汇编指令存放地址.md"
-    },
-    {
-      "basename": "如何使代码段中的代码被执行",
-      "path": "程序/汇编/如何使代码段中的代码被执行.md"
-    },
-    {
-      "basename": "debug",
-      "path": "程序/汇编/debug.md"
-    },
-    {
-      "basename": "段地址",
-      "path": "程序/汇编/段地址.md"
-    },
-    {
-      "basename": "8080cpu",
-      "path": "程序/汇编/8080cpu.md"
-    },
-    {
-      "basename": "同或",
-      "path": "程序/数字电子/同或.md"
-    },
-    {
-      "basename": "非运算",
-      "path": "程序/数字电子/非运算.md"
-    },
-    {
-      "basename": "逻辑异或",
-      "path": "程序/数字电子/逻辑异或.md"
-    },
-    {
-      "basename": "逻辑与非",
-      "path": "程序/数字电子/逻辑与非.md"
-    },
-    {
-      "basename": "与运算",
-      "path": "程序/数字电子/与运算.md"
-    },
-    {
-      "basename": "使用LAMP部署DVWA",
-      "path": "程序/网络安全/使用LAMP部署DVWA.md"
-    },
-    {
-      "basename": "kali安装lamp环境",
-      "path": "程序/网络安全/kali安装lamp环境.md"
     }
   ],
   "omittedPaths": [],
