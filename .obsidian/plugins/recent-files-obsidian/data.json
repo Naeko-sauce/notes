@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "在python中获取字典内的值的方法",
+      "path": "程序/python笔记/序列/字典/在python中获取字典内的值的方法.md"
+    },
+    {
       "basename": "python字典的一些解释",
       "path": "程序/python笔记/序列/字典/python字典的一些解释.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "python画笔turtle的一些常用方法",
       "path": "程序/python笔记/python画笔turtle的一些常用方法.md"
-    },
-    {
-      "basename": "c 语言中printf，const，scanf的用法",
-      "path": "程序/c/c 语言中printf，const，scanf的用法.md"
     }
   ],
   "omittedPaths": [],
