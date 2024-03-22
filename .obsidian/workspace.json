@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/序列/元组/python元组.md",
+                "file": "程序/python笔记/序列/元组/python中zip的用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "range",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/序列/元组/python元组.md",
+                "file": "程序/python笔记/序列/元组/python中zip的用法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/序列/元组/python元组.md",
+                "file": "程序/python笔记/序列/元组/python中zip的用法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/序列/元组/python元组.md"
+                "file": "程序/python笔记/序列/元组/python中zip的用法.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "3d-graph-new:Global 3D Graph": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -198,21 +200,25 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "flomo-importer:Flomo Importer": false,
-      "templater-obsidian:Templater": false,
-      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-memos:Memos": false
     }
   },
   "active": "b1ce4dfda3c6dc41",
   "lastOpenFiles": [
-    "程序/python笔记/序列/序列介绍.md",
+    "程序/python笔记/序列/列表/python列表排序方法.md",
+    "程序/python笔记/序列/元组/python中zip的用法.md",
     "程序/python笔记/序列/元组/python元组.md",
+    "程序/python笔记/python逻辑运算符.md",
+    "程序/python笔记/python的类型.md",
+    "寄/2023-11-16.md",
+    "寄/寄根.md",
+    "总目录/php.md",
+    "程序/python笔记/序列/序列介绍.md",
     "程序/python笔记/序列/元组",
     "程序/python笔记/字符串/python字符串分割与合并.md",
     "程序/python笔记/序列/列表/python 列表切片.md",
-    "程序/python笔记/序列/列表/python列表排序方法.md",
     "程序/python笔记/字符串/python字符串切片.md",
     "程序/python笔记/序列/列表/列表常用方法.md",
     "程序/汇编/cpu栈.md",
@@ -227,13 +233,7 @@
     "程序/SQL Server/SQL Server.md",
     "程序/python笔记/python转义符.md",
     "程序/python笔记/python定义常量.md",
-    "程序/python笔记/python逻辑运算符.md",
     "程序/python笔记/python数据类型.md",
-    "程序/python笔记/python中的布尔值.md",
-    "程序/降头.md",
-    "模板/灵感模板/灵感.md",
-    "模板/日记模板/日记模板.md",
-    "程序/python笔记/字符串/python可变字符串io.StringIo.md",
     "程序/c",
     "程序/报错合集/前端报错",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
