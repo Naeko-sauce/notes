@@ -121,3 +121,25 @@ print(squares) # 输出: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 1. **使用 dict () 构造函数**：这是创建字典的标准方法，可以接受一个键值对元组的列表作为参数。
 ```python
 my_dict = dict([('key1', 'value1'), ('key2', 'value2')])
+```
+2. **使用 fromkeys () 方法**：这个方法可以创建一个字典，其中所有的值都是同一个值，键是从一个可迭代对象中获取的。
+```python
+keys = ['key1', 'key2']
+my_dict = dict.fromkeys(keys, 'default_value')
+```
+3. **使用字典推导式**：这是一种简洁的方式，可以在一行代码中创建字典。
+```python
+my_dict = {key: value for key, value in [('key1', 'value1'), ('key2', 'value2')]}
+```
+4. **使用 zip () 函数**：如果你有两个列表，一个包含键，另一个包含值，你可以使用 zip () 函数将它们组合成一个字典。
+```python
+keys = ['key1', 'key2']
+values = ['value1', 'value2']
+my_dict = dict(zip(keys, values))
+```
+5. **使用 collections.OrderedDict ()**：这是一个特殊的字典，它记住了元素被插入的顺序。这在需要保持元素顺序的情况下很有用。
+```python
+from collections import OrderedDict
+my_dict = OrderedDict([('key1', 'value1'), ('key2', 'value2')])
+```
+这些方法提供了创建字典的多种灵活性，可以根据具体需求选择最适合的方法。
