@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "python中zip的用法",
-      "path": "程序/python笔记/序列/元组/python中zip的用法.md"
+      "basename": "python中——next——()的用法",
+      "path": "程序/python笔记/序列/元组/python中——next——()的用法.md"
     },
     {
-      "basename": "python列表排序方法",
-      "path": "程序/python笔记/序列/列表/python列表排序方法.md"
+      "basename": "python中zip的用法",
+      "path": "程序/python笔记/序列/元组/python中zip的用法.md"
     },
     {
       "basename": "python元组",
       "path": "程序/python笔记/序列/元组/python元组.md"
     },
     {
-      "basename": "python逻辑运算符",
-      "path": "程序/python笔记/python逻辑运算符.md"
+      "basename": "python数据类型",
+      "path": "程序/python笔记/python数据类型.md"
     },
     {
       "basename": "python的类型",
       "path": "程序/python笔记/python的类型.md"
+    },
+    {
+      "basename": "序列介绍",
+      "path": "程序/python笔记/序列/序列介绍.md"
+    },
+    {
+      "basename": "python列表排序方法",
+      "path": "程序/python笔记/序列/列表/python列表排序方法.md"
+    },
+    {
+      "basename": "python逻辑运算符",
+      "path": "程序/python笔记/python逻辑运算符.md"
     },
     {
       "basename": "2023-11-16",
@@ -31,10 +43,6 @@
     {
       "basename": "php",
       "path": "总目录/php.md"
-    },
-    {
-      "basename": "序列介绍",
-      "path": "程序/python笔记/序列/序列介绍.md"
     },
     {
       "basename": "python字符串分割与合并",
@@ -99,10 +107,6 @@
     {
       "basename": "python定义常量",
       "path": "程序/python笔记/python定义常量.md"
-    },
-    {
-      "basename": "python数据类型",
-      "path": "程序/python笔记/python数据类型.md"
     },
     {
       "basename": "python中的布尔值",
@@ -195,10 +199,6 @@
     {
       "basename": "c语言中的%和&",
       "path": "程序/c/c语言中的%和&.md"
-    },
-    {
-      "basename": "c 声明变量",
-      "path": "程序/c/c 声明变量.md"
     }
   ],
   "omittedPaths": [],
