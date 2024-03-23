@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "字典删除所有方法",
+      "path": "程序/python笔记/序列/字典/字典删除所有方法.md"
+    },
+    {
       "basename": "python 字典增删改查的部分方法",
       "path": "程序/python笔记/序列/字典/python 字典增删改查的部分方法.md"
+    },
+    {
+      "basename": "python中update方法",
+      "path": "程序/python笔记/序列/字典/python中update方法.md"
     },
     {
       "basename": "在python中获取字典内的值的方法",
@@ -191,14 +199,6 @@
     {
       "basename": "成员操作符",
       "path": "程序/python笔记/字符串/成员操作符.md"
-    },
-    {
-      "basename": "类变量引出",
-      "path": "程序/java/类变量引出.md"
-    },
-    {
-      "basename": "python同为运算符",
-      "path": "程序/python笔记/python同为运算符.md"
     }
   ],
   "omittedPaths": [],
