@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "python字典解包",
+      "path": "程序/python笔记/序列/字典/python字典解包.md"
+    },
+    {
       "basename": "python序列解包",
-      "path": "程序/python笔记/序列/字典/python序列解包.md"
+      "path": "程序/python笔记/序列/python序列解包.md"
     },
     {
       "basename": "字典删除所有方法",
@@ -195,10 +199,6 @@
     {
       "basename": "python字符串特征判断方法",
       "path": "程序/python笔记/字符串/python字符串特征判断方法.md"
-    },
-    {
-      "basename": "python字符串驻留机制和字符串比较",
-      "path": "程序/python笔记/字符串/python字符串驻留机制和字符串比较.md"
     }
   ],
   "omittedPaths": [],
