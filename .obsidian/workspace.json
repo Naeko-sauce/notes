@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/序列/python中的集合.md",
+                "file": "程序/python笔记/序列/python集合的三种运算.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/序列/python中的集合.md",
+                "file": "程序/python笔记/序列/python集合的三种运算.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/序列/python中的集合.md",
+                "file": "程序/python笔记/序列/python集合的三种运算.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/序列/python中的集合.md"
+                "file": "程序/python笔记/序列/python集合的三种运算.md"
               }
             }
           },
@@ -207,8 +207,9 @@
   },
   "active": "b1ce4dfda3c6dc41",
   "lastOpenFiles": [
-    "程序/python笔记/序列/python序列解包.md",
     "程序/python笔记/序列/python中的集合.md",
+    "程序/python笔记/序列/python集合的三种运算.md",
+    "程序/python笔记/序列/python序列解包.md",
     "程序/python笔记/python数据类型.md",
     "程序/python笔记/序列/列表/python使用list创建列表的方法.md",
     "程序/python笔记/序列/字典/python字典的一些解释.md",
@@ -235,7 +236,6 @@
     "程序/python笔记/字符串/python字符串切片.md",
     "程序/python笔记/序列/列表/列表常用方法.md",
     "程序/汇编/cpu栈.md",
-    "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md",
     "程序/c",
     "程序/报错合集/前端报错",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
