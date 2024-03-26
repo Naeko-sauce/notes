@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "e2994384b955761f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7aebb85416928a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d42a2acd4cc727a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序/python笔记/序列/元组/python中——next——()的用法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52672bd4e43cb1b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "51195711858237cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a525a2635dc013d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "da63714648023070",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c7a06c647392a9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d3976a5e284a89b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ad172b78dace012",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17add949bc3ec93e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed39807436fe552",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55fdca4523a1c638",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "624465c7a2e7ac6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "程序/python笔记/序列/元组/python中——next——()的用法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13f59acaf1c3a770",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "程序/python笔记/序列/元组/python中——next——()的用法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e61e4c844c574284",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06959ccd30cb3b3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "程序/python笔记/序列/元组/python中——next——()的用法.md"
+              }
+            }
+          },
+          {
+            "id": "f2c3697c1fff9839",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "flomo-importer:Flomo Importer": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "8d42a2acd4cc727a",
+  "lastOpenFiles": [
+    "程序/python笔记/序列/元组/python元组.md",
+    "程序/python笔记/序列/元组/python中——next——()的用法.md",
+    "程序/python笔记/序列/元组/python中zip的用法.md"
+  ]
+}
