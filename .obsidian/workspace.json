@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,11 +199,8 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "flomo-importer:Flomo Importer": false,
-      "templater-obsidian:Templater": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "obsidian-memos:Memos": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "b1ce4dfda3c6dc41",
