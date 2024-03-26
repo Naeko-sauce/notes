@@ -1,24 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "python元组",
-      "path": "程序/python笔记/序列/元组/python元组.md"
+      "basename": "python集合的三种运算",
+      "path": "程序/python笔记/序列/python集合的三种运算.md"
     },
     {
-      "basename": "序列介绍",
-      "path": "程序/python笔记/序列/序列介绍.md"
+      "basename": "python中的集合",
+      "path": "程序/python笔记/序列/python中的集合.md"
+    },
+    {
+      "basename": "python序列解包",
+      "path": "程序/python笔记/序列/python序列解包.md"
+    },
+    {
+      "basename": "python数据类型",
+      "path": "程序/python笔记/python数据类型.md"
+    },
+    {
+      "basename": "python使用list创建列表的方法",
+      "path": "程序/python笔记/序列/列表/python使用list创建列表的方法.md"
+    },
+    {
+      "basename": "python字典的一些解释",
+      "path": "程序/python笔记/序列/字典/python字典的一些解释.md"
     },
     {
       "basename": "python字符串分割与合并",
       "path": "程序/python笔记/字符串/python字符串分割与合并.md"
     },
     {
-      "basename": "python 列表切片",
-      "path": "程序/python笔记/序列/列表/python 列表切片.md"
+      "basename": "python字典解包",
+      "path": "程序/python笔记/序列/字典/python字典解包.md"
+    },
+    {
+      "basename": "字典删除所有方法",
+      "path": "程序/python笔记/序列/字典/字典删除所有方法.md"
+    },
+    {
+      "basename": "python 字典增删改查的部分方法",
+      "path": "程序/python笔记/序列/字典/python 字典增删改查的部分方法.md"
+    },
+    {
+      "basename": "python中update方法",
+      "path": "程序/python笔记/序列/字典/python中update方法.md"
+    },
+    {
+      "basename": "在python中获取字典内的值的方法",
+      "path": "程序/python笔记/序列/字典/在python中获取字典内的值的方法.md"
+    },
+    {
+      "basename": "python中——next——()的用法",
+      "path": "程序/python笔记/序列/元组/python中——next——()的用法.md"
+    },
+    {
+      "basename": "python中zip的用法",
+      "path": "程序/python笔记/序列/元组/python中zip的用法.md"
+    },
+    {
+      "basename": "python元组",
+      "path": "程序/python笔记/序列/元组/python元组.md"
+    },
+    {
+      "basename": "python的类型",
+      "path": "程序/python笔记/python的类型.md"
+    },
+    {
+      "basename": "序列介绍",
+      "path": "程序/python笔记/序列/序列介绍.md"
     },
     {
       "basename": "python列表排序方法",
       "path": "程序/python笔记/序列/列表/python列表排序方法.md"
+    },
+    {
+      "basename": "python逻辑运算符",
+      "path": "程序/python笔记/python逻辑运算符.md"
+    },
+    {
+      "basename": "2023-11-16",
+      "path": "寄/2023-11-16.md"
+    },
+    {
+      "basename": "寄根",
+      "path": "寄/寄根.md"
+    },
+    {
+      "basename": "php",
+      "path": "总目录/php.md"
+    },
+    {
+      "basename": "python 列表切片",
+      "path": "程序/python笔记/序列/列表/python 列表切片.md"
     },
     {
       "basename": "python字符串切片",
@@ -39,10 +111,6 @@
     {
       "basename": "列表介绍",
       "path": "程序/python笔记/序列/列表/列表介绍.md"
-    },
-    {
-      "basename": "python使用list创建列表的方法",
-      "path": "程序/python笔记/序列/列表/python使用list创建列表的方法.md"
     },
     {
       "basename": "python中del用法",
@@ -75,14 +143,6 @@
     {
       "basename": "python定义常量",
       "path": "程序/python笔记/python定义常量.md"
-    },
-    {
-      "basename": "python逻辑运算符",
-      "path": "程序/python笔记/python逻辑运算符.md"
-    },
-    {
-      "basename": "python数据类型",
-      "path": "程序/python笔记/python数据类型.md"
     },
     {
       "basename": "python中的布尔值",
@@ -139,66 +199,6 @@
     {
       "basename": "python字符串排版",
       "path": "程序/python笔记/字符串/python字符串排版.md"
-    },
-    {
-      "basename": "python字符串去除首位信息",
-      "path": "程序/python笔记/字符串/python字符串去除首位信息.md"
-    },
-    {
-      "basename": "python字符串特征判断方法",
-      "path": "程序/python笔记/字符串/python字符串特征判断方法.md"
-    },
-    {
-      "basename": "python字符串驻留机制和字符串比较",
-      "path": "程序/python笔记/字符串/python字符串驻留机制和字符串比较.md"
-    },
-    {
-      "basename": "成员操作符",
-      "path": "程序/python笔记/字符串/成员操作符.md"
-    },
-    {
-      "basename": "python的类型",
-      "path": "程序/python笔记/python的类型.md"
-    },
-    {
-      "basename": "类变量引出",
-      "path": "程序/java/类变量引出.md"
-    },
-    {
-      "basename": "python同为运算符",
-      "path": "程序/python笔记/python同为运算符.md"
-    },
-    {
-      "basename": "python画笔turtle的一些常用方法",
-      "path": "程序/python笔记/python画笔turtle的一些常用方法.md"
-    },
-    {
-      "basename": "c 语言中printf，const，scanf的用法",
-      "path": "程序/c/c 语言中printf，const，scanf的用法.md"
-    },
-    {
-      "basename": "c语言中的%和&",
-      "path": "程序/c/c语言中的%和&.md"
-    },
-    {
-      "basename": "c 声明变量",
-      "path": "程序/c/c 声明变量.md"
-    },
-    {
-      "basename": "three追踪时间",
-      "path": "程序/three.js/three追踪时间.md"
-    },
-    {
-      "basename": "pnpm执行时报错",
-      "path": "程序/报错合集/前端报错/pnpm执行时报错.md"
-    },
-    {
-      "basename": "npm下载文件下载不了改变代理",
-      "path": "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md"
-    },
-    {
-      "basename": "修改cs、ip中的内容",
-      "path": "程序/汇编/修改cs、ip中的内容.md"
     }
   ],
   "omittedPaths": [],
