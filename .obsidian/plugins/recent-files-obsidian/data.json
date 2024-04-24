@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "段寄存器",
+      "path": "程序/汇编/段寄存器.md"
+    },
+    {
+      "basename": "汇编常用的指令",
+      "path": "程序/汇编/汇编常用的指令.md"
+    },
+    {
+      "basename": "段地址",
+      "path": "程序/汇编/段地址.md"
+    },
+    {
+      "basename": "8080cpu",
+      "path": "程序/汇编/8080cpu.md"
+    },
+    {
+      "basename": "如何使代码段中的代码被执行",
+      "path": "程序/汇编/如何使代码段中的代码被执行.md"
+    },
+    {
+      "basename": "修改cs、ip中的内容",
+      "path": "程序/汇编/修改cs、ip中的内容.md"
+    },
+    {
+      "basename": "cpu栈",
+      "path": "程序/汇编/cpu栈.md"
+    },
+    {
+      "basename": "debug",
+      "path": "程序/汇编/debug.md"
+    },
+    {
+      "basename": "汇编指令存放地址",
+      "path": "程序/汇编/汇编指令存放地址.md"
+    },
+    {
       "basename": "python中——next——()的用法",
       "path": "程序/python笔记/序列/元组/python中——next——()的用法.md"
     },
@@ -101,10 +137,6 @@
       "path": "程序/python笔记/序列/列表/列表常用方法.md"
     },
     {
-      "basename": "cpu栈",
-      "path": "程序/汇编/cpu栈.md"
-    },
-    {
       "basename": "网络通信的基本流程",
       "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "python中的replace函数",
       "path": "程序/python笔记/字符串/python中的replace函数.md"
-    },
-    {
-      "basename": "python 中ord和chr",
-      "path": "程序/python笔记/字符串/python 中ord和chr.md"
-    },
-    {
-      "basename": "python字符串",
-      "path": "程序/python笔记/字符串/python字符串.md"
-    },
-    {
-      "basename": "python字符串常用查找方法",
-      "path": "程序/python笔记/字符串/python字符串常用查找方法.md"
-    },
-    {
-      "basename": "python字符串常用方法",
-      "path": "程序/python笔记/字符串/python字符串常用方法.md"
-    },
-    {
-      "basename": "python字符串大小写转换方法",
-      "path": "程序/python笔记/字符串/python字符串大小写转换方法.md"
-    },
-    {
-      "basename": "python字符串和数字格式化方法",
-      "path": "程序/python笔记/字符串/python字符串和数字格式化方法.md"
-    },
-    {
-      "basename": "python字符串格式化",
-      "path": "程序/python笔记/字符串/python字符串格式化.md"
-    },
-    {
-      "basename": "python字符串排版",
-      "path": "程序/python笔记/字符串/python字符串排版.md"
     }
   ],
   "omittedPaths": [],
