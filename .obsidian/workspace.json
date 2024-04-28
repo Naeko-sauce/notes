@@ -187,12 +187,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8d42a2acd4cc727a",
+  "active": "da63714648023070",
   "lastOpenFiles": [
-    "程序/python笔记/python 中circle的用法，画园.md",
-    "程序/python笔记/python部分练习/python画图.md",
-    "程序/python笔记/python部分练习",
+    "程序/python笔记/python函数",
     "程序/python笔记/未命名.md",
+    "程序/python笔记/python部分练习/python画图.md",
+    "程序/python笔记/python 中circle的用法，画园.md",
+    "程序/python笔记/python部分练习",
     "程序/python笔记/python的类型.md",
     "程序/python笔记/序列/列表/列表常用方法.md",
     "程序/python笔记/python循环/python字典推导式.md",
@@ -215,7 +216,6 @@
     "程序/汇编/汇编常用的指令.md",
     "程序/汇编/汇编指令存放地址.md",
     "程序/汇编/如何使代码段中的代码被执行.md",
-    "程序/汇编/段寄存器.md",
     "程序/python笔记/python循环"
   ]
 }

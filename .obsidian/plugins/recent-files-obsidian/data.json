@@ -195,10 +195,6 @@
     {
       "basename": "网络通信的基本流程",
       "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
-    },
-    {
-      "basename": "python中del用法",
-      "path": "程序/python笔记/序列/列表/python中del用法.md"
     }
   ],
   "omittedPaths": [],
