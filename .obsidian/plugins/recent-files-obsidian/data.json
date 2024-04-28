@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "python画图",
+      "path": "程序/python笔记/python部分练习/python画图.md"
+    },
+    {
+      "basename": "python 中circle的用法，画园",
+      "path": "程序/python笔记/python 中circle的用法，画园.md"
+    },
+    {
+      "basename": "python的类型",
+      "path": "程序/python笔记/python的类型.md"
+    },
+    {
       "basename": "列表常用方法",
       "path": "程序/python笔记/序列/列表/列表常用方法.md"
     },
@@ -153,10 +165,6 @@
       "path": "程序/python笔记/序列/字典/在python中获取字典内的值的方法.md"
     },
     {
-      "basename": "python的类型",
-      "path": "程序/python笔记/python的类型.md"
-    },
-    {
       "basename": "python列表排序方法",
       "path": "程序/python笔记/序列/列表/python列表排序方法.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "python中del用法",
       "path": "程序/python笔记/序列/列表/python中del用法.md"
-    },
-    {
-      "basename": "python中的remove方法",
-      "path": "程序/python笔记/序列/列表/python中的remove方法.md"
-    },
-    {
-      "basename": "python中的pop方法",
-      "path": "程序/python笔记/序列/列表/python中的pop方法.md"
     }
   ],
   "omittedPaths": [],

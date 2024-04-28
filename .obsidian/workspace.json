@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/序列/列表/列表常用方法.md",
+                "file": "程序/python笔记/python部分练习/python画图.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/序列/列表/列表常用方法.md",
+                "file": "程序/python笔记/python部分练习/python画图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/序列/列表/列表常用方法.md",
+                "file": "程序/python笔记/python部分练习/python画图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/序列/列表/列表常用方法.md"
+                "file": "程序/python笔记/python部分练习/python画图.md"
               }
             }
           },
@@ -189,6 +189,12 @@
   },
   "active": "8d42a2acd4cc727a",
   "lastOpenFiles": [
+    "程序/python笔记/python 中circle的用法，画园.md",
+    "程序/python笔记/python部分练习/python画图.md",
+    "程序/python笔记/python部分练习",
+    "程序/python笔记/未命名.md",
+    "程序/python笔记/python的类型.md",
+    "程序/python笔记/序列/列表/列表常用方法.md",
     "程序/python笔记/python循环/python字典推导式.md",
     "程序/python笔记/python推导式.md",
     "程序/python笔记/python元组推导式.md",
@@ -210,10 +216,6 @@
     "程序/汇编/汇编指令存放地址.md",
     "程序/汇编/如何使代码段中的代码被执行.md",
     "程序/汇编/段寄存器.md",
-    "程序/python笔记/python循环",
-    "程序/汇编/修改cs、ip中的内容.md",
-    "程序/python笔记/序列/元组/python中——next——()的用法.md",
-    "程序/python笔记/序列/元组/python元组.md",
-    "程序/python笔记/序列/元组/python中zip的用法.md"
+    "程序/python笔记/python循环"
   ]
 }
