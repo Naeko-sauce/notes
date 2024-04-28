@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/汇编/段寄存器.md",
+                "file": "程序/python笔记/序列/序列介绍.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "range",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/汇编/段寄存器.md",
+                "file": "程序/python笔记/序列/序列介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/汇编/段寄存器.md",
+                "file": "程序/python笔记/序列/序列介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/汇编/段寄存器.md"
+                "file": "程序/python笔记/序列/序列介绍.md"
               }
             }
           },
@@ -189,15 +189,25 @@
   },
   "active": "8d42a2acd4cc727a",
   "lastOpenFiles": [
-    "程序/汇编/汇编常用的指令.md",
-    "程序/汇编/段地址.md",
-    "程序/汇编/8080cpu.md",
-    "程序/汇编/如何使代码段中的代码被执行.md",
-    "程序/汇编/修改cs、ip中的内容.md",
-    "程序/汇编/cpu栈.md",
+    "程序/python笔记/python循环/python中的zip函数.md",
+    "程序/python笔记/python循环/python中的循环.md",
+    "程序/python笔记/python循环/python循环优化的一些方法.md",
+    "程序/python笔记/python循环/python中continue的作用.md",
+    "程序/java/类变量引出.md",
+    "程序/python笔记/序列/列表/列表介绍.md",
+    "程序/密码学/移位加密.md",
+    "程序/密码学/数字签名.md",
+    "程序/密码学/三重des和des的区别.md",
     "程序/汇编/debug.md",
+    "程序/汇编/cpu栈.md",
+    "程序/汇编/8080cpu.md",
+    "程序/汇编/段地址.md",
+    "程序/汇编/汇编常用的指令.md",
     "程序/汇编/汇编指令存放地址.md",
+    "程序/汇编/如何使代码段中的代码被执行.md",
     "程序/汇编/段寄存器.md",
+    "程序/python笔记/python循环",
+    "程序/汇编/修改cs、ip中的内容.md",
     "程序/python笔记/序列/元组/python中——next——()的用法.md",
     "程序/python笔记/序列/元组/python元组.md",
     "程序/python笔记/序列/元组/python中zip的用法.md"

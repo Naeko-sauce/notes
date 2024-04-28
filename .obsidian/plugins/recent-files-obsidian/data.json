@@ -1,40 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "段寄存器",
-      "path": "程序/汇编/段寄存器.md"
+      "basename": "序列介绍",
+      "path": "程序/python笔记/序列/序列介绍.md"
     },
     {
-      "basename": "汇编常用的指令",
-      "path": "程序/汇编/汇编常用的指令.md"
+      "basename": "python中的zip函数",
+      "path": "程序/python笔记/python循环/python中的zip函数.md"
     },
     {
-      "basename": "段地址",
-      "path": "程序/汇编/段地址.md"
+      "basename": "python中的循环",
+      "path": "程序/python笔记/python循环/python中的循环.md"
     },
     {
-      "basename": "8080cpu",
-      "path": "程序/汇编/8080cpu.md"
+      "basename": "python循环优化的一些方法",
+      "path": "程序/python笔记/python循环/python循环优化的一些方法.md"
     },
     {
-      "basename": "如何使代码段中的代码被执行",
-      "path": "程序/汇编/如何使代码段中的代码被执行.md"
+      "basename": "python中continue的作用",
+      "path": "程序/python笔记/python循环/python中continue的作用.md"
     },
     {
-      "basename": "修改cs、ip中的内容",
-      "path": "程序/汇编/修改cs、ip中的内容.md"
+      "basename": "类变量引出",
+      "path": "程序/java/类变量引出.md"
     },
     {
-      "basename": "cpu栈",
-      "path": "程序/汇编/cpu栈.md"
+      "basename": "列表介绍",
+      "path": "程序/python笔记/序列/列表/列表介绍.md"
+    },
+    {
+      "basename": "移位加密",
+      "path": "程序/密码学/移位加密.md"
+    },
+    {
+      "basename": "数字签名",
+      "path": "程序/密码学/数字签名.md"
+    },
+    {
+      "basename": "三重des和des的区别",
+      "path": "程序/密码学/三重des和des的区别.md"
     },
     {
       "basename": "debug",
       "path": "程序/汇编/debug.md"
     },
     {
+      "basename": "cpu栈",
+      "path": "程序/汇编/cpu栈.md"
+    },
+    {
+      "basename": "8080cpu",
+      "path": "程序/汇编/8080cpu.md"
+    },
+    {
+      "basename": "段地址",
+      "path": "程序/汇编/段地址.md"
+    },
+    {
+      "basename": "汇编常用的指令",
+      "path": "程序/汇编/汇编常用的指令.md"
+    },
+    {
       "basename": "汇编指令存放地址",
       "path": "程序/汇编/汇编指令存放地址.md"
+    },
+    {
+      "basename": "如何使代码段中的代码被执行",
+      "path": "程序/汇编/如何使代码段中的代码被执行.md"
+    },
+    {
+      "basename": "段寄存器",
+      "path": "程序/汇编/段寄存器.md"
+    },
+    {
+      "basename": "修改cs、ip中的内容",
+      "path": "程序/汇编/修改cs、ip中的内容.md"
     },
     {
       "basename": "python中——next——()的用法",
@@ -101,10 +141,6 @@
       "path": "程序/python笔记/python的类型.md"
     },
     {
-      "basename": "序列介绍",
-      "path": "程序/python笔记/序列/序列介绍.md"
-    },
-    {
       "basename": "python列表排序方法",
       "path": "程序/python笔记/序列/列表/python列表排序方法.md"
     },
@@ -141,10 +177,6 @@
       "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
     },
     {
-      "basename": "列表介绍",
-      "path": "程序/python笔记/序列/列表/列表介绍.md"
-    },
-    {
       "basename": "python中del用法",
       "path": "程序/python笔记/序列/列表/python中del用法.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "SQL Server",
       "path": "程序/SQL Server/SQL Server.md"
-    },
-    {
-      "basename": "python转义符",
-      "path": "程序/python笔记/python转义符.md"
-    },
-    {
-      "basename": "python定义常量",
-      "path": "程序/python笔记/python定义常量.md"
-    },
-    {
-      "basename": "python中的布尔值",
-      "path": "程序/python笔记/python中的布尔值.md"
-    },
-    {
-      "basename": "降头",
-      "path": "程序/降头.md"
-    },
-    {
-      "basename": "灵感",
-      "path": "模板/灵感模板/灵感.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "模板/日记模板/日记模板.md"
-    },
-    {
-      "basename": "python可变字符串io.StringIo",
-      "path": "程序/python笔记/字符串/python可变字符串io.StringIo.md"
-    },
-    {
-      "basename": "python中的replace函数",
-      "path": "程序/python笔记/字符串/python中的replace函数.md"
     }
   ],
   "omittedPaths": [],
