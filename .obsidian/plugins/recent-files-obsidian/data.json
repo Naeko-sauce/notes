@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "列表常用方法",
+      "path": "程序/python笔记/序列/列表/列表常用方法.md"
+    },
+    {
+      "basename": "python字典推导式",
+      "path": "程序/python笔记/python循环/python字典推导式.md"
+    },
+    {
+      "basename": "python推导式",
+      "path": "程序/python笔记/python推导式.md"
+    },
+    {
+      "basename": "python元组推导式",
+      "path": "程序/python笔记/python元组推导式.md"
+    },
+    {
       "basename": "序列介绍",
       "path": "程序/python笔记/序列/序列介绍.md"
     },
@@ -169,10 +185,6 @@
       "path": "程序/python笔记/字符串/python字符串切片.md"
     },
     {
-      "basename": "列表常用方法",
-      "path": "程序/python笔记/序列/列表/列表常用方法.md"
-    },
-    {
       "basename": "网络通信的基本流程",
       "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "python中的pop方法",
       "path": "程序/python笔记/序列/列表/python中的pop方法.md"
-    },
-    {
-      "basename": "python时间模块的一些用法",
-      "path": "程序/python笔记/python时间模块的一些用法.md"
-    },
-    {
-      "basename": "SQL Server简单创建命令",
-      "path": "程序/SQL Server/SQL Server简单创建命令.md"
-    },
-    {
-      "basename": "SQL Server",
-      "path": "程序/SQL Server/SQL Server.md"
     }
   ],
   "omittedPaths": [],
