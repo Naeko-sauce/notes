@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "8086cpu地址加法器",
+      "path": "程序/汇编/8086cpu地址加法器.md"
+    },
+    {
+      "basename": "cpu栈",
+      "path": "程序/汇编/cpu栈.md"
+    },
+    {
+      "basename": "debug",
+      "path": "程序/汇编/debug.md"
+    },
+    {
+      "basename": "汇编常用的指令",
+      "path": "程序/汇编/汇编常用的指令.md"
+    },
+    {
+      "basename": "段地址",
+      "path": "程序/汇编/段地址.md"
+    },
+    {
+      "basename": "8080cpu",
+      "path": "程序/汇编/8080cpu.md"
+    },
+    {
       "basename": "汇编中的RAM和ROM",
       "path": "程序/汇编/汇编中的RAM和ROM.md"
     },
@@ -133,26 +157,6 @@
       "path": "程序/密码学/三重des和des的区别.md"
     },
     {
-      "basename": "debug",
-      "path": "程序/汇编/debug.md"
-    },
-    {
-      "basename": "cpu栈",
-      "path": "程序/汇编/cpu栈.md"
-    },
-    {
-      "basename": "8080cpu",
-      "path": "程序/汇编/8080cpu.md"
-    },
-    {
-      "basename": "段地址",
-      "path": "程序/汇编/段地址.md"
-    },
-    {
-      "basename": "汇编常用的指令",
-      "path": "程序/汇编/汇编常用的指令.md"
-    },
-    {
       "basename": "如何使代码段中的代码被执行",
       "path": "程序/汇编/如何使代码段中的代码被执行.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "python使用list创建列表的方法",
       "path": "程序/python笔记/序列/列表/python使用list创建列表的方法.md"
-    },
-    {
-      "basename": "python字典的一些解释",
-      "path": "程序/python笔记/序列/字典/python字典的一些解释.md"
     }
   ],
   "omittedPaths": [],

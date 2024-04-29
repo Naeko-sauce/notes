@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/汇编/汇编中的RAM和ROM.md",
+                "file": "程序/汇编/8086cpu地址加法器.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/汇编/汇编中的RAM和ROM.md",
+                "file": "程序/汇编/8086cpu地址加法器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/汇编/汇编中的RAM和ROM.md",
+                "file": "程序/汇编/8086cpu地址加法器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/汇编/汇编中的RAM和ROM.md"
+                "file": "程序/汇编/8086cpu地址加法器.md"
               }
             }
           },
@@ -189,8 +189,17 @@
   },
   "active": "8d42a2acd4cc727a",
   "lastOpenFiles": [
-    "程序/汇编/汇编指令存放地址.md",
+    "程序/汇编/cpu栈.md",
+    "程序/汇编/8086cpu地址加法器.md",
+    "程序/汇编/debug.md",
+    "程序/汇编/汇编常用的指令.md",
+    "程序/汇编/段地址.md",
+    "程序/汇编/8080cpu.md",
     "程序/汇编/汇编中的RAM和ROM.md",
+    "PDF/未命名.md",
+    "程序/杂项笔记/网络协议杂项/《汇编语言(第3版) 》王爽著.pdf",
+    "PDF",
+    "程序/汇编/汇编指令存放地址.md",
     "程序/python笔记/python函数/python中的可变对象和不可变对象.md",
     "程序/python笔记/python函数/python函数的特点和不同.md",
     "程序/python笔记/python时间模块的一些用法.md",
@@ -210,13 +219,6 @@
     "程序/python笔记/python函数",
     "程序/python笔记/未命名.md",
     "程序/python笔记/python部分练习",
-    "程序/python笔记/python的类型.md",
-    "程序/python笔记/序列/列表/列表常用方法.md",
-    "程序/python笔记/python循环/python字典推导式.md",
-    "程序/python笔记/python推导式.md",
-    "程序/python笔记/python元组推导式.md",
-    "程序/python笔记/序列/序列介绍.md",
-    "程序/python笔记/python循环/python中的zip函数.md",
     "程序/python笔记/python循环"
   ]
 }
