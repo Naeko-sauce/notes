@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c7aebb85416928a4",
+        "id": "6b6a42fcb094406f",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/python部分练习/python画图.md",
+                "file": "程序/python笔记/python函数/python函数的特点和不同.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/python部分练习/python画图.md",
+                "file": "程序/python笔记/python函数/python函数的特点和不同.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/python部分练习/python画图.md",
+                "file": "程序/python笔记/python函数/python函数的特点和不同.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/python部分练习/python画图.md"
+                "file": "程序/python笔记/python函数/python函数的特点和不同.md"
               }
             }
           },
@@ -187,12 +187,25 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "da63714648023070",
+  "active": "8d42a2acd4cc727a",
   "lastOpenFiles": [
+    "程序/python笔记/python时间模块的一些用法.md",
+    "程序/python笔记/python函数/python函数的特点和不同.md",
+    "程序/python笔记/python函数/python函数的定义.md",
+    "程序/python笔记/python函数/python函数的分类.md",
+    "程序/网络安全/使用LAMP部署DVWA.md",
+    "程序/网络安全/网络安全常用术语.md",
+    "总目录/Linux/centos.md",
+    "总目录/Linux/kalilinux软件常用命令.md",
+    "总目录/Linux/Linux.md",
+    "程序/网络安全/网络安全的基本攻击模式.md",
+    "总目录/python目录/python.md",
+    "总目录/python目录/python字符串.md",
+    "总目录/python目录/python序列.md",
+    "程序/python笔记/python 中circle的用法，画园.md",
+    "程序/python笔记/python部分练习/python画图.md",
     "程序/python笔记/python函数",
     "程序/python笔记/未命名.md",
-    "程序/python笔记/python部分练习/python画图.md",
-    "程序/python笔记/python 中circle的用法，画园.md",
     "程序/python笔记/python部分练习",
     "程序/python笔记/python的类型.md",
     "程序/python笔记/序列/列表/列表常用方法.md",
@@ -204,18 +217,6 @@
     "程序/python笔记/python循环/python中的循环.md",
     "程序/python笔记/python循环/python循环优化的一些方法.md",
     "程序/python笔记/python循环/python中continue的作用.md",
-    "程序/java/类变量引出.md",
-    "程序/python笔记/序列/列表/列表介绍.md",
-    "程序/密码学/移位加密.md",
-    "程序/密码学/数字签名.md",
-    "程序/密码学/三重des和des的区别.md",
-    "程序/汇编/debug.md",
-    "程序/汇编/cpu栈.md",
-    "程序/汇编/8080cpu.md",
-    "程序/汇编/段地址.md",
-    "程序/汇编/汇编常用的指令.md",
-    "程序/汇编/汇编指令存放地址.md",
-    "程序/汇编/如何使代码段中的代码被执行.md",
     "程序/python笔记/python循环"
   ]
 }

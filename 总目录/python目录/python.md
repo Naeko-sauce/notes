@@ -3,3 +3,6 @@
 [[python逻辑运算符]]
 [[总目录/python目录/python字符串|python字符串]]
 [[python序列]] 
+[[python推导式]]
+[[python字典推导式]]
+[[python元组推导式]]
