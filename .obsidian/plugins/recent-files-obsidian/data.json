@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "汇编中的RAM和ROM",
+      "path": "程序/汇编/汇编中的RAM和ROM.md"
+    },
+    {
+      "basename": "汇编指令存放地址",
+      "path": "程序/汇编/汇编指令存放地址.md"
+    },
+    {
+      "basename": "python中的可变对象和不可变对象",
+      "path": "程序/python笔记/python函数/python中的可变对象和不可变对象.md"
+    },
+    {
       "basename": "python函数的特点和不同",
       "path": "程序/python笔记/python函数/python函数的特点和不同.md"
     },
@@ -141,10 +153,6 @@
       "path": "程序/汇编/汇编常用的指令.md"
     },
     {
-      "basename": "汇编指令存放地址",
-      "path": "程序/汇编/汇编指令存放地址.md"
-    },
-    {
       "basename": "如何使代码段中的代码被执行",
       "path": "程序/汇编/如何使代码段中的代码被执行.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "python字典的一些解释",
       "path": "程序/python笔记/序列/字典/python字典的一些解释.md"
-    },
-    {
-      "basename": "python字符串分割与合并",
-      "path": "程序/python笔记/字符串/python字符串分割与合并.md"
-    },
-    {
-      "basename": "python字典解包",
-      "path": "程序/python笔记/序列/字典/python字典解包.md"
     }
   ],
   "omittedPaths": [],

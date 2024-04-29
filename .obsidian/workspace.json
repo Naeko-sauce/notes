@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/python函数/python函数的特点和不同.md",
+                "file": "程序/汇编/汇编中的RAM和ROM.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "count",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/python函数/python函数的特点和不同.md",
+                "file": "程序/汇编/汇编中的RAM和ROM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/python函数/python函数的特点和不同.md",
+                "file": "程序/汇编/汇编中的RAM和ROM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/python函数/python函数的特点和不同.md"
+                "file": "程序/汇编/汇编中的RAM和ROM.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "8d42a2acd4cc727a",
   "lastOpenFiles": [
-    "程序/python笔记/python时间模块的一些用法.md",
+    "程序/汇编/汇编指令存放地址.md",
+    "程序/汇编/汇编中的RAM和ROM.md",
+    "程序/python笔记/python函数/python中的可变对象和不可变对象.md",
     "程序/python笔记/python函数/python函数的特点和不同.md",
+    "程序/python笔记/python时间模块的一些用法.md",
     "程序/python笔记/python函数/python函数的定义.md",
     "程序/python笔记/python函数/python函数的分类.md",
     "程序/网络安全/使用LAMP部署DVWA.md",
@@ -214,9 +217,6 @@
     "程序/python笔记/python元组推导式.md",
     "程序/python笔记/序列/序列介绍.md",
     "程序/python笔记/python循环/python中的zip函数.md",
-    "程序/python笔记/python循环/python中的循环.md",
-    "程序/python笔记/python循环/python循环优化的一些方法.md",
-    "程序/python笔记/python循环/python中continue的作用.md",
     "程序/python笔记/python循环"
   ]
 }
