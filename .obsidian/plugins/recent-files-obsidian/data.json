@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "python函数和方法的区别",
+      "path": "程序/python笔记/类/python函数和方法的区别.md"
+    },
+    {
       "basename": "python创建类和Java的不同",
       "path": "程序/python笔记/类/python创建类和Java的不同.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "列表介绍",
       "path": "程序/python笔记/序列/列表/列表介绍.md"
-    },
-    {
-      "basename": "移位加密",
-      "path": "程序/密码学/移位加密.md"
     }
   ],
   "omittedPaths": [],
