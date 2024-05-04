@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/汇编/8086cpu地址加法器.md",
+                "file": "程序/python笔记/python函数/python中的legb规则.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/汇编/8086cpu地址加法器.md",
+                "file": "程序/python笔记/python函数/python中的legb规则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/汇编/8086cpu地址加法器.md",
+                "file": "程序/python笔记/python函数/python中的legb规则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/汇编/8086cpu地址加法器.md"
+                "file": "程序/python笔记/python函数/python中的legb规则.md"
               }
             }
           },
@@ -189,8 +189,19 @@
   },
   "active": "8d42a2acd4cc727a",
   "lastOpenFiles": [
-    "程序/汇编/cpu栈.md",
+    "程序/python笔记/python函数/python中的nonlocal和global.md",
+    "程序/python笔记/python函数/python中的legb规则.md",
+    "程序/python笔记/python函数/python中的递归.md",
+    "程序/python笔记/python函数/python中的eval函数.md",
+    "程序/python笔记/python函数/python中的匿名函数lambda.md",
+    "程序/python笔记/python函数/python各种参数.md",
+    "程序/python笔记/python部分练习/参数传递.md",
+    "程序/python笔记/python函数/python浅拷贝和深拷贝.md",
+    "程序/python笔记/python函数/python中的可变对象和不可变对象.md",
+    "程序/python笔记/python函数/python函数的特点和不同.md",
+    "程序/汇编/段寄存器.md",
     "程序/汇编/8086cpu地址加法器.md",
+    "程序/汇编/cpu栈.md",
     "程序/汇编/debug.md",
     "程序/汇编/汇编常用的指令.md",
     "程序/汇编/段地址.md",
@@ -200,24 +211,13 @@
     "程序/杂项笔记/网络协议杂项/《汇编语言(第3版) 》王爽著.pdf",
     "PDF",
     "程序/汇编/汇编指令存放地址.md",
-    "程序/python笔记/python函数/python中的可变对象和不可变对象.md",
-    "程序/python笔记/python函数/python函数的特点和不同.md",
     "程序/python笔记/python时间模块的一些用法.md",
     "程序/python笔记/python函数/python函数的定义.md",
     "程序/python笔记/python函数/python函数的分类.md",
     "程序/网络安全/使用LAMP部署DVWA.md",
     "程序/网络安全/网络安全常用术语.md",
     "总目录/Linux/centos.md",
-    "总目录/Linux/kalilinux软件常用命令.md",
-    "总目录/Linux/Linux.md",
-    "程序/网络安全/网络安全的基本攻击模式.md",
-    "总目录/python目录/python.md",
-    "总目录/python目录/python字符串.md",
-    "总目录/python目录/python序列.md",
-    "程序/python笔记/python 中circle的用法，画园.md",
-    "程序/python笔记/python部分练习/python画图.md",
     "程序/python笔记/python函数",
-    "程序/python笔记/未命名.md",
     "程序/python笔记/python部分练习",
     "程序/python笔记/python循环"
   ]
