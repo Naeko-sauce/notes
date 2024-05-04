@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "win使用pnpm命令报错",
+      "path": "程序/报错合集/前端报错/win使用pnpm命令报错.md"
+    },
+    {
+      "basename": "pnpm执行时报错",
+      "path": "程序/报错合集/前端报错/pnpm执行时报错.md"
+    },
+    {
+      "basename": "npm下载文件下载不了改变代理",
+      "path": "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md"
+    },
+    {
       "basename": "python函数和方法的区别",
       "path": "程序/python笔记/类/python函数和方法的区别.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "python循环优化的一些方法",
       "path": "程序/python笔记/python循环/python循环优化的一些方法.md"
-    },
-    {
-      "basename": "python中continue的作用",
-      "path": "程序/python笔记/python循环/python中continue的作用.md"
-    },
-    {
-      "basename": "类变量引出",
-      "path": "程序/java/类变量引出.md"
-    },
-    {
-      "basename": "列表介绍",
-      "path": "程序/python笔记/序列/列表/列表介绍.md"
     }
   ],
   "omittedPaths": [],

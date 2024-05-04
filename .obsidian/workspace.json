@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/类/python函数和方法的区别.md",
+                "file": "程序/报错合集/前端报错/win使用pnpm命令报错.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/类/python函数和方法的区别.md",
+                "file": "程序/报错合集/前端报错/win使用pnpm命令报错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/类/python函数和方法的区别.md",
+                "file": "程序/报错合集/前端报错/win使用pnpm命令报错.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/类/python函数和方法的区别.md"
+                "file": "程序/报错合集/前端报错/win使用pnpm命令报错.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "8d42a2acd4cc727a",
   "lastOpenFiles": [
-    "程序/python笔记/类/python创建类和Java的不同.md",
+    "程序/报错合集/前端报错/pnpm执行时报错.md",
+    "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md",
+    "程序/报错合集/前端报错/win使用pnpm命令报错.md",
     "程序/python笔记/类/python函数和方法的区别.md",
+    "程序/python笔记/类/python创建类和Java的不同.md",
     "程序/python笔记/类/python中init和self方法.md",
     "程序/python笔记/类/python类.md",
     "程序/php/基础2.md",
@@ -213,11 +216,8 @@
     "程序/汇编/段地址.md",
     "程序/汇编/8080cpu.md",
     "程序/汇编/汇编中的RAM和ROM.md",
-    "PDF/未命名.md",
     "程序/杂项笔记/网络协议杂项/《汇编语言(第3版) 》王爽著.pdf",
     "PDF",
-    "程序/汇编/汇编指令存放地址.md",
-    "程序/python笔记/python时间模块的一些用法.md",
     "程序/python笔记/python函数",
     "程序/python笔记/python部分练习",
     "程序/python笔记/python循环"
