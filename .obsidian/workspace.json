@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/python函数/python中的legb规则.md",
+                "file": "程序/python笔记/类/python创建类和Java的不同.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/python函数/python中的legb规则.md",
+                "file": "程序/python笔记/类/python创建类和Java的不同.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/python函数/python中的legb规则.md",
+                "file": "程序/python笔记/类/python创建类和Java的不同.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/python函数/python中的legb规则.md"
+                "file": "程序/python笔记/类/python创建类和Java的不同.md"
               }
             }
           },
@@ -189,8 +189,13 @@
   },
   "active": "8d42a2acd4cc727a",
   "lastOpenFiles": [
-    "程序/python笔记/python函数/python中的nonlocal和global.md",
+    "程序/python笔记/类/python中init和self方法.md",
+    "程序/python笔记/类/python创建类和Java的不同.md",
+    "程序/python笔记/类/python类.md",
+    "程序/php/基础2.md",
+    "程序/python笔记/类",
     "程序/python笔记/python函数/python中的legb规则.md",
+    "程序/python笔记/python函数/python中的nonlocal和global.md",
     "程序/python笔记/python函数/python中的递归.md",
     "程序/python笔记/python函数/python中的eval函数.md",
     "程序/python笔记/python函数/python中的匿名函数lambda.md",
@@ -213,10 +218,6 @@
     "程序/汇编/汇编指令存放地址.md",
     "程序/python笔记/python时间模块的一些用法.md",
     "程序/python笔记/python函数/python函数的定义.md",
-    "程序/python笔记/python函数/python函数的分类.md",
-    "程序/网络安全/使用LAMP部署DVWA.md",
-    "程序/网络安全/网络安全常用术语.md",
-    "总目录/Linux/centos.md",
     "程序/python笔记/python函数",
     "程序/python笔记/python部分练习",
     "程序/python笔记/python循环"

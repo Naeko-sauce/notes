@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "python创建类和Java的不同",
+      "path": "程序/python笔记/类/python创建类和Java的不同.md"
+    },
+    {
+      "basename": "python中init和self方法",
+      "path": "程序/python笔记/类/python中init和self方法.md"
+    },
+    {
+      "basename": "python类",
+      "path": "程序/python笔记/类/python类.md"
+    },
+    {
+      "basename": "基础2",
+      "path": "程序/php/基础2.md"
+    },
+    {
       "basename": "python中的legb规则",
       "path": "程序/python笔记/python函数/python中的legb规则.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "移位加密",
       "path": "程序/密码学/移位加密.md"
-    },
-    {
-      "basename": "数字签名",
-      "path": "程序/密码学/数字签名.md"
-    },
-    {
-      "basename": "三重des和des的区别",
-      "path": "程序/密码学/三重des和des的区别.md"
-    },
-    {
-      "basename": "如何使代码段中的代码被执行",
-      "path": "程序/汇编/如何使代码段中的代码被执行.md"
-    },
-    {
-      "basename": "修改cs、ip中的内容",
-      "path": "程序/汇编/修改cs、ip中的内容.md"
     }
   ],
   "omittedPaths": [],
