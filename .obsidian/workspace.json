@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d42a2acd4cc727a",
+            "id": "3d2caccb9666c331",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/报错合集/前端报错/win使用pnpm命令报错.md",
+                "file": "程序/python笔记/类/python __call__.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/报错合集/前端报错/win使用pnpm命令报错.md",
+                "file": "程序/python笔记/类/python __call__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/报错合集/前端报错/win使用pnpm命令报错.md",
+                "file": "程序/python笔记/类/python __call__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/报错合集/前端报错/win使用pnpm命令报错.md"
+                "file": "程序/python笔记/类/python __call__.md"
               }
             }
           },
@@ -187,15 +187,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8d42a2acd4cc727a",
+  "active": "3d2caccb9666c331",
   "lastOpenFiles": [
+    "程序/python笔记/类/python静态类方法.md",
+    "程序/python笔记/类/python __call__.md",
+    "程序/python笔记/类/python类.md",
+    "程序/python笔记/python代码转Java/示例1.md",
+    "程序/python笔记/python代码转Java",
+    "程序/python笔记/序列/python中的集合.md",
+    "程序/报错合集/前端报错/win使用pnpm命令报错.md",
     "程序/报错合集/前端报错/pnpm执行时报错.md",
     "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md",
-    "程序/报错合集/前端报错/win使用pnpm命令报错.md",
     "程序/python笔记/类/python函数和方法的区别.md",
     "程序/python笔记/类/python创建类和Java的不同.md",
     "程序/python笔记/类/python中init和self方法.md",
-    "程序/python笔记/类/python类.md",
     "程序/php/基础2.md",
     "程序/python笔记/类",
     "程序/python笔记/python函数/python中的legb规则.md",
@@ -212,10 +217,6 @@
     "程序/汇编/8086cpu地址加法器.md",
     "程序/汇编/cpu栈.md",
     "程序/汇编/debug.md",
-    "程序/汇编/汇编常用的指令.md",
-    "程序/汇编/段地址.md",
-    "程序/汇编/8080cpu.md",
-    "程序/汇编/汇编中的RAM和ROM.md",
     "程序/杂项笔记/网络协议杂项/《汇编语言(第3版) 》王爽著.pdf",
     "PDF",
     "程序/python笔记/python函数",

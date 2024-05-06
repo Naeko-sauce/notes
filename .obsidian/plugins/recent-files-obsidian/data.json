@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "python __call__",
+      "path": "程序/python笔记/类/python __call__.md"
+    },
+    {
+      "basename": "python静态类方法",
+      "path": "程序/python笔记/类/python静态类方法.md"
+    },
+    {
+      "basename": "python类",
+      "path": "程序/python笔记/类/python类.md"
+    },
+    {
+      "basename": "示例1",
+      "path": "程序/python笔记/python代码转Java/示例1.md"
+    },
+    {
+      "basename": "python中的集合",
+      "path": "程序/python笔记/序列/python中的集合.md"
+    },
+    {
       "basename": "win使用pnpm命令报错",
       "path": "程序/报错合集/前端报错/win使用pnpm命令报错.md"
     },
@@ -23,10 +43,6 @@
     {
       "basename": "python中init和self方法",
       "path": "程序/python笔记/类/python中init和self方法.md"
-    },
-    {
-      "basename": "python类",
-      "path": "程序/python笔记/类/python类.md"
     },
     {
       "basename": "基础2",
@@ -183,22 +199,6 @@
     {
       "basename": "python元组推导式",
       "path": "程序/python笔记/python元组推导式.md"
-    },
-    {
-      "basename": "序列介绍",
-      "path": "程序/python笔记/序列/序列介绍.md"
-    },
-    {
-      "basename": "python中的zip函数",
-      "path": "程序/python笔记/python循环/python中的zip函数.md"
-    },
-    {
-      "basename": "python中的循环",
-      "path": "程序/python笔记/python循环/python中的循环.md"
-    },
-    {
-      "basename": "python循环优化的一些方法",
-      "path": "程序/python笔记/python循环/python循环优化的一些方法.md"
     }
   ],
   "omittedPaths": [],
