@@ -5,6 +5,50 @@
       "path": "程序/python笔记/类/python __call__.md"
     },
     {
+      "basename": "python 中的call转为Java代码",
+      "path": "程序/python笔记/python代码转Java/python 中的call转为Java代码.md"
+    },
+    {
+      "basename": "IO流",
+      "path": "程序/java/IO流.md"
+    },
+    {
+      "basename": "javaIO流",
+      "path": "总目录/Java目录/javaIO流.md"
+    },
+    {
+      "basename": "java",
+      "path": "总目录/Java目录/java.md"
+    },
+    {
+      "basename": "网络通信的基本流程",
+      "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
+    },
+    {
+      "basename": "DNS污染",
+      "path": "程序/杂项笔记/网络协议杂项/DNS污染.md"
+    },
+    {
+      "basename": "HTTP，TCP，UDP",
+      "path": "程序/杂项笔记/网络协议杂项/HTTP，TCP，UDP.md"
+    },
+    {
+      "basename": "GFW防火墙是怎么拦截外网",
+      "path": "程序/杂项笔记/网络协议杂项/GFW防火墙是怎么拦截外网.md"
+    },
+    {
+      "basename": "网络安全",
+      "path": "总目录/网络安全/网络安全.md"
+    },
+    {
+      "basename": "五行基础",
+      "path": "卦/五行基础.md"
+    },
+    {
+      "basename": "天干地支基础",
+      "path": "卦/天干地支基础.md"
+    },
+    {
       "basename": "python静态类方法",
       "path": "程序/python笔记/类/python静态类方法.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Linux",
       "path": "总目录/Linux/Linux.md"
-    },
-    {
-      "basename": "网络安全的基本攻击模式",
-      "path": "程序/网络安全/网络安全的基本攻击模式.md"
-    },
-    {
-      "basename": "python",
-      "path": "总目录/python目录/python.md"
-    },
-    {
-      "basename": "python字符串",
-      "path": "总目录/python目录/python字符串.md"
-    },
-    {
-      "basename": "python序列",
-      "path": "总目录/python目录/python序列.md"
-    },
-    {
-      "basename": "python 中circle的用法，画园",
-      "path": "程序/python笔记/python 中circle的用法，画园.md"
-    },
-    {
-      "basename": "python画图",
-      "path": "程序/python笔记/python部分练习/python画图.md"
-    },
-    {
-      "basename": "python的类型",
-      "path": "程序/python笔记/python的类型.md"
-    },
-    {
-      "basename": "列表常用方法",
-      "path": "程序/python笔记/序列/列表/列表常用方法.md"
-    },
-    {
-      "basename": "python字典推导式",
-      "path": "程序/python笔记/python循环/python字典推导式.md"
-    },
-    {
-      "basename": "python推导式",
-      "path": "程序/python笔记/python推导式.md"
-    },
-    {
-      "basename": "python元组推导式",
-      "path": "程序/python笔记/python元组推导式.md"
     }
   ],
   "omittedPaths": [],
