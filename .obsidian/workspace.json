@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/python中的true和false.md",
+                "file": "程序/魔法/hysteria2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/python中的true和false.md",
+                "file": "程序/魔法/hysteria2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/python中的true和false.md",
+                "file": "程序/魔法/hysteria2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/python中的true和false.md"
+                "file": "程序/魔法/hysteria2.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "3d2caccb9666c331",
   "lastOpenFiles": [
-    "程序/python笔记/python中的布尔值.md",
+    "程序/魔法/v2的协议和节点.md",
+    "程序/魔法/hysteria2.md",
     "程序/python笔记/python中的true和false.md",
+    "程序/魔法",
+    "程序/python笔记/python中的布尔值.md",
     "程序/python笔记/类/python中的none和null的区别.md",
     "程序/python笔记/python代码转Java/python代码转Java.md",
     "程序/python笔记/类/python私有类.md",
@@ -215,8 +218,6 @@
     "程序/python笔记/python代码转Java/示例1.md",
     "程序/python笔记/python代码转Java",
     "程序/python笔记/序列/python中的集合.md",
-    "程序/报错合集/前端报错/win使用pnpm命令报错.md",
-    "程序/报错合集/前端报错/pnpm执行时报错.md",
     "程序/python笔记/类",
     "PDF",
     "程序/python笔记/python函数",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "hysteria2",
+      "path": "程序/魔法/hysteria2.md"
+    },
+    {
+      "basename": "v2的协议和节点",
+      "path": "程序/魔法/v2的协议和节点.md"
+    },
+    {
       "basename": "python中的true和false",
       "path": "程序/python笔记/python中的true和false.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "汇编指令存放地址",
       "path": "程序/汇编/汇编指令存放地址.md"
-    },
-    {
-      "basename": "python时间模块的一些用法",
-      "path": "程序/python笔记/python时间模块的一些用法.md"
-    },
-    {
-      "basename": "python函数的定义",
-      "path": "程序/python笔记/python函数/python函数的定义.md"
     }
   ],
   "omittedPaths": [],
