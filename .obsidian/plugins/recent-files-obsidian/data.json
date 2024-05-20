@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "hyprland",
+      "path": "程序/Linux笔记/Linux桌面/hyprland.md"
+    },
+    {
+      "basename": "v2一些协议配置的详细解释",
+      "path": "程序/魔法/v2一些协议配置的详细解释.md"
+    },
+    {
+      "basename": "使用js实现凯撒加密",
+      "path": "程序/密码学/使用js实现凯撒加密.md"
+    },
+    {
+      "basename": "数字签名",
+      "path": "程序/密码学/数字签名.md"
+    },
+    {
+      "basename": "伪随机数生成器",
+      "path": "程序/密码学/伪随机数生成器.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "程序/java/笔记.md"
+    },
+    {
+      "basename": "包",
+      "path": "程序/java/包.md"
+    },
+    {
+      "basename": "变量",
+      "path": "程序/java/变量.md"
+    },
+    {
+      "basename": "分支",
+      "path": "程序/java/分支.md"
+    },
+    {
       "basename": "python继承",
       "path": "程序/python笔记/类/python继承.md"
     },
@@ -19,10 +55,6 @@
     {
       "basename": "C Sharp中的泛型",
       "path": "程序/c Sharp笔记/C Sharp中的泛型.md"
-    },
-    {
-      "basename": "v2一些协议配置的详细解释",
-      "path": "程序/魔法/v2一些协议配置的详细解释.md"
     },
     {
       "basename": "hysteria2",
@@ -167,38 +199,6 @@
     {
       "basename": "python中的legb规则",
       "path": "程序/python笔记/python函数/python中的legb规则.md"
-    },
-    {
-      "basename": "python中的nonlocal和global",
-      "path": "程序/python笔记/python函数/python中的nonlocal和global.md"
-    },
-    {
-      "basename": "python中的递归",
-      "path": "程序/python笔记/python函数/python中的递归.md"
-    },
-    {
-      "basename": "python中的eval函数",
-      "path": "程序/python笔记/python函数/python中的eval函数.md"
-    },
-    {
-      "basename": "python中的匿名函数lambda",
-      "path": "程序/python笔记/python函数/python中的匿名函数lambda.md"
-    },
-    {
-      "basename": "python各种参数",
-      "path": "程序/python笔记/python函数/python各种参数.md"
-    },
-    {
-      "basename": "参数传递",
-      "path": "程序/python笔记/python部分练习/参数传递.md"
-    },
-    {
-      "basename": "python浅拷贝和深拷贝",
-      "path": "程序/python笔记/python函数/python浅拷贝和深拷贝.md"
-    },
-    {
-      "basename": "python中的可变对象和不可变对象",
-      "path": "程序/python笔记/python函数/python中的可变对象和不可变对象.md"
     }
   ],
   "omittedPaths": [],
