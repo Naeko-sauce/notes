@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "v2一些协议配置的详细解释",
+      "path": "程序/魔法/v2一些协议配置的详细解释.md"
+    },
+    {
       "basename": "hysteria2",
       "path": "程序/魔法/hysteria2.md"
+    },
+    {
+      "basename": "简户思路",
+      "path": "程序/社工/简户思路.md"
+    },
+    {
+      "basename": "简户网站",
+      "path": "程序/社工/简户网站.md"
+    },
+    {
+      "basename": "社工思路有手机号查询半成品姓名",
+      "path": "程序/社工/社工思路有手机号查询半成品姓名.md"
+    },
+    {
+      "basename": "社工网站",
+      "path": "程序/社工/社工网站.md"
     },
     {
       "basename": "v2的协议和节点",
@@ -179,26 +199,6 @@
     {
       "basename": "debug",
       "path": "程序/汇编/debug.md"
-    },
-    {
-      "basename": "汇编常用的指令",
-      "path": "程序/汇编/汇编常用的指令.md"
-    },
-    {
-      "basename": "段地址",
-      "path": "程序/汇编/段地址.md"
-    },
-    {
-      "basename": "8080cpu",
-      "path": "程序/汇编/8080cpu.md"
-    },
-    {
-      "basename": "汇编中的RAM和ROM",
-      "path": "程序/汇编/汇编中的RAM和ROM.md"
-    },
-    {
-      "basename": "汇编指令存放地址",
-      "path": "程序/汇编/汇编指令存放地址.md"
     }
   ],
   "omittedPaths": [],
