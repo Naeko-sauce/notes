@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "python继承",
+      "path": "程序/python笔记/类/python继承.md"
+    },
+    {
+      "basename": "C Sharp 增强for循环",
+      "path": "程序/c Sharp笔记/C Sharp 增强for循环.md"
+    },
+    {
+      "basename": "C Sharp 中的List",
+      "path": "程序/c Sharp笔记/C Sharp 中的List.md"
+    },
+    {
+      "basename": "C Sharp访问修饰符",
+      "path": "程序/c Sharp笔记/C Sharp访问修饰符.md"
+    },
+    {
+      "basename": "C Sharp中的泛型",
+      "path": "程序/c Sharp笔记/C Sharp中的泛型.md"
+    },
+    {
       "basename": "v2一些协议配置的详细解释",
       "path": "程序/魔法/v2一些协议配置的详细解释.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "python中的可变对象和不可变对象",
       "path": "程序/python笔记/python函数/python中的可变对象和不可变对象.md"
-    },
-    {
-      "basename": "python函数的特点和不同",
-      "path": "程序/python笔记/python函数/python函数的特点和不同.md"
-    },
-    {
-      "basename": "段寄存器",
-      "path": "程序/汇编/段寄存器.md"
-    },
-    {
-      "basename": "8086cpu地址加法器",
-      "path": "程序/汇编/8086cpu地址加法器.md"
-    },
-    {
-      "basename": "cpu栈",
-      "path": "程序/汇编/cpu栈.md"
-    },
-    {
-      "basename": "debug",
-      "path": "程序/汇编/debug.md"
     }
   ],
   "omittedPaths": [],
