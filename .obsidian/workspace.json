@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/类/python __call__.md",
+                "file": "程序/python笔记/类/python中的@property装饰器.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "call",
+                "query": "init",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/类/python __call__.md",
+                "file": "程序/python笔记/类/python中的@property装饰器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/类/python __call__.md",
+                "file": "程序/python笔记/类/python中的@property装饰器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/类/python __call__.md"
+                "file": "程序/python笔记/类/python中的@property装饰器.md"
               }
             }
           },
@@ -189,12 +189,15 @@
   },
   "active": "3d2caccb9666c331",
   "lastOpenFiles": [
+    "程序/python笔记/类/python中的@property装饰器.md",
+    "程序/python笔记/类/python私有类.md",
+    "程序/python笔记/类/python创建类和Java的不同.md",
+    "程序/python笔记/类/python __call__.md",
     "程序/python笔记/python代码转Java/python 中的call转为Java代码.md",
     "程序/java/IO流.md",
     "程序/python笔记/python部分练习/未命名.md",
     "总目录/Java目录/javaIO流.md",
     "总目录/Java目录/java.md",
-    "程序/python笔记/类/python __call__.md",
     "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md",
     "程序/杂项笔记/网络协议杂项/DNS污染.md",
     "程序/杂项笔记/网络协议杂项/HTTP，TCP，UDP.md",
@@ -212,12 +215,9 @@
     "程序/报错合集/前端报错/pnpm执行时报错.md",
     "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md",
     "程序/python笔记/类/python函数和方法的区别.md",
-    "程序/python笔记/类/python创建类和Java的不同.md",
     "程序/python笔记/类/python中init和self方法.md",
     "程序/php/基础2.md",
     "程序/python笔记/类",
-    "程序/python笔记/python函数/python中的legb规则.md",
-    "程序/python笔记/python函数/python中的nonlocal和global.md",
     "PDF",
     "程序/python笔记/python函数",
     "程序/python笔记/python部分练习",
