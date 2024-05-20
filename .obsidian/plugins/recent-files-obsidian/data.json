@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "python中的true和false",
+      "path": "程序/python笔记/python中的true和false.md"
+    },
+    {
+      "basename": "python中的布尔值",
+      "path": "程序/python笔记/python中的布尔值.md"
+    },
+    {
+      "basename": "python中的none和null的区别",
+      "path": "程序/python笔记/类/python中的none和null的区别.md"
+    },
+    {
       "basename": "python代码转Java",
       "path": "程序/python笔记/python代码转Java/python代码转Java.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "python函数的定义",
       "path": "程序/python笔记/python函数/python函数的定义.md"
-    },
-    {
-      "basename": "python函数的分类",
-      "path": "程序/python笔记/python函数/python函数的分类.md"
-    },
-    {
-      "basename": "使用LAMP部署DVWA",
-      "path": "程序/网络安全/使用LAMP部署DVWA.md"
-    },
-    {
-      "basename": "网络安全常用术语",
-      "path": "程序/网络安全/网络安全常用术语.md"
     }
   ],
   "omittedPaths": [],
