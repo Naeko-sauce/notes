@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/java/构造函数.md",
+                "file": "程序/python笔记/字符串/python字符串和数字格式化方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "构造函数",
+                "query": "format",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/java/构造函数.md",
+                "file": "程序/python笔记/字符串/python字符串和数字格式化方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/java/构造函数.md",
+                "file": "程序/python笔记/字符串/python字符串和数字格式化方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/java/构造函数.md"
+                "file": "程序/python笔记/字符串/python字符串和数字格式化方法.md"
               }
             }
           },
@@ -189,7 +189,11 @@
   },
   "active": "3d2caccb9666c331",
   "lastOpenFiles": [
+    "程序/python笔记/字符串/python字符串格式化.md",
+    "程序/python笔记/字符串/python字符串.md",
     "程序/java/类变量引出.md",
+    "程序/python笔记/类/python查看类继承.md",
+    "程序/python笔记/类/python构造函数.md",
     "程序/java/构造函数.md",
     "程序/java/面向对象.md",
     "程序/java/数组.md",
@@ -212,10 +216,6 @@
     "程序/网络安全/使用LAMP部署DVWA.md",
     "程序/网络安全/网络安全常用术语.md",
     "程序/网络安全/网络安全的基本攻击模式.md",
-    "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
-    "程序/网络安全/kali安装lamp环境.md",
-    "程序/Linux笔记/Linux中的普通用户和root用户的区别.md",
-    "程序/Linux笔记/更改linux磁盘文件用户访问权限.md",
     "程序/Linux笔记/Linux桌面",
     "程序/魔法",
     "程序/杂项笔记/网络协议杂项/《汇编语言(第3版) 》王爽著.pdf",

@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "构造函数",
-      "path": "程序/java/构造函数.md"
+      "basename": "python字符串和数字格式化方法",
+      "path": "程序/python笔记/字符串/python字符串和数字格式化方法.md"
+    },
+    {
+      "basename": "python字符串格式化",
+      "path": "程序/python笔记/字符串/python字符串格式化.md"
+    },
+    {
+      "basename": "python字符串",
+      "path": "程序/python笔记/字符串/python字符串.md"
     },
     {
       "basename": "类变量引出",
       "path": "程序/java/类变量引出.md"
+    },
+    {
+      "basename": "python查看类继承",
+      "path": "程序/python笔记/类/python查看类继承.md"
+    },
+    {
+      "basename": "python构造函数",
+      "path": "程序/python笔记/类/python构造函数.md"
+    },
+    {
+      "basename": "构造函数",
+      "path": "程序/java/构造函数.md"
     },
     {
       "basename": "面向对象",
@@ -179,26 +199,6 @@
     {
       "basename": "python中的true和false",
       "path": "程序/python笔记/python中的true和false.md"
-    },
-    {
-      "basename": "python中的布尔值",
-      "path": "程序/python笔记/python中的布尔值.md"
-    },
-    {
-      "basename": "python中的none和null的区别",
-      "path": "程序/python笔记/类/python中的none和null的区别.md"
-    },
-    {
-      "basename": "python代码转Java",
-      "path": "程序/python笔记/python代码转Java/python代码转Java.md"
-    },
-    {
-      "basename": "python私有类",
-      "path": "程序/python笔记/类/python私有类.md"
-    },
-    {
-      "basename": "python中的@property装饰器",
-      "path": "程序/python笔记/类/python中的@property装饰器.md"
     }
   ],
   "omittedPaths": [],
