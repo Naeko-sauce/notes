@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "构造函数",
+      "path": "程序/java/构造函数.md"
+    },
+    {
+      "basename": "类变量引出",
+      "path": "程序/java/类变量引出.md"
+    },
+    {
+      "basename": "面向对象",
+      "path": "程序/java/面向对象.md"
+    },
+    {
+      "basename": "数组",
+      "path": "程序/java/数组.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "程序/java/笔记.md"
+    },
+    {
+      "basename": "包",
+      "path": "程序/java/包.md"
+    },
+    {
+      "basename": "python",
+      "path": "总目录/python目录/python.md"
+    },
+    {
+      "basename": "python序列",
+      "path": "总目录/python目录/python序列.md"
+    },
+    {
+      "basename": "python的类型",
+      "path": "程序/python笔记/python的类型.md"
+    },
+    {
+      "basename": "汇编",
+      "path": "总目录/汇编/汇编.md"
+    },
+    {
+      "basename": "网络通信的基本流程",
+      "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
+    },
+    {
+      "basename": "根",
+      "path": "总目录/根.md"
+    },
+    {
+      "basename": "javascript 获取html元素",
+      "path": "程序/javascript/javascript 获取html元素.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "总目录/javascript.md"
+    },
+    {
+      "basename": "DNS污染",
+      "path": "程序/杂项笔记/网络协议杂项/DNS污染.md"
+    },
+    {
+      "basename": "GFW防火墙是怎么拦截外网",
+      "path": "程序/杂项笔记/网络协议杂项/GFW防火墙是怎么拦截外网.md"
+    },
+    {
+      "basename": "IPSec和openvpn的优缺点和作用",
+      "path": "程序/杂项笔记/网络协议杂项/IPSec和openvpn的优缺点和作用.md"
+    },
+    {
+      "basename": "socks5代理详细解释",
+      "path": "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md"
+    },
+    {
+      "basename": "kali卸载LAMP环境",
+      "path": "程序/网络安全/kali卸载LAMP环境.md"
+    },
+    {
+      "basename": "使用LAMP部署DVWA",
+      "path": "程序/网络安全/使用LAMP部署DVWA.md"
+    },
+    {
+      "basename": "网络安全常用术语",
+      "path": "程序/网络安全/网络安全常用术语.md"
+    },
+    {
+      "basename": "网络安全的基本攻击模式",
+      "path": "程序/网络安全/网络安全的基本攻击模式.md"
+    },
+    {
+      "basename": "vm和虚拟机的关系，和linux的内存分布关系图，和目录结构",
+      "path": "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
+    },
+    {
+      "basename": "kali安装lamp环境",
+      "path": "程序/网络安全/kali安装lamp环境.md"
+    },
+    {
+      "basename": "Linux中的普通用户和root用户的区别",
+      "path": "程序/Linux笔记/Linux中的普通用户和root用户的区别.md"
+    },
+    {
+      "basename": "更改linux磁盘文件用户访问权限",
+      "path": "程序/Linux笔记/更改linux磁盘文件用户访问权限.md"
+    },
+    {
       "basename": "hyprland",
       "path": "程序/Linux笔记/Linux桌面/hyprland.md"
     },
@@ -19,14 +123,6 @@
     {
       "basename": "伪随机数生成器",
       "path": "程序/密码学/伪随机数生成器.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "程序/java/笔记.md"
-    },
-    {
-      "basename": "包",
-      "path": "程序/java/包.md"
     },
     {
       "basename": "变量",
@@ -62,19 +158,19 @@
     },
     {
       "basename": "简户思路",
-      "path": "程序/社工/简户思路.md"
+      "path": "程序/社会工程/简户思路.md"
     },
     {
       "basename": "简户网站",
-      "path": "程序/社工/简户网站.md"
+      "path": "程序/社会工程/简户网站.md"
     },
     {
       "basename": "社工思路有手机号查询半成品姓名",
-      "path": "程序/社工/社工思路有手机号查询半成品姓名.md"
+      "path": "程序/社会工程/社工思路有手机号查询半成品姓名.md"
     },
     {
       "basename": "社工网站",
-      "path": "程序/社工/社工网站.md"
+      "path": "程序/社会工程/社工网站.md"
     },
     {
       "basename": "v2的协议和节点",
@@ -103,102 +199,6 @@
     {
       "basename": "python中的@property装饰器",
       "path": "程序/python笔记/类/python中的@property装饰器.md"
-    },
-    {
-      "basename": "python创建类和Java的不同",
-      "path": "程序/python笔记/类/python创建类和Java的不同.md"
-    },
-    {
-      "basename": "python __call__",
-      "path": "程序/python笔记/类/python __call__.md"
-    },
-    {
-      "basename": "python 中的call转为Java代码",
-      "path": "程序/python笔记/python代码转Java/python 中的call转为Java代码.md"
-    },
-    {
-      "basename": "IO流",
-      "path": "程序/java/IO流.md"
-    },
-    {
-      "basename": "javaIO流",
-      "path": "总目录/Java目录/javaIO流.md"
-    },
-    {
-      "basename": "java",
-      "path": "总目录/Java目录/java.md"
-    },
-    {
-      "basename": "网络通信的基本流程",
-      "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
-    },
-    {
-      "basename": "DNS污染",
-      "path": "程序/杂项笔记/网络协议杂项/DNS污染.md"
-    },
-    {
-      "basename": "HTTP，TCP，UDP",
-      "path": "程序/杂项笔记/网络协议杂项/HTTP，TCP，UDP.md"
-    },
-    {
-      "basename": "GFW防火墙是怎么拦截外网",
-      "path": "程序/杂项笔记/网络协议杂项/GFW防火墙是怎么拦截外网.md"
-    },
-    {
-      "basename": "网络安全",
-      "path": "总目录/网络安全/网络安全.md"
-    },
-    {
-      "basename": "五行基础",
-      "path": "卦/五行基础.md"
-    },
-    {
-      "basename": "天干地支基础",
-      "path": "卦/天干地支基础.md"
-    },
-    {
-      "basename": "python静态类方法",
-      "path": "程序/python笔记/类/python静态类方法.md"
-    },
-    {
-      "basename": "python类",
-      "path": "程序/python笔记/类/python类.md"
-    },
-    {
-      "basename": "示例1",
-      "path": "程序/python笔记/python代码转Java/示例1.md"
-    },
-    {
-      "basename": "python中的集合",
-      "path": "程序/python笔记/序列/python中的集合.md"
-    },
-    {
-      "basename": "win使用pnpm命令报错",
-      "path": "程序/报错合集/前端报错/win使用pnpm命令报错.md"
-    },
-    {
-      "basename": "pnpm执行时报错",
-      "path": "程序/报错合集/前端报错/pnpm执行时报错.md"
-    },
-    {
-      "basename": "npm下载文件下载不了改变代理",
-      "path": "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md"
-    },
-    {
-      "basename": "python函数和方法的区别",
-      "path": "程序/python笔记/类/python函数和方法的区别.md"
-    },
-    {
-      "basename": "python中init和self方法",
-      "path": "程序/python笔记/类/python中init和self方法.md"
-    },
-    {
-      "basename": "基础2",
-      "path": "程序/php/基础2.md"
-    },
-    {
-      "basename": "python中的legb规则",
-      "path": "程序/python笔记/python函数/python中的legb规则.md"
     }
   ],
   "omittedPaths": [],

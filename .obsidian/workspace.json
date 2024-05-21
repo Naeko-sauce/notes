@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6b6a42fcb094406f",
+        "id": "63b31a89bd5d86d3",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/Linux笔记/Linux桌面/hyprland.md",
+                "file": "程序/java/构造函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:寄 file:",
+                "query": "构造函数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 295.5
   },
   "right": {
     "id": "17add949bc3ec93e",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/Linux笔记/Linux桌面/hyprland.md",
+                "file": "程序/java/构造函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/Linux笔记/Linux桌面/hyprland.md",
+                "file": "程序/java/构造函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/Linux笔记/Linux桌面/hyprland.md"
+                "file": "程序/java/构造函数.md"
               }
             }
           },
@@ -189,34 +189,35 @@
   },
   "active": "3d2caccb9666c331",
   "lastOpenFiles": [
-    "程序/Linux笔记/Linux桌面/hyprland.md",
-    "程序/Linux笔记/Linux桌面",
-    "程序/魔法/v2一些协议配置的详细解释.md",
-    "程序/密码学/使用js实现凯撒加密.md",
-    "程序/密码学/数字签名.md",
-    "程序/密码学/伪随机数生成器.md",
+    "程序/java/类变量引出.md",
+    "程序/java/构造函数.md",
+    "程序/java/面向对象.md",
+    "程序/java/数组.md",
     "程序/java/笔记.md",
     "程序/java/包.md",
-    "程序/java/变量.md",
-    "程序/java/分支.md",
-    "程序/python笔记/类/python继承.md",
-    "程序/c Sharp笔记/C Sharp 增强for循环.md",
-    "程序/c Sharp笔记/C Sharp 中的List.md",
-    "程序/c Sharp笔记/C Sharp访问修饰符.md",
-    "程序/c Sharp笔记/C Sharp中的泛型.md",
-    "程序/魔法/hysteria2.md",
-    "程序/社工/简户思路.md",
-    "程序/社工/简户网站.md",
-    "程序/社工/社工思路有手机号查询半成品姓名.md",
-    "程序/社工/社工网站.md",
-    "程序/魔法/v2的协议和节点.md",
-    "程序/python笔记/python中的true和false.md",
+    "总目录/python目录/python.md",
+    "总目录/python目录/python序列.md",
+    "程序/python笔记/python的类型.md",
+    "总目录/汇编/汇编.md",
+    "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md",
+    "总目录/根.md",
+    "总目录/汇编",
+    "程序/javascript/javascript 获取html元素.md",
+    "总目录/javascript.md",
+    "程序/杂项笔记/网络协议杂项/DNS污染.md",
+    "程序/杂项笔记/网络协议杂项/GFW防火墙是怎么拦截外网.md",
+    "程序/杂项笔记/网络协议杂项/IPSec和openvpn的优缺点和作用.md",
+    "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md",
+    "程序/网络安全/kali卸载LAMP环境.md",
+    "程序/网络安全/使用LAMP部署DVWA.md",
+    "程序/网络安全/网络安全常用术语.md",
+    "程序/网络安全/网络安全的基本攻击模式.md",
+    "程序/Linux笔记/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
+    "程序/网络安全/kali安装lamp环境.md",
+    "程序/Linux笔记/Linux中的普通用户和root用户的区别.md",
+    "程序/Linux笔记/更改linux磁盘文件用户访问权限.md",
+    "程序/Linux笔记/Linux桌面",
     "程序/魔法",
-    "程序/python笔记/python中的布尔值.md",
-    "程序/python笔记/类/python中的none和null的区别.md",
-    "程序/python笔记/python代码转Java/python代码转Java.md",
-    "程序/python笔记/类/python私有类.md",
-    "程序/python笔记/类/python中的@property装饰器.md",
     "程序/杂项笔记/网络协议杂项/《汇编语言(第3版) 》王爽著.pdf",
     "程序/python笔记/python代码转Java",
     "程序/python笔记/类",

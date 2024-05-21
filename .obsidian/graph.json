@@ -76,6 +76,34 @@
         "a": 1,
         "rgb": 16711914
       }
+    },
+    {
+      "query": "path:程序/汇编  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:程序/three.js  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:程序/杂项笔记/three杂项  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:程序/java  ",
+      "color": {
+        "a": 1,
+        "rgb": 5705550
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +116,6 @@
   "repelStrength": 11.3541666666667,
   "linkStrength": 1,
   "linkDistance": 214,
-  "scale": 0.8039693994339183,
+  "scale": 0.3823010968770072,
   "close": true
 }

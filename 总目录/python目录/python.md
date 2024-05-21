@@ -6,3 +6,5 @@
 [[python推导式]]
 [[python字典推导式]]
 [[python元组推导式]]
+[[python 中circle的用法，画园]]
+[[python的类型]]
