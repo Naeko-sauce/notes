@@ -1,0 +1,7 @@
+[[python练习]]
+[[python函数]]
+[[总目录/python/python类/python类|python类]]
+[[python序列]]
+[[python循环]]
+[[总目录/python/python转Java/python代码转Java|python代码转Java]]
+[[python中的字符串]]
