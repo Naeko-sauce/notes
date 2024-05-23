@@ -8,3 +8,8 @@
 [[python元组推导式]]
 [[python 中circle的用法，画园]]
 [[python的类型]]
+
+# Python 转 Java
+[[总目录/Java目录/python转Java]]
+[[python 中的call转为Java代码]]
+[[示例1]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/字符串/python字符串和数字格式化方法.md",
+                "file": "程序/python笔记/python代码转Java/python五子棋示例，转Java示例.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "format",
+                "query": "除法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/字符串/python字符串和数字格式化方法.md",
+                "file": "程序/python笔记/python代码转Java/python五子棋示例，转Java示例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/字符串/python字符串和数字格式化方法.md",
+                "file": "程序/python笔记/python代码转Java/python五子棋示例，转Java示例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/字符串/python字符串和数字格式化方法.md"
+                "file": "程序/python笔记/python代码转Java/python五子棋示例，转Java示例.md"
               }
             }
           },
@@ -189,6 +189,18 @@
   },
   "active": "3d2caccb9666c331",
   "lastOpenFiles": [
+    "程序/python笔记/python代码转Java/python五子棋示例，转Java示例.md",
+    "总目录/Java目录/python转Java.md",
+    "总目录/python目录/python.md",
+    "总目录/Java目录/java.md",
+    "总目录/Java目录/javaIO流.md",
+    "总目录/python目录/python序列.md",
+    "总目录/python目录/python转Java.md",
+    "程序/python笔记/python代码转Java/示例1.md",
+    "程序/python笔记/python代码转Java/python代码转Java.md",
+    "程序/python笔记/python代码转Java/python 中的call转为Java代码.md",
+    "程序/python笔记/python逻辑运算符.md",
+    "程序/python笔记/字符串/python字符串和数字格式化方法.md",
     "程序/python笔记/字符串/python字符串格式化.md",
     "程序/python笔记/字符串/python字符串.md",
     "程序/java/类变量引出.md",
@@ -199,23 +211,11 @@
     "程序/java/数组.md",
     "程序/java/笔记.md",
     "程序/java/包.md",
-    "总目录/python目录/python.md",
-    "总目录/python目录/python序列.md",
     "程序/python笔记/python的类型.md",
     "总目录/汇编/汇编.md",
     "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md",
     "总目录/根.md",
     "总目录/汇编",
-    "程序/javascript/javascript 获取html元素.md",
-    "总目录/javascript.md",
-    "程序/杂项笔记/网络协议杂项/DNS污染.md",
-    "程序/杂项笔记/网络协议杂项/GFW防火墙是怎么拦截外网.md",
-    "程序/杂项笔记/网络协议杂项/IPSec和openvpn的优缺点和作用.md",
-    "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md",
-    "程序/网络安全/kali卸载LAMP环境.md",
-    "程序/网络安全/使用LAMP部署DVWA.md",
-    "程序/网络安全/网络安全常用术语.md",
-    "程序/网络安全/网络安全的基本攻击模式.md",
     "程序/Linux笔记/Linux桌面",
     "程序/魔法",
     "程序/杂项笔记/网络协议杂项/《汇编语言(第3版) 》王爽著.pdf",

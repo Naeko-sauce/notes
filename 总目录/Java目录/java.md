@@ -13,4 +13,7 @@
 [[java]]
 [[javaIO流]]
 [[java递归图解]]
-
+# python 转 Java
+[[总目录/Java目录/python转Java]]
+[[python 中的call转为Java代码]]
+[[示例1]]
