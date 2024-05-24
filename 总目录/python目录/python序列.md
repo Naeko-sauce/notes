@@ -1,6 +1,0 @@
-[[序列介绍]]
-[[列表介绍]]
-[[列表常用方法]]
-[[python中的pop方法]]
-[[python中del用法]]
-[[python中的remove方法]]
