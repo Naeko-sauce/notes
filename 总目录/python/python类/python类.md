@@ -11,3 +11,5 @@
 [[python中的none和null的区别]]
 [[python中init和self方法]]
 [[python多态]]
+[[python中的isinstance]]
+[[python特殊属性]]
