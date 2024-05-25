@@ -13,3 +13,4 @@
 [[python多态]]
 [[python中的isinstance]]
 [[python特殊属性]]
+[[python组合]]
