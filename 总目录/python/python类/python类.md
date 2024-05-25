@@ -10,3 +10,4 @@
 [[python中的@property装饰器]]
 [[python中的none和null的区别]]
 [[python中init和self方法]]
+[[python多态]]

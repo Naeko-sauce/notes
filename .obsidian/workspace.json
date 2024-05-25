@@ -11,8 +11,12 @@
             "id": "d482818ead96286d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "总目录/杂项笔记/python杂项/python杂项.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -64,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "除法",
+                "query": "多态",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "总目录/杂项笔记/python杂项/python杂项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "总目录/杂项笔记/python杂项/python杂项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "总目录/杂项笔记/python杂项/python杂项.md"
+              }
             }
           },
           {
@@ -193,6 +201,13 @@
   },
   "active": "d482818ead96286d",
   "lastOpenFiles": [
+    "程序/杂项笔记/python杂项/python中的特殊方法和运算重载.md",
+    "总目录/python/python部分练习/python练习.md",
+    "总目录/python/python类/python类.md",
+    "程序/python笔记/类/python多态.md",
+    "程序/python笔记/类/python类.md",
+    "程序/python笔记/python循环/python中的循环.md",
+    "程序/python笔记/序列/列表/python使用list创建列表的方法.md",
     "总目录/杂项笔记/python杂项/python杂项.md",
     "程序/杂项笔记/python杂项/python os.system.md",
     "总目录/python/python循环/python循环.md",
@@ -209,21 +224,14 @@
     "总目录/python/python.md",
     "总目录/python/python字符串/python中的字符串.md",
     "总目录/Linux/Linux.md",
-    "总目录/python/python类/python类.md",
     "总目录/java/Javaio/Javaio.md",
     "总目录/杂项笔记/杂项笔记.md",
     "程序/降头.md",
     "总目录/vue/vue项目",
-    "总目录/vim/vim.md",
     "总目录/vue",
-    "程序/vim/vim基础.md",
     "总目录/vim",
-    "总目录/threejs/three.js.md",
-    "总目录/SQL Server/SQL Server.md",
     "总目录/threejs",
-    "程序/SQL Server/SQL Server.md",
     "总目录/SQL Server",
-    "总目录/python/python函数/python函数.md",
     "总目录/python/python序列/python序列",
     "总目录/python/python循环",
     "总目录/python/python函数",

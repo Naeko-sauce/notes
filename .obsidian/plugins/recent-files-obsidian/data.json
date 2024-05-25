@@ -5,6 +5,34 @@
       "path": "总目录/杂项笔记/python杂项/python杂项.md"
     },
     {
+      "basename": "python中的特殊方法和运算重载",
+      "path": "程序/杂项笔记/python杂项/python中的特殊方法和运算重载.md"
+    },
+    {
+      "basename": "python练习",
+      "path": "总目录/python/python部分练习/python练习.md"
+    },
+    {
+      "basename": "python类",
+      "path": "总目录/python/python类/python类.md"
+    },
+    {
+      "basename": "python多态",
+      "path": "程序/python笔记/类/python多态.md"
+    },
+    {
+      "basename": "python类",
+      "path": "程序/python笔记/类/python类.md"
+    },
+    {
+      "basename": "python中的循环",
+      "path": "程序/python笔记/python循环/python中的循环.md"
+    },
+    {
+      "basename": "python使用list创建列表的方法",
+      "path": "程序/python笔记/序列/列表/python使用list创建列表的方法.md"
+    },
+    {
       "basename": "python os.system",
       "path": "程序/杂项笔记/python杂项/python os.system.md"
     },
@@ -65,10 +93,6 @@
       "path": "总目录/Linux/Linux.md"
     },
     {
-      "basename": "python类",
-      "path": "总目录/python/python类/python类.md"
-    },
-    {
       "basename": "Javaio",
       "path": "总目录/java/Javaio/Javaio.md"
     },
@@ -107,10 +131,6 @@
     {
       "basename": "python中的匿名函数lambda",
       "path": "程序/python笔记/python函数/python中的匿名函数lambda.md"
-    },
-    {
-      "basename": "python练习",
-      "path": "总目录/python/python部分练习/python练习.md"
     },
     {
       "basename": "python序列",
@@ -179,26 +199,6 @@
     {
       "basename": "c Sharp",
       "path": "总目录/c Sharp/c Sharp.md"
-    },
-    {
-      "basename": "C Sharp中的Array list用处和与Java中的Array list的不同",
-      "path": "程序/c Sharp笔记/C Sharp中的Array list用处和与Java中的Array list的不同.md"
-    },
-    {
-      "basename": "C",
-      "path": "总目录/c/C.md"
-    },
-    {
-      "basename": "three杂项",
-      "path": "总目录/杂项笔记/three杂项/three杂项.md"
-    },
-    {
-      "basename": "网络协议杂项",
-      "path": "总目录/杂项笔记/网络协议杂项/网络协议杂项.md"
-    },
-    {
-      "basename": "网络安全",
-      "path": "总目录/网络安全/网络安全.md"
     }
   ],
   "omittedPaths": [],
