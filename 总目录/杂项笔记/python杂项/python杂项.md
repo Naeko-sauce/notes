@@ -13,3 +13,6 @@
 [[python转义符]]
 [[python os.system]]
 [[python中的特殊方法和运算重载]]
+[[python单例设计模式]]
+[[python工厂设计模式]]
+[[python]]

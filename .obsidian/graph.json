@@ -104,6 +104,27 @@
         "a": 1,
         "rgb": 5705550
       }
+    },
+    {
+      "query": "path:程序/c  ",
+      "color": {
+        "a": 1,
+        "rgb": 1134366
+      }
+    },
+    {
+      "query": "path:程序/报错合集/前端报错  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:程序/密码学  ",
+      "color": {
+        "a": 1,
+        "rgb": 11575555
+      }
     }
   ],
   "collapse-display": false,
@@ -116,6 +137,6 @@
   "repelStrength": 11.3541666666667,
   "linkStrength": 1,
   "linkDistance": 214,
-  "scale": 0.11660891579457767,
+  "scale": 0.16348370567220785,
   "close": true
 }

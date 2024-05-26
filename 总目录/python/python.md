@@ -5,3 +5,4 @@
 [[python循环]]
 [[总目录/python/python转Java/python代码转Java|python代码转Java]]
 [[python中的字符串]]
+[[python杂项]]
