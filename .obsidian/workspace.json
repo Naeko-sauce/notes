@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/杂项笔记/python杂项/python中欧的__new__.md",
+                "file": "程序/python笔记/python代码转Java/python单列设计模式转Java单例.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/python循环/python中的zip函数.md",
+                "file": "总目录/java/java.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "__new__",
+                "query": "*ar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/杂项笔记/python杂项/python中欧的__new__.md",
+                "file": "程序/python笔记/python代码转Java/python单列设计模式转Java单例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/杂项笔记/python杂项/python中欧的__new__.md",
+                "file": "程序/python笔记/python代码转Java/python单列设计模式转Java单例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/杂项笔记/python杂项/python中欧的__new__.md"
+                "file": "程序/python笔记/python代码转Java/python单列设计模式转Java单例.md"
               }
             }
           },
@@ -201,13 +201,16 @@
   },
   "active": "d482818ead96286d",
   "lastOpenFiles": [
-    "程序/杂项笔记/python杂项/python单例设计模式.md",
+    "总目录/java/java.md",
+    "程序/python笔记/python循环/python中的zip函数.md",
+    "程序/python笔记/python代码转Java/python单列设计模式转Java单例.md",
+    "总目录/python/python转Java/python代码转Java.md",
+    "程序/python笔记/python函数/python各种参数.md",
     "程序/杂项笔记/python杂项/python中欧的__new__.md",
+    "程序/杂项笔记/python杂项/python单例设计模式.md",
     "总目录/杂项笔记/python杂项/python杂项.md",
     "总目录/python/python.md",
     "程序/杂项笔记/python杂项/python工厂设计模式.md",
-    "总目录/python/python转Java/python代码转Java.md",
-    "总目录/java/java.md",
     "Pasted Image 20240107125827_699.png.md",
     "总目录/算卦/卦.md",
     "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md",
@@ -225,9 +228,6 @@
     "程序/python笔记/python函数/python浅拷贝和深拷贝.md",
     "程序/python笔记/类/python特殊属性.md",
     "程序/python笔记/python部分练习/python运算符重载.md",
-    "总目录/python/python部分练习/python练习.md",
-    "程序/python笔记/类/python中的isinstance.md",
-    "程序/杂项笔记/python杂项/python中的特殊方法和运算重载.md",
     "总目录/vue/vue项目",
     "总目录/vue",
     "总目录/vim",
