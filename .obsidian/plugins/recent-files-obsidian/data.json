@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "python",
+      "path": "总目录/python/python.md"
+    },
+    {
+      "basename": "python杂项",
+      "path": "总目录/杂项笔记/python杂项/python杂项.md"
+    },
+    {
+      "basename": "python中的字符串",
+      "path": "总目录/python/python字符串/python中的字符串.md"
+    },
+    {
+      "basename": "python代码转Java",
+      "path": "总目录/python/python转Java/python代码转Java.md"
+    },
+    {
+      "basename": "python循环",
+      "path": "总目录/python/python循环/python循环.md"
+    },
+    {
+      "basename": "python函数",
+      "path": "总目录/python/python函数/python函数.md"
+    },
+    {
+      "basename": "python虚拟环境",
+      "path": "程序/杂项笔记/python杂项/python虚拟环境.md"
+    },
+    {
       "basename": "python单列设计模式转Java单例",
       "path": "程序/python笔记/python代码转Java/python单列设计模式转Java单例.md"
     },
@@ -13,10 +41,6 @@
       "path": "程序/python笔记/python循环/python中的zip函数.md"
     },
     {
-      "basename": "python代码转Java",
-      "path": "总目录/python/python转Java/python代码转Java.md"
-    },
-    {
       "basename": "python各种参数",
       "path": "程序/python笔记/python函数/python各种参数.md"
     },
@@ -27,14 +51,6 @@
     {
       "basename": "python单例设计模式",
       "path": "程序/杂项笔记/python杂项/python单例设计模式.md"
-    },
-    {
-      "basename": "python杂项",
-      "path": "总目录/杂项笔记/python杂项/python杂项.md"
-    },
-    {
-      "basename": "python",
-      "path": "总目录/python/python.md"
     },
     {
       "basename": "python工厂设计模式",
@@ -81,16 +97,8 @@
       "path": "总目录/python/python类/python类.md"
     },
     {
-      "basename": "python函数",
-      "path": "总目录/python/python函数/python函数.md"
-    },
-    {
       "basename": "python中的@property装饰器",
       "path": "程序/python笔记/类/python中的@property装饰器.md"
-    },
-    {
-      "basename": "python循环",
-      "path": "总目录/python/python循环/python循环.md"
     },
     {
       "basename": "python浅拷贝和深拷贝",
@@ -161,10 +169,6 @@
       "path": "总目录/vue/vue.md"
     },
     {
-      "basename": "python中的字符串",
-      "path": "总目录/python/python字符串/python中的字符串.md"
-    },
-    {
       "basename": "Linux",
       "path": "总目录/Linux/Linux.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL Server",
       "path": "总目录/SQL Server/SQL Server.md"
-    },
-    {
-      "basename": "SQL Server",
-      "path": "程序/SQL Server/SQL Server.md"
     }
   ],
   "omittedPaths": [],

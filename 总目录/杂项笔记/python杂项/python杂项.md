@@ -16,3 +16,4 @@
 [[python单例设计模式]]
 [[python工厂设计模式]]
 [[python]]
+[[python虚拟环境]]
