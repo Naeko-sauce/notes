@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/git-github/git命令.md",
+                "file": "程序/git-github/github添加ssh密钥给git.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/git-github/git命令.md",
+                "file": "程序/git-github/github添加ssh密钥给git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/git-github/git命令.md",
+                "file": "程序/git-github/github添加ssh密钥给git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/git-github/git命令.md"
+                "file": "程序/git-github/github添加ssh密钥给git.md"
               }
             }
           },
@@ -201,9 +201,9 @@
   },
   "active": "d482818ead96286d",
   "lastOpenFiles": [
+    "程序/git-github/git命令.md",
     "总目录/git-github/git-github.md",
     "总目录/杂项笔记/杂项笔记.md",
-    "程序/git-github/git命令.md",
     "总目录/Linux/Linux.md",
     "总目录/vim/vim.md",
     "程序/vim/arch配置neovim的全局.md",
