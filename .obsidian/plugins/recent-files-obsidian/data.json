@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "python",
-      "path": "总目录/python/python.md"
+      "basename": "git命令",
+      "path": "程序/git-github/git命令.md"
+    },
+    {
+      "basename": "git-github",
+      "path": "总目录/git-github/git-github.md"
+    },
+    {
+      "basename": "杂项笔记",
+      "path": "总目录/杂项笔记/杂项笔记.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "总目录/Linux/Linux.md"
+    },
+    {
+      "basename": "vim",
+      "path": "总目录/vim/vim.md"
+    },
+    {
+      "basename": "arch配置neovim的全局",
+      "path": "程序/vim/arch配置neovim的全局.md"
+    },
+    {
+      "basename": "archlinux使用代理无法访问git去除代理方法",
+      "path": "程序/Linux笔记/archlinux使用代理无法访问git去除代理方法.md"
+    },
+    {
+      "basename": "根",
+      "path": "总目录/根.md"
+    },
+    {
+      "basename": "python中欧的__new__",
+      "path": "程序/杂项笔记/python杂项/python中欧的__new__.md"
     },
     {
       "basename": "python杂项",
       "path": "总目录/杂项笔记/python杂项/python杂项.md"
+    },
+    {
+      "basename": "github添加ssh密钥给git",
+      "path": "程序/git-github/github添加ssh密钥给git.md"
+    },
+    {
+      "basename": "archlinux中vscod无法访问模块",
+      "path": "程序/Linux笔记/archlinux中vscod无法访问模块.md"
+    },
+    {
+      "basename": "Pasted Image 20240107125827_699.png",
+      "path": "Pasted Image 20240107125827_699.png.md"
+    },
+    {
+      "basename": "python",
+      "path": "总目录/python/python.md"
     },
     {
       "basename": "python中的字符串",
@@ -45,20 +93,12 @@
       "path": "程序/python笔记/python函数/python各种参数.md"
     },
     {
-      "basename": "python中欧的__new__",
-      "path": "程序/杂项笔记/python杂项/python中欧的__new__.md"
-    },
-    {
       "basename": "python单例设计模式",
       "path": "程序/杂项笔记/python杂项/python单例设计模式.md"
     },
     {
       "basename": "python工厂设计模式",
       "path": "程序/杂项笔记/python杂项/python工厂设计模式.md"
-    },
-    {
-      "basename": "Pasted Image 20240107125827_699.png",
-      "path": "Pasted Image 20240107125827_699.png.md"
     },
     {
       "basename": "卦",
@@ -79,10 +119,6 @@
     {
       "basename": "archlinux挂载报错",
       "path": "程序/报错合集/linux报错/archlinux挂载报错.md"
-    },
-    {
-      "basename": "根",
-      "path": "总目录/根.md"
     },
     {
       "basename": "寄根",
@@ -163,42 +199,6 @@
     {
       "basename": "vue项目",
       "path": "总目录/vue/vue项目/vue项目.md"
-    },
-    {
-      "basename": "vue",
-      "path": "总目录/vue/vue.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "总目录/Linux/Linux.md"
-    },
-    {
-      "basename": "Javaio",
-      "path": "总目录/java/Javaio/Javaio.md"
-    },
-    {
-      "basename": "杂项笔记",
-      "path": "总目录/杂项笔记/杂项笔记.md"
-    },
-    {
-      "basename": "降头",
-      "path": "程序/降头.md"
-    },
-    {
-      "basename": "vim",
-      "path": "总目录/vim/vim.md"
-    },
-    {
-      "basename": "vim基础",
-      "path": "程序/vim/vim基础.md"
-    },
-    {
-      "basename": "three.js",
-      "path": "总目录/threejs/three.js.md"
-    },
-    {
-      "basename": "SQL Server",
-      "path": "总目录/SQL Server/SQL Server.md"
     }
   ],
   "omittedPaths": [],

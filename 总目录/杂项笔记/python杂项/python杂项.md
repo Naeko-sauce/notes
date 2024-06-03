@@ -17,3 +17,4 @@
 [[python工厂设计模式]]
 [[python]]
 [[python虚拟环境]]
+[[python中欧的__new__]]

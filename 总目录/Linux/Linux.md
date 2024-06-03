@@ -10,3 +10,6 @@
 [[Linux中管道符的作用]]
 [[centos]]
 [[kali]]
+[[archlinux中vscod无法访问模块]]
+[[archlinux使用代理无法访问git去除代理方法]]
+[[arch配置neovim的全局]]

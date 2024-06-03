@@ -11,8 +11,12 @@
             "id": "d482818ead96286d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程序/git-github/git命令.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程序/git-github/git命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程序/git-github/git命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程序/git-github/git命令.md"
+              }
             }
           },
           {
@@ -184,17 +192,32 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "flomo-importer:Flomo Importer": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
   "active": "d482818ead96286d",
   "lastOpenFiles": [
-    "总目录/python/python.md",
+    "总目录/git-github/git-github.md",
+    "总目录/杂项笔记/杂项笔记.md",
+    "程序/git-github/git命令.md",
+    "总目录/Linux/Linux.md",
+    "总目录/vim/vim.md",
+    "程序/vim/arch配置neovim的全局.md",
+    "程序/Linux笔记/archlinux使用代理无法访问git去除代理方法.md",
+    "总目录/根.md",
+    "程序/杂项笔记/python杂项/python中欧的__new__.md",
     "总目录/杂项笔记/python杂项/python杂项.md",
+    "程序/git-github/github添加ssh密钥给git.md",
+    "总目录/git-github",
+    "程序/git-github",
+    "程序/Linux笔记/archlinux中vscod无法访问模块.md",
+    "Pasted Image 20240107125827_699.png.md",
+    "程序/Linux笔记/未命名",
+    "总目录/python/python.md",
     "总目录/python/python字符串/python中的字符串.md",
     "总目录/python/python转Java/python代码转Java.md",
     "总目录/python/python循环/python循环.md",
@@ -204,30 +227,15 @@
     "总目录/java/java.md",
     "程序/python笔记/python循环/python中的zip函数.md",
     "程序/python笔记/python函数/python各种参数.md",
-    "程序/杂项笔记/python杂项/python中欧的__new__.md",
     "程序/杂项笔记/python杂项/python单例设计模式.md",
     "程序/杂项笔记/python杂项/python工厂设计模式.md",
-    "Pasted Image 20240107125827_699.png.md",
     "总目录/算卦/卦.md",
-    "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md",
-    "程序/报错合集/linux报错/archlinux使用yay安装python编辑器报错找不到软件包.md",
-    "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md",
-    "程序/报错合集/linux报错/archlinux挂载报错.md",
-    "总目录/根.md",
-    "寄/寄根.md",
     "总目录/算卦",
-    "程序/python笔记/类/python组合.md",
-    "总目录/python/python类/python类.md",
-    "程序/python笔记/类/python中的@property装饰器.md",
-    "程序/python笔记/python函数/python浅拷贝和深拷贝.md",
     "总目录/vue/vue项目",
     "总目录/vue",
     "总目录/vim",
     "总目录/threejs",
     "总目录/SQL Server",
-    "总目录/python/python序列/python序列",
-    "总目录/python/python循环",
-    "总目录/python/python函数",
-    "总目录/python/python转Java"
+    "总目录/python/python序列/python序列"
   ]
 }
