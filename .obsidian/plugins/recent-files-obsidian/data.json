@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "github添加ssh密钥给git",
-      "path": "程序/git-github/github添加ssh密钥给git.md"
+      "basename": "git如果一直提示需要输入密钥的原因",
+      "path": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
     },
     {
       "basename": "git命令",
       "path": "程序/git-github/git命令.md"
+    },
+    {
+      "basename": "github添加ssh密钥给git",
+      "path": "程序/git-github/github添加ssh密钥给git.md"
     },
     {
       "basename": "git-github",
@@ -195,10 +199,6 @@
     {
       "basename": "阴阳",
       "path": "算卦/阴阳.md"
-    },
-    {
-      "basename": "vue项目",
-      "path": "总目录/vue/vue项目/vue项目.md"
     }
   ],
   "omittedPaths": [],
