@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/git-github/git如果一直提示需要输入密钥的原因.md",
+                "file": "总目录/python/python异常/python异常.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/git-github/git如果一直提示需要输入密钥的原因.md",
+                "file": "总目录/python/python异常/python异常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/git-github/git如果一直提示需要输入密钥的原因.md",
+                "file": "总目录/python/python异常/python异常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
+                "file": "总目录/python/python异常/python异常.md"
               }
             }
           },
@@ -195,14 +195,23 @@
       "flomo-importer:Flomo Importer": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false,
-      "obsidian-memos:Memos": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "d482818ead96286d",
   "lastOpenFiles": [
-    "程序/git-github/git命令.md",
+    "程序/python笔记/python异常/python文件处理with.md",
+    "总目录/杂项笔记/python杂项/python杂项.md",
+    "程序/python笔记/python异常/python异常总汇.md",
+    "总目录/python/python异常/python异常.md",
+    "程序/python笔记/python异常/python异常机制.md",
+    "总目录/python/python.md",
+    "总目录/python/python部分练习/python练习.md",
+    "总目录/python/python异常",
     "程序/git-github/git如果一直提示需要输入密钥的原因.md",
+    "程序/python笔记/python异常",
+    "程序/git-github/git命令.md",
     "程序/git-github/github添加ssh密钥给git.md",
     "总目录/git-github/git-github.md",
     "总目录/杂项笔记/杂项笔记.md",
@@ -212,30 +221,21 @@
     "程序/Linux笔记/archlinux使用代理无法访问git去除代理方法.md",
     "总目录/根.md",
     "程序/杂项笔记/python杂项/python中欧的__new__.md",
-    "总目录/杂项笔记/python杂项/python杂项.md",
     "总目录/git-github",
     "程序/git-github",
     "程序/Linux笔记/archlinux中vscod无法访问模块.md",
     "Pasted Image 20240107125827_699.png.md",
     "程序/Linux笔记/未命名",
-    "总目录/python/python.md",
     "总目录/python/python字符串/python中的字符串.md",
     "总目录/python/python转Java/python代码转Java.md",
     "总目录/python/python循环/python循环.md",
     "总目录/python/python函数/python函数.md",
     "程序/杂项笔记/python杂项/python虚拟环境.md",
     "程序/python笔记/python代码转Java/python单列设计模式转Java单例.md",
-    "总目录/java/java.md",
-    "程序/python笔记/python循环/python中的zip函数.md",
-    "程序/python笔记/python函数/python各种参数.md",
-    "程序/杂项笔记/python杂项/python单例设计模式.md",
-    "程序/杂项笔记/python杂项/python工厂设计模式.md",
     "总目录/算卦",
     "总目录/vue/vue项目",
     "总目录/vue",
     "总目录/vim",
-    "总目录/threejs",
-    "总目录/SQL Server",
-    "总目录/python/python序列/python序列"
+    "总目录/threejs"
   ]
 }

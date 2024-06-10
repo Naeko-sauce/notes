@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "python异常",
+      "path": "总目录/python/python异常/python异常.md"
+    },
+    {
+      "basename": "python文件处理with",
+      "path": "程序/python笔记/python异常/python文件处理with.md"
+    },
+    {
+      "basename": "python杂项",
+      "path": "总目录/杂项笔记/python杂项/python杂项.md"
+    },
+    {
+      "basename": "python异常总汇",
+      "path": "程序/python笔记/python异常/python异常总汇.md"
+    },
+    {
+      "basename": "python异常机制",
+      "path": "程序/python笔记/python异常/python异常机制.md"
+    },
+    {
+      "basename": "python",
+      "path": "总目录/python/python.md"
+    },
+    {
+      "basename": "python练习",
+      "path": "总目录/python/python部分练习/python练习.md"
+    },
+    {
       "basename": "git如果一直提示需要输入密钥的原因",
       "path": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
     },
@@ -45,20 +73,12 @@
       "path": "程序/杂项笔记/python杂项/python中欧的__new__.md"
     },
     {
-      "basename": "python杂项",
-      "path": "总目录/杂项笔记/python杂项/python杂项.md"
-    },
-    {
       "basename": "archlinux中vscod无法访问模块",
       "path": "程序/Linux笔记/archlinux中vscod无法访问模块.md"
     },
     {
       "basename": "Pasted Image 20240107125827_699.png",
       "path": "Pasted Image 20240107125827_699.png.md"
-    },
-    {
-      "basename": "python",
-      "path": "总目录/python/python.md"
     },
     {
       "basename": "python中的字符串",
@@ -153,10 +173,6 @@
       "path": "程序/python笔记/python部分练习/python运算符重载.md"
     },
     {
-      "basename": "python练习",
-      "path": "总目录/python/python部分练习/python练习.md"
-    },
-    {
       "basename": "python中的isinstance",
       "path": "程序/python笔记/类/python中的isinstance.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "python os.system",
       "path": "程序/杂项笔记/python杂项/python os.system.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "总目录/javascript/javascript.md"
-    },
-    {
-      "basename": "五行基础",
-      "path": "算卦/五行基础.md"
-    },
-    {
-      "basename": "天干地支基础",
-      "path": "算卦/天干地支基础.md"
-    },
-    {
-      "basename": "阴阳",
-      "path": "算卦/阴阳.md"
     }
   ],
   "omittedPaths": [],
