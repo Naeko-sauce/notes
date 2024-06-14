@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总目录/python/python异常/python异常.md",
+                "file": "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总目录/python/python异常/python异常.md",
+                "file": "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总目录/python/python异常/python异常.md",
+                "file": "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总目录/python/python异常/python异常.md"
+                "file": "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md"
               }
             }
           },
@@ -201,10 +201,12 @@
   },
   "active": "d482818ead96286d",
   "lastOpenFiles": [
+    "总目录/Linux/Linux.md",
+    "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md",
+    "总目录/python/python异常/python异常.md",
     "程序/python笔记/python异常/python文件处理with.md",
     "总目录/杂项笔记/python杂项/python杂项.md",
     "程序/python笔记/python异常/python异常总汇.md",
-    "总目录/python/python异常/python异常.md",
     "程序/python笔记/python异常/python异常机制.md",
     "总目录/python/python.md",
     "总目录/python/python部分练习/python练习.md",
@@ -215,7 +217,6 @@
     "程序/git-github/github添加ssh密钥给git.md",
     "总目录/git-github/git-github.md",
     "总目录/杂项笔记/杂项笔记.md",
-    "总目录/Linux/Linux.md",
     "总目录/vim/vim.md",
     "程序/vim/arch配置neovim的全局.md",
     "程序/Linux笔记/archlinux使用代理无法访问git去除代理方法.md",
@@ -231,7 +232,6 @@
     "总目录/python/python循环/python循环.md",
     "总目录/python/python函数/python函数.md",
     "程序/杂项笔记/python杂项/python虚拟环境.md",
-    "程序/python笔记/python代码转Java/python单列设计模式转Java单例.md",
     "总目录/算卦",
     "总目录/vue/vue项目",
     "总目录/vue",

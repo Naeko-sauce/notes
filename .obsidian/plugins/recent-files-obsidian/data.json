@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "archlinux在vm虚拟机中使用主机共享文件夹",
+      "path": "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "总目录/Linux/Linux.md"
+    },
+    {
       "basename": "python异常",
       "path": "总目录/python/python异常/python异常.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "杂项笔记",
       "path": "总目录/杂项笔记/杂项笔记.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "总目录/Linux/Linux.md"
     },
     {
       "basename": "vim",
@@ -195,10 +199,6 @@
     {
       "basename": "python使用list创建列表的方法",
       "path": "程序/python笔记/序列/列表/python使用list创建列表的方法.md"
-    },
-    {
-      "basename": "python os.system",
-      "path": "程序/杂项笔记/python杂项/python os.system.md"
     }
   ],
   "omittedPaths": [],
