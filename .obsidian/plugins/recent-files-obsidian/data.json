@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "python异常",
-      "path": "总目录/python/python异常/python异常.md"
+      "basename": "文本文件和二进制文件",
+      "path": "程序/python笔记/python文件/文本文件和二进制文件.md"
+    },
+    {
+      "basename": "python文件",
+      "path": "总目录/python/python文件/python文件.md"
+    },
+    {
+      "basename": "python序列",
+      "path": "总目录/python/python序列/python序列.md"
+    },
+    {
+      "basename": "python循环",
+      "path": "总目录/python/python循环/python循环.md"
+    },
+    {
+      "basename": "python代码转Java",
+      "path": "总目录/python/python转Java/python代码转Java.md"
+    },
+    {
+      "basename": "python",
+      "path": "总目录/python/python.md"
+    },
+    {
+      "basename": "python中的字符串",
+      "path": "总目录/python/python字符串/python中的字符串.md"
+    },
+    {
+      "basename": "git-github",
+      "path": "总目录/git-github/git-github.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "总目录/Linux/Linux.md"
+    },
+    {
+      "basename": "kali",
+      "path": "总目录/Linux/kali/kali.md"
     },
     {
       "basename": "traceback 模块生成异常和日志",
@@ -11,6 +47,18 @@
     {
       "basename": "python文件处理with",
       "path": "程序/python笔记/python异常/python文件处理with.md"
+    },
+    {
+      "basename": "python异常机制",
+      "path": "程序/python笔记/python异常/python异常机制.md"
+    },
+    {
+      "basename": "FileInputStream的方法",
+      "path": "程序/java/java-IO流/FileInputStream的方法.md"
+    },
+    {
+      "basename": "python异常",
+      "path": "总目录/python/python异常/python异常.md"
     },
     {
       "basename": "archlinux在vm虚拟机中使用主机共享文件夹",
@@ -29,24 +77,12 @@
       "path": "程序/java/笔记.md"
     },
     {
-      "basename": "Linux",
-      "path": "总目录/Linux/Linux.md"
-    },
-    {
       "basename": "python杂项",
       "path": "总目录/杂项笔记/python杂项/python杂项.md"
     },
     {
       "basename": "python异常总汇",
       "path": "程序/python笔记/python异常/python异常总汇.md"
-    },
-    {
-      "basename": "python异常机制",
-      "path": "程序/python笔记/python异常/python异常机制.md"
-    },
-    {
-      "basename": "python",
-      "path": "总目录/python/python.md"
     },
     {
       "basename": "python练习",
@@ -63,10 +99,6 @@
     {
       "basename": "github添加ssh密钥给git",
       "path": "程序/git-github/github添加ssh密钥给git.md"
-    },
-    {
-      "basename": "git-github",
-      "path": "总目录/git-github/git-github.md"
     },
     {
       "basename": "杂项笔记",
@@ -91,18 +123,6 @@
     {
       "basename": "Pasted Image 20240107125827_699.png",
       "path": "Pasted Image 20240107125827_699.png.md"
-    },
-    {
-      "basename": "python中的字符串",
-      "path": "总目录/python/python字符串/python中的字符串.md"
-    },
-    {
-      "basename": "python代码转Java",
-      "path": "总目录/python/python转Java/python代码转Java.md"
-    },
-    {
-      "basename": "python循环",
-      "path": "总目录/python/python循环/python循环.md"
     },
     {
       "basename": "python函数",
@@ -179,26 +199,6 @@
     {
       "basename": "python特殊属性",
       "path": "程序/python笔记/类/python特殊属性.md"
-    },
-    {
-      "basename": "python运算符重载",
-      "path": "程序/python笔记/python部分练习/python运算符重载.md"
-    },
-    {
-      "basename": "python中的isinstance",
-      "path": "程序/python笔记/类/python中的isinstance.md"
-    },
-    {
-      "basename": "python中的特殊方法和运算重载",
-      "path": "程序/杂项笔记/python杂项/python中的特殊方法和运算重载.md"
-    },
-    {
-      "basename": "python多态",
-      "path": "程序/python笔记/类/python多态.md"
-    },
-    {
-      "basename": "python类",
-      "path": "程序/python笔记/类/python类.md"
     }
   ],
   "omittedPaths": [],

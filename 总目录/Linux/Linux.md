@@ -13,3 +13,4 @@
 [[archlinux中vscod无法访问模块]]
 [[archlinux使用代理无法访问git去除代理方法]]
 [[arch配置neovim的全局]]
+[[archlinux在vm虚拟机中使用主机共享文件夹]]
