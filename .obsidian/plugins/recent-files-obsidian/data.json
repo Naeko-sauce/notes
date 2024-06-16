@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "archlinux在vm虚拟机中使用主机共享文件夹",
-      "path": "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "总目录/Linux/Linux.md"
-    },
-    {
       "basename": "python异常",
       "path": "总目录/python/python异常/python异常.md"
     },
     {
+      "basename": "traceback 模块生成异常和日志",
+      "path": "程序/python笔记/python异常/traceback 模块生成异常和日志.md"
+    },
+    {
       "basename": "python文件处理with",
       "path": "程序/python笔记/python异常/python文件处理with.md"
+    },
+    {
+      "basename": "archlinux在vm虚拟机中使用主机共享文件夹",
+      "path": "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md"
+    },
+    {
+      "basename": "archlinux使用代理无法访问git去除代理方法",
+      "path": "程序/Linux笔记/archlinux使用代理无法访问git去除代理方法.md"
+    },
+    {
+      "basename": "archlinux中vscod无法访问模块",
+      "path": "程序/Linux笔记/archlinux中vscod无法访问模块.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "程序/java/笔记.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "总目录/Linux/Linux.md"
     },
     {
       "basename": "python杂项",
@@ -65,20 +81,12 @@
       "path": "程序/vim/arch配置neovim的全局.md"
     },
     {
-      "basename": "archlinux使用代理无法访问git去除代理方法",
-      "path": "程序/Linux笔记/archlinux使用代理无法访问git去除代理方法.md"
-    },
-    {
       "basename": "根",
       "path": "总目录/根.md"
     },
     {
       "basename": "python中欧的__new__",
       "path": "程序/杂项笔记/python杂项/python中欧的__new__.md"
-    },
-    {
-      "basename": "archlinux中vscod无法访问模块",
-      "path": "程序/Linux笔记/archlinux中vscod无法访问模块.md"
     },
     {
       "basename": "Pasted Image 20240107125827_699.png",
@@ -191,14 +199,6 @@
     {
       "basename": "python类",
       "path": "程序/python笔记/类/python类.md"
-    },
-    {
-      "basename": "python中的循环",
-      "path": "程序/python笔记/python循环/python中的循环.md"
-    },
-    {
-      "basename": "python使用list创建列表的方法",
-      "path": "程序/python笔记/序列/列表/python使用list创建列表的方法.md"
     }
   ],
   "omittedPaths": [],
