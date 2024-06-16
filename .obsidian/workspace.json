@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/python文件/文本文件和二进制文件.md",
+                "file": "程序/python笔记/python部分练习/文件写入练习.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "close",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/python文件/文本文件和二进制文件.md",
+                "file": "程序/python笔记/python部分练习/文件写入练习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/python文件/文本文件和二进制文件.md",
+                "file": "程序/python笔记/python部分练习/文件写入练习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/python文件/文本文件和二进制文件.md"
+                "file": "程序/python笔记/python部分练习/文件写入练习.md"
               }
             }
           },
@@ -201,7 +201,12 @@
   },
   "active": "d482818ead96286d",
   "lastOpenFiles": [
+    "程序/python笔记/python文件/python文件读取的方法.md",
+    "程序/python笔记/python部分练习/文件写入练习.md",
+    "程序/python笔记/python文件/python文件的操作.md",
     "总目录/python/python文件/python文件.md",
+    "程序/python笔记/python文件/python中的close.md",
+    "程序/python笔记/python文件/python文件操作模块.md",
     "程序/python笔记/python文件/文本文件和二进制文件.md",
     "总目录/python/python序列/python序列.md",
     "总目录/python/python循环/python循环.md",
@@ -224,13 +229,8 @@
     "程序/java/笔记.md",
     "总目录/杂项笔记/python杂项/python杂项.md",
     "程序/python笔记/python异常/python异常总汇.md",
-    "总目录/python/python部分练习/python练习.md",
     "总目录/python/python异常",
-    "程序/git-github/git如果一直提示需要输入密钥的原因.md",
     "程序/python笔记/python异常",
-    "程序/git-github/git命令.md",
-    "程序/git-github/github添加ssh密钥给git.md",
-    "总目录/杂项笔记/杂项笔记.md",
     "总目录/git-github",
     "程序/git-github",
     "程序/Linux笔记/未命名",

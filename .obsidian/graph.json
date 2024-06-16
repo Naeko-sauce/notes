@@ -125,6 +125,13 @@
         "a": 1,
         "rgb": 11575555
       }
+    },
+    {
+      "query": "path:程序/杂项笔记/python杂项  ",
+      "color": {
+        "a": 1,
+        "rgb": 987043
+      }
     }
   ],
   "collapse-display": false,
@@ -137,6 +144,6 @@
   "repelStrength": 11.3541666666667,
   "linkStrength": 1,
   "linkDistance": 214,
-  "scale": 0.10898913711480694,
+  "scale": 0.10898913711480775,
   "close": true
 }
