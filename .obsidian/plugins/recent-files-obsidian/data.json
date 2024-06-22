@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "文件写入练习",
-      "path": "程序/python笔记/python部分练习/文件写入练习.md"
+      "basename": "python文件",
+      "path": "总目录/python/python文件/python文件.md"
+    },
+    {
+      "basename": "pickle序列化和反序列化",
+      "path": "程序/python笔记/python文件/pickle序列化和反序列化.md"
+    },
+    {
+      "basename": "python练习",
+      "path": "总目录/python/python部分练习/python练习.md"
+    },
+    {
+      "basename": "python",
+      "path": "总目录/python/python.md"
     },
     {
       "basename": "python文件读取的方法",
       "path": "程序/python笔记/python文件/python文件读取的方法.md"
     },
     {
+      "basename": "文件写入练习",
+      "path": "程序/python笔记/python部分练习/文件写入练习.md"
+    },
+    {
       "basename": "python文件的操作",
       "path": "程序/python笔记/python文件/python文件的操作.md"
     },
     {
-      "basename": "python文件",
-      "path": "总目录/python/python文件/python文件.md"
+      "basename": "python文件处理with",
+      "path": "程序/python笔记/python异常/python文件处理with.md"
     },
     {
       "basename": "python中的close",
@@ -41,10 +57,6 @@
       "path": "总目录/python/python转Java/python代码转Java.md"
     },
     {
-      "basename": "python",
-      "path": "总目录/python/python.md"
-    },
-    {
       "basename": "python中的字符串",
       "path": "总目录/python/python字符串/python中的字符串.md"
     },
@@ -63,10 +75,6 @@
     {
       "basename": "traceback 模块生成异常和日志",
       "path": "程序/python笔记/python异常/traceback 模块生成异常和日志.md"
-    },
-    {
-      "basename": "python文件处理with",
-      "path": "程序/python笔记/python异常/python文件处理with.md"
     },
     {
       "basename": "python异常机制",
@@ -103,10 +111,6 @@
     {
       "basename": "python异常总汇",
       "path": "程序/python笔记/python异常/python异常总汇.md"
-    },
-    {
-      "basename": "python练习",
-      "path": "总目录/python/python部分练习/python练习.md"
     },
     {
       "basename": "git如果一直提示需要输入密钥的原因",
@@ -195,10 +199,6 @@
     {
       "basename": "archlinux挂载报错",
       "path": "程序/报错合集/linux报错/archlinux挂载报错.md"
-    },
-    {
-      "basename": "寄根",
-      "path": "寄/寄根.md"
     }
   ],
   "omittedPaths": [],

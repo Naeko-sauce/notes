@@ -2,3 +2,5 @@
 [[python文件操作模块]]
 [[python文件的操作]]
 [[python中的close]]
+[[python文件读取的方法]]
+[[pickle序列化和反序列化]]
