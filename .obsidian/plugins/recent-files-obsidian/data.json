@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "python中的csv模块",
+      "path": "程序/python笔记/python文件/python中的csv模块.md"
+    },
+    {
       "basename": "python文件",
       "path": "总目录/python/python文件/python文件.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "python中的字符串",
       "path": "总目录/python/python字符串/python中的字符串.md"
-    },
-    {
-      "basename": "python中的csv模块",
-      "path": "程序/python笔记/python文件/python中的csv模块.md"
     },
     {
       "basename": "pickle序列化和反序列化",
