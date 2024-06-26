@@ -5,6 +5,18 @@
       "path": "总目录/python/python文件/python文件.md"
     },
     {
+      "basename": "python循环",
+      "path": "总目录/python/python循环/python循环.md"
+    },
+    {
+      "basename": "python中的字符串",
+      "path": "总目录/python/python字符串/python中的字符串.md"
+    },
+    {
+      "basename": "python中的csv模块",
+      "path": "程序/python笔记/python文件/python中的csv模块.md"
+    },
+    {
       "basename": "pickle序列化和反序列化",
       "path": "程序/python笔记/python文件/pickle序列化和反序列化.md"
     },
@@ -49,16 +61,8 @@
       "path": "总目录/python/python序列/python序列.md"
     },
     {
-      "basename": "python循环",
-      "path": "总目录/python/python循环/python循环.md"
-    },
-    {
       "basename": "python代码转Java",
       "path": "总目录/python/python转Java/python代码转Java.md"
-    },
-    {
-      "basename": "python中的字符串",
-      "path": "总目录/python/python字符串/python中的字符串.md"
     },
     {
       "basename": "git-github",
@@ -195,10 +199,6 @@
     {
       "basename": "vue用pnpm i下载资源时报错",
       "path": "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md"
-    },
-    {
-      "basename": "archlinux挂载报错",
-      "path": "程序/报错合集/linux报错/archlinux挂载报错.md"
     }
   ],
   "omittedPaths": [],
