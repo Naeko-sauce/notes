@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "python中的csv模块",
-      "path": "程序/python笔记/python文件/python中的csv模块.md"
-    },
-    {
       "basename": "python文件",
       "path": "总目录/python/python文件/python文件.md"
     },
     {
-      "basename": "python循环",
-      "path": "总目录/python/python循环/python循环.md"
+      "basename": "python中的os模块",
+      "path": "程序/python笔记/python文件/python中的os模块.md"
+    },
+    {
+      "basename": "python中的csv模块",
+      "path": "程序/python笔记/python文件/python中的csv模块.md"
+    },
+    {
+      "basename": "python",
+      "path": "总目录/python/python.md"
     },
     {
       "basename": "python中的字符串",
       "path": "总目录/python/python字符串/python中的字符串.md"
+    },
+    {
+      "basename": "python循环",
+      "path": "总目录/python/python循环/python循环.md"
     },
     {
       "basename": "pickle序列化和反序列化",
@@ -23,10 +31,6 @@
     {
       "basename": "python练习",
       "path": "总目录/python/python部分练习/python练习.md"
-    },
-    {
-      "basename": "python",
-      "path": "总目录/python/python.md"
     },
     {
       "basename": "python文件读取的方法",
@@ -195,10 +199,6 @@
     {
       "basename": "archlinux使用yay安装python编辑器报错找不到软件包",
       "path": "程序/报错合集/linux报错/archlinux使用yay安装python编辑器报错找不到软件包.md"
-    },
-    {
-      "basename": "vue用pnpm i下载资源时报错",
-      "path": "程序/报错合集/vue报错/vue用pnpm i下载资源时报错.md"
     }
   ],
   "omittedPaths": [],
