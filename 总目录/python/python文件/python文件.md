@@ -6,3 +6,4 @@
 [[pickle序列化和反序列化]]
 [[python中的csv模块]]
 [[python中的os模块]]
+[[python中os模块的大部分方法]]

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "python",
+      "path": "总目录/python/python.md"
+    },
+    {
       "basename": "python文件",
       "path": "总目录/python/python文件/python文件.md"
+    },
+    {
+      "basename": "python中os模块的大部分方法",
+      "path": "程序/python笔记/python文件/python中os模块的大部分方法.md"
+    },
+    {
+      "basename": "java",
+      "path": "总目录/java/java.md"
     },
     {
       "basename": "python中的os模块",
@@ -11,10 +23,6 @@
     {
       "basename": "python中的csv模块",
       "path": "程序/python笔记/python文件/python中的csv模块.md"
-    },
-    {
-      "basename": "python",
-      "path": "总目录/python/python.md"
     },
     {
       "basename": "python中的字符串",
@@ -169,10 +177,6 @@
       "path": "程序/python笔记/python代码转Java/python单列设计模式转Java单例.md"
     },
     {
-      "basename": "java",
-      "path": "总目录/java/java.md"
-    },
-    {
       "basename": "python中的zip函数",
       "path": "程序/python笔记/python循环/python中的zip函数.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "npm下载文件下载不了改变代理",
       "path": "程序/报错合集/前端报错/npm下载文件下载不了改变代理.md"
-    },
-    {
-      "basename": "archlinux使用yay安装python编辑器报错找不到软件包",
-      "path": "程序/报错合集/linux报错/archlinux使用yay安装python编辑器报错找不到软件包.md"
     }
   ],
   "omittedPaths": [],
