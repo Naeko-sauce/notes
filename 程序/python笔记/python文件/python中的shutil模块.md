@@ -1,125 +1,190 @@
-### `shutil` 模块详细说明及示例
+### `shutil` 模块详细说明及举例
 
-`shutil` 模块是 Python 标准库的一部分，提供了一些高级的文件操作和目录操作功能，包括文件复制、移动、删除、归档和解压缩等。以下是该模块中的一些常用功能及其示例。
+`shutil` 模块是 Python 标准库中的一个用于高级文件操作的模块。它提供了一些对文件和目录进行复制、移动、删除等操作的函数，并支持压缩和解压缩功能。以下是 `shutil` 模块中所有函数的详细说明及举例。
 
-#### 1. 复制文件和目录
+#### 1. 复制操作
 
-- `shutil.copy(src, dst)`：复制文件，保留权限，返回目标路径。
-- `shutil.copy2(src, dst)`：复制文件，保留权限和元数据，返回目标路径。
-- `shutil.copytree(src, dst)`：递归地复制整个目录树。
+- **`shutil.copy(src, dst)`**
 
-```python
-import shutil
+  复制文件内容和权限，但不包括元数据（如创建时间、最后修改时间等）。
 
-# 复制文件 example.txt 到 backup.txt
-shutil.copy('example.txt', 'backup.txt')
+  ```python
+  import shutil
 
-# 复制文件 example.txt 到目录 backup 目录中
-shutil.copy2('example.txt', 'backup/example.txt')
+  shutil.copy('source_file.txt', 'destination_file.txt')
+  ```
 
-# 复制整个目录树
-shutil.copytree('source_directory', 'destination_directory')
-```
+- **`shutil.copy2(src, dst)`**
 
-#### 2. 移动和重命名文件及目录
+  复制文件内容、权限和元数据。
 
-- `shutil.move(src, dst)`：移动文件或目录，可以重命名。
+  ```python
+  import shutil
 
-```python
-import shutil
+  shutil.copy2('source_file.txt', 'destination_file.txt')
+  ```
 
-# 移动文件 example.txt 到目录 backup 中
-shutil.move('example.txt', 'backup/example.txt')
+- **`shutil.copyfile(src, dst)`**
 
-# 重命名文件
-shutil.move('backup/example.txt', 'backup/renamed_example.txt')
-```
+  仅复制文件内容，不包括权限和元数据。
 
-#### 3. 删除文件和目录
+  ```python
+  import shutil
 
-- `shutil.rmtree(path)`：递归地删除目录树。
+  shutil.copyfile('source_file.txt', 'destination_file.txt')
+  ```
 
-```python
-import shutil
+- **`shutil.copymode(src, dst)`**
 
-# 删除整个目录树
-shutil.rmtree('directory_to_delete')
-```
+  仅复制权限，不复制内容和元数据。
 
-#### 4. 创建和解压归档文件
+  ```python
+  import shutil
 
-- `shutil.make_archive(base_name, format, root_dir)`：创建归档文件。
-- `shutil.unpack_archive(filename, extract_dir)`：解压归档文件。
+  shutil.copymode('source_file.txt', 'destination_file.txt')
+  ```
 
-```python
-import shutil
+- **`shutil.copystat(src, dst)`**
 
-# 创建 zip 归档文件
-shutil.make_archive('backup', 'zip', 'directory_to_archive')
+  复制元数据（权限、最后访问时间、最后修改时间等），但不复制内容。
 
-# 解压归档文件
-shutil.unpack_archive('backup.zip', 'extracted_directory')
-```
+  ```python
+  import shutil
+
+  shutil.copystat('source_file.txt', 'destination_file.txt')
+  ```
+
+- **`shutil.copytree(src, dst, symlinks=False, ignore=None, copy_function=copy2, ignore_dangling_symlinks=False, dirs_exist_ok=False)`**
+
+  递归地复制整个目录树。如果 `dirs_exist_ok` 设置为 `True`，则目标目录已经存在时不会报错。
+
+  ```python
+  import shutil
+
+  shutil.copytree('source_dir', 'destination_dir')
+  ```
+
+#### 2. 移动和重命名操作
+
+- **`shutil.move(src, dst)`**
+
+  移动文件或目录到新的位置。如果目标位置存在同名文件或目录，将会覆盖。
+
+  ```python
+  import shutil
+
+  shutil.move('source_file.txt', 'new_directory/destination_file.txt')
+  ```
+
+#### 3. 删除操作
+
+- **`shutil.rmtree(path, ignore_errors=False, onerror=None)`**
+
+  递归删除目录树。请谨慎使用，因为此操作是不可逆的。
+
+  ```python
+  import shutil
+
+  shutil.rmtree('directory_to_delete')
+  ```
+
+#### 4. 压缩和解压缩操作
+
+- **`shutil.make_archive(base_name, format, root_dir=None, base_dir=None, verbose=0, dry_run=False, owner=None, group=None, logger=None)`**
+
+  创建压缩文件。`format` 可以是 `'zip'`, `'tar'`, `'gztar'`, `'bztar'`, `'xztar'` 等。
+
+  ```python
+  import shutil
+
+  shutil.make_archive('archive_name', 'zip', 'directory_to_compress')
+  ```
+
+- **`shutil.unpack_archive(filename, extract_dir=None, format=None)`**
+
+  解压缩文件到指定目录。
+
+  ```python
+  import shutil
+
+  shutil.unpack_archive('archive_name.zip', 'extract_to_directory')
+  ```
 
 #### 5. 磁盘使用情况
 
-- `shutil.disk_usage(path)`：获取磁盘的总大小、已用空间和可用空间。
+- **`shutil.disk_usage(path)`**
 
-```python
-import shutil
+  获取指定路径所在磁盘的使用情况。返回一个包含总空间、已用空间和可用空间的命名元组。
 
-# 获取磁盘使用情况
-total, used, free = shutil.disk_usage('/')
-print(f"Total: {total // (2**30)} GiB")
-print(f"Used: {used // (2**30)} GiB")
-print(f"Free: {free // (2**30)} GiB")
-```
+  ```python
+  import shutil
 
-#### 示例代码详解
+  usage = shutil.disk_usage('/')
+  print(f"Total: {usage.total} bytes")
+  print(f"Used: {usage.used} bytes")
+  print(f"Free: {usage.free} bytes")
+  ```
 
-下面是一段综合使用 `shutil` 模块中多个功能的示例代码：
+#### 6. 高级文件操作
 
-```python
-import shutil
-import os
+- **`shutil.which(cmd, mode=os.F_OK | os.X_OK, path=None)`**
 
-# 创建示例目录和文件
-os.makedirs('example_dir/subdir', exist_ok=True)
-with open('example_dir/file1.txt', 'w') as f:
-    f.write('Hello, World!')
-with open('example_dir/subdir/file2.txt', 'w') as f:
-    f.write('Python is awesome!')
+  查找可执行文件的路径，类似于 Unix 中的 `which` 命令。
 
-# 复制文件
-shutil.copy('example_dir/file1.txt', 'example_dir/copy_of_file1.txt')
+  ```python
+  import shutil
 
-# 复制整个目录
-shutil.copytree('example_dir', 'example_dir_backup')
+  path = shutil.which('python')
+  print(path)  # 输出python可执行文件的路径
+  ```
 
-# 移动文件
-shutil.move('example_dir/copy_of_file1.txt', 'example_dir/subdir/moved_file.txt')
+#### 7. 特殊文件操作
 
-# 删除目录
-shutil.rmtree('example_dir_backup')
+- **`shutil.chown(path, user=None, group=None)`**
 
-# 创建归档文件
-shutil.make_archive('example_archive', 'zip', 'example_dir')
+  更改文件或目录的所有者和组。
 
-# 解压归档文件
-shutil.unpack_archive('example_archive.zip', 'unpacked_example_dir')
+  ```python
+  import shutil
 
-# 获取磁盘使用情况
-total, used, free = shutil.disk_usage('/')
-print(f"Total: {total // (2**30)} GiB")
-print(f"Used: {used // (2**30)} GiB")
-print(f"Free: {free // (2**30)} GiB")
+  shutil.chown('example.txt', user='username', group='groupname')
+  ```
 
-# 清理示例目录和文件
-shutil.rmtree('example_dir')
-shutil.rmtree('unpacked_example_dir')
-os.remove('example_archive.zip')
-```
+#### 8. 文件系统空间操作
 
-### 结论
+- **`shutil.get_archive_formats()`**
 
-`shutil` 模块提供了一系列实用的文件和目录操作函数，极大地方便了文件的复制、移动、删除以及归档操作。这些函数在编写需要处理文件系统的脚本和程序时非常有用。
+  返回支持的归档格式列表。
+
+  ```python
+  import shutil
+
+  formats = shutil.get_archive_formats()
+  print(formats)
+  ```
+
+- **`shutil.register_archive_format(name, function, extra_args=None, description='')`**
+
+  注册新的归档格式。
+
+  ```python
+  import shutil
+
+  def my_archive_function(base_name, base_dir, **kwargs):
+      # 自定义归档逻辑
+      pass
+
+  shutil.register_archive_format('my_format', my_archive_function, description='My custom format')
+  ```
+
+- **`shutil.unregister_archive_format(name)`**
+
+  注销已注册的归档格式。
+
+  ```python
+  import shutil
+
+  shutil.unregister_archive_format('my_format')
+  ```
+
+通过以上这些函数，`shutil` 模块能够帮助我们更加方便、快捷地进行文件和目录的操作。
