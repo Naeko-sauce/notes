@@ -5,6 +5,10 @@
       "path": "程序/python笔记/python部分练习/python的gui编程.md"
     },
     {
+      "basename": "python练习",
+      "path": "总目录/python/python部分练习/python练习.md"
+    },
+    {
       "basename": "python画图",
       "path": "程序/python笔记/python部分练习/python画图.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "python文件练习",
       "path": "程序/python笔记/python部分练习/python文件练习.md"
-    },
-    {
-      "basename": "python练习",
-      "path": "总目录/python/python部分练习/python练习.md"
     },
     {
       "basename": "python中的shutil模块",
