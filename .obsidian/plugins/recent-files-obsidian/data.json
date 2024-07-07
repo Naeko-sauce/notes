@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "pythonGUI解释",
+      "path": "程序/python笔记/pythonGUI/pythonGUI解释.md"
+    },
+    {
+      "basename": "pythonGUI的一些组件",
+      "path": "程序/python笔记/pythonGUI/pythonGUI的一些组件.md"
+    },
+    {
+      "basename": "python中的os模块",
+      "path": "程序/python笔记/python文件/python中的os模块.md"
+    },
+    {
+      "basename": "pythongui窗口练习",
+      "path": "程序/python笔记/python部分练习/pythongui窗口练习.md"
+    },
+    {
+      "basename": "python练习",
+      "path": "总目录/python/python部分练习/python练习.md"
+    },
+    {
       "basename": "pythonGUI",
       "path": "总目录/python/pythonGUI/pythonGUI.md"
+    },
+    {
+      "basename": "python代码转Java",
+      "path": "总目录/python/python转Java/python代码转Java.md"
+    },
+    {
+      "basename": "python的gui编程",
+      "path": "程序/python笔记/python部分练习/python的gui编程.md"
+    },
+    {
+      "basename": "python画图",
+      "path": "程序/python笔记/python部分练习/python画图.md"
+    },
+    {
+      "basename": "python五子棋示例，转Java示例",
+      "path": "程序/python笔记/python代码转Java/python五子棋示例，转Java示例.md"
+    },
+    {
+      "basename": "pythongui转Java",
+      "path": "程序/python笔记/python代码转Java/pythongui转Java.md"
+    },
+    {
+      "basename": "python 中的call转为Java代码",
+      "path": "程序/python笔记/python代码转Java/python 中的call转为Java代码.md"
     },
     {
       "basename": "python",
@@ -13,28 +57,8 @@
       "path": "总目录/python/python字符串/python中的字符串.md"
     },
     {
-      "basename": "pythonGUI的一些组件",
-      "path": "程序/python笔记/pythonGUI/pythonGUI的一些组件.md"
-    },
-    {
-      "basename": "pythonGUI解释",
-      "path": "程序/python笔记/pythonGUI/pythonGUI解释.md"
-    },
-    {
       "basename": "根",
       "path": "总目录/根.md"
-    },
-    {
-      "basename": "python的gui编程",
-      "path": "程序/python笔记/python部分练习/python的gui编程.md"
-    },
-    {
-      "basename": "python练习",
-      "path": "总目录/python/python部分练习/python练习.md"
-    },
-    {
-      "basename": "python画图",
-      "path": "程序/python笔记/python部分练习/python画图.md"
     },
     {
       "basename": "8086cpu地址加法器",
@@ -97,10 +121,6 @@
       "path": "总目录/java/java.md"
     },
     {
-      "basename": "python中的os模块",
-      "path": "程序/python笔记/python文件/python中的os模块.md"
-    },
-    {
       "basename": "python中的csv模块",
       "path": "程序/python笔记/python文件/python中的csv模块.md"
     },
@@ -145,10 +165,6 @@
       "path": "总目录/python/python序列/python序列.md"
     },
     {
-      "basename": "python代码转Java",
-      "path": "总目录/python/python转Java/python代码转Java.md"
-    },
-    {
       "basename": "git-github",
       "path": "总目录/git-github/git-github.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "archlinux使用代理无法访问git去除代理方法",
       "path": "程序/Linux笔记/archlinux使用代理无法访问git去除代理方法.md"
-    },
-    {
-      "basename": "archlinux中vscod无法访问模块",
-      "path": "程序/Linux笔记/archlinux中vscod无法访问模块.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "程序/java/笔记.md"
-    },
-    {
-      "basename": "python异常总汇",
-      "path": "程序/python笔记/python异常/python异常总汇.md"
-    },
-    {
-      "basename": "git如果一直提示需要输入密钥的原因",
-      "path": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
     }
   ],
   "omittedPaths": [],

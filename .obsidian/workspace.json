@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总目录/python/pythonGUI/pythonGUI.md",
+                "file": "程序/python笔记/pythonGUI/pythonGUI解释.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "join",
+                "query": "command",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总目录/python/pythonGUI/pythonGUI.md",
+                "file": "程序/python笔记/pythonGUI/pythonGUI解释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总目录/python/pythonGUI/pythonGUI.md",
+                "file": "程序/python笔记/pythonGUI/pythonGUI解释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总目录/python/pythonGUI/pythonGUI.md"
+                "file": "程序/python笔记/pythonGUI/pythonGUI解释.md"
               }
             }
           },
@@ -202,17 +202,23 @@
   },
   "active": "fb007f1a1612fc51",
   "lastOpenFiles": [
+    "程序/python笔记/pythonGUI/pythonGUI的一些组件.md",
+    "程序/python笔记/python文件/python中的os模块.md",
+    "程序/python笔记/python部分练习/pythongui窗口练习.md",
+    "总目录/python/python部分练习/python练习.md",
+    "总目录/python/pythonGUI/pythonGUI.md",
+    "总目录/python/python转Java/python代码转Java.md",
+    "程序/python笔记/python部分练习/python的gui编程.md",
+    "程序/python笔记/python部分练习/python画图.md",
+    "程序/python笔记/python代码转Java/python五子棋示例，转Java示例.md",
+    "程序/python笔记/python代码转Java/pythongui转Java.md",
+    "程序/python笔记/python代码转Java/python 中的call转为Java代码.md",
     "总目录/python/python.md",
     "总目录/python/python字符串/python中的字符串.md",
-    "程序/python笔记/pythonGUI/pythonGUI的一些组件.md",
     "程序/python笔记/pythonGUI/pythonGUI解释.md",
     "总目录/根.md",
-    "总目录/python/pythonGUI/pythonGUI.md",
     "总目录/python/pythonGUI",
-    "程序/python笔记/python部分练习/python的gui编程.md",
     "程序/python笔记/pythonGUI",
-    "总目录/python/python部分练习/python练习.md",
-    "程序/python笔记/python部分练习/python画图.md",
     "程序/汇编/8086cpu地址加法器.md",
     "程序/c/c语言中的%和&.md",
     "程序/python笔记/python文件/python中的os.walk.md",
@@ -224,12 +230,6 @@
     "程序/python笔记/python部分练习/python运算符重载.md",
     "程序/python笔记/python部分练习/python文件练习.md",
     "程序/python笔记/python文件/python中的shutil模块.md",
-    "程序/python笔记/字符串/成员操作符.md",
-    "程序/python笔记/python文件/python中os.path模块方法.md",
-    "程序/python笔记/python文件/python中os模块的大部分方法.md",
-    "总目录/java/java.md",
-    "程序/python笔记/python文件/python中的os模块.md",
-    "程序/python笔记/python文件/python中的csv模块.md",
     "总目录/python/python文件",
     "程序/python笔记/python文件",
     "总目录/python/python异常",
