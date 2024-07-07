@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "pythonGUI",
+      "path": "总目录/python/pythonGUI/pythonGUI.md"
+    },
+    {
+      "basename": "python",
+      "path": "总目录/python/python.md"
+    },
+    {
+      "basename": "python中的字符串",
+      "path": "总目录/python/python字符串/python中的字符串.md"
+    },
+    {
+      "basename": "pythonGUI的一些组件",
+      "path": "程序/python笔记/pythonGUI/pythonGUI的一些组件.md"
+    },
+    {
+      "basename": "pythonGUI解释",
+      "path": "程序/python笔记/pythonGUI/pythonGUI解释.md"
+    },
+    {
+      "basename": "根",
+      "path": "总目录/根.md"
+    },
+    {
       "basename": "python的gui编程",
       "path": "程序/python笔记/python部分练习/python的gui编程.md"
     },
@@ -31,10 +55,6 @@
     {
       "basename": "python杂项",
       "path": "总目录/杂项笔记/python杂项/python杂项.md"
-    },
-    {
-      "basename": "python",
-      "path": "总目录/python/python.md"
     },
     {
       "basename": "python模块化编程流程",
@@ -83,10 +103,6 @@
     {
       "basename": "python中的csv模块",
       "path": "程序/python笔记/python文件/python中的csv模块.md"
-    },
-    {
-      "basename": "python中的字符串",
-      "path": "总目录/python/python字符串/python中的字符串.md"
     },
     {
       "basename": "python循环",
@@ -183,22 +199,6 @@
     {
       "basename": "git如果一直提示需要输入密钥的原因",
       "path": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
-    },
-    {
-      "basename": "git命令",
-      "path": "程序/git-github/git命令.md"
-    },
-    {
-      "basename": "github添加ssh密钥给git",
-      "path": "程序/git-github/github添加ssh密钥给git.md"
-    },
-    {
-      "basename": "杂项笔记",
-      "path": "总目录/杂项笔记/杂项笔记.md"
-    },
-    {
-      "basename": "vim",
-      "path": "总目录/vim/vim.md"
     }
   ],
   "omittedPaths": [],
