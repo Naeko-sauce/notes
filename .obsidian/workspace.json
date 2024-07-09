@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/pythonGUI/pythonGUI中的label.md",
+                "file": "程序/python笔记/python函数/python函数定义.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/pythonGUI/pythonGUI中的label.md",
+                "file": "程序/python笔记/python函数/python函数定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/pythonGUI/pythonGUI中的label.md",
+                "file": "程序/python笔记/python函数/python函数定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/pythonGUI/pythonGUI中的label.md"
+                "file": "程序/python笔记/python函数/python函数定义.md"
               }
             }
           },
@@ -214,18 +214,22 @@
   },
   "active": "fb007f1a1612fc51",
   "lastOpenFiles": [
+    "总目录/python/python函数/python函数.md",
+    "总目录/python/python.md",
+    "总目录/python/python字符串/python中的字符串.md",
+    "程序/vue/vuex项目xm笔记/npm和pnpm.md",
+    "程序/vue/vuex项目xm笔记/nvm，node版本控制工具.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md",
-    "Pasted Image 20240107125827_699.png.md",
-    "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg",
-    "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/python笔记/pythonGUI/pythonGUI中的label.md",
+    "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
+    "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg",
     "程序/vue/vuex项目xm笔记/vue扫雷项目",
+    "Pasted Image 20240107125827_699.png.md",
     "程序/python笔记/python部分练习/python的gui编程.md",
     "程序/python笔记/python部分练习/文件写入练习.md",
     "程序/python笔记/python部分练习/python文件练习.md",
     "程序/python笔记/python部分练习/python画图.md",
     "程序/python笔记/python函数/python中的匿名函数lambda.md",
-    "总目录/python/python函数/python函数.md",
     "程序/python笔记/python代码转Java/python 中的call转为Java代码.md",
     "总目录/python/pythonGUI/pythonGUI.md",
     "程序/python笔记/pythonGUI/pythonGUI中的button.md",
@@ -239,12 +243,8 @@
     "总目录/python/python转Java/python代码转Java.md",
     "程序/python笔记/python代码转Java/python五子棋示例，转Java示例.md",
     "程序/python笔记/python代码转Java/pythongui转Java.md",
-    "总目录/python/python.md",
-    "总目录/python/python字符串/python中的字符串.md",
-    "总目录/根.md",
     "总目录/python/pythonGUI",
     "程序/python笔记/pythonGUI",
-    "程序/汇编/8086cpu地址加法器.md",
     "总目录/python/python文件",
     "程序/python笔记/python文件",
     "总目录/python/python异常",

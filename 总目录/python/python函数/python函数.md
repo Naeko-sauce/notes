@@ -1,5 +1,5 @@
 [[python各种参数]]
-[[python函数的定义]]
+[[python函数定义]]
 [[python函数的分类]]
 [[python函数的特点和不同]]
 [[python浅拷贝和深拷贝]]
