@@ -5,6 +5,10 @@
       "path": "程序/python笔记/pythonGUI/pythonGUI中的label.md"
     },
     {
+      "basename": "Pasted Image 20240107125827_699.png",
+      "path": "Pasted Image 20240107125827_699.png.md"
+    },
+    {
       "basename": "python的gui编程",
       "path": "程序/python笔记/python部分练习/python的gui编程.md"
     },
@@ -187,18 +191,6 @@
     {
       "basename": "python序列",
       "path": "总目录/python/python序列/python序列.md"
-    },
-    {
-      "basename": "git-github",
-      "path": "总目录/git-github/git-github.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "总目录/Linux/Linux.md"
-    },
-    {
-      "basename": "kali",
-      "path": "总目录/Linux/kali/kali.md"
     }
   ],
   "omittedPaths": [],
