@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组.md",
+                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组.md",
+                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组.md",
+                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组.md"
+                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md"
               }
             }
           },
@@ -214,9 +214,10 @@
   },
   "active": "fb007f1a1612fc51",
   "lastOpenFiles": [
-    "总目录/vue/vue项目/vue项目.md",
-    "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组.md",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md",
+    "总目录/vue/vue项目/vue项目.md",
     "总目录/vue/vue项目/未命名.md",
     "程序/vue/vuex项目xm笔记/npm和pnpm.md",
     "总目录/python/python函数/python函数.md",
@@ -242,7 +243,6 @@
     "总目录/杂项笔记/three杂项/three杂项.md",
     "程序/python笔记/pythonGUI/pythonGUI解释.md",
     "程序/python笔记/pythonGUI/pythonGUI的一些组件.md",
-    "程序/python笔记/python文件/python中的os模块.md",
     "总目录/python/pythonGUI",
     "程序/python笔记/pythonGUI",
     "总目录/python/python文件",
