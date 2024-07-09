@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "pythonGUI中的label",
+      "path": "程序/python笔记/pythonGUI/pythonGUI中的label.md"
+    },
+    {
+      "basename": "python的gui编程",
+      "path": "程序/python笔记/python部分练习/python的gui编程.md"
+    },
+    {
+      "basename": "文件写入练习",
+      "path": "程序/python笔记/python部分练习/文件写入练习.md"
+    },
+    {
+      "basename": "python文件练习",
+      "path": "程序/python笔记/python部分练习/python文件练习.md"
+    },
+    {
+      "basename": "python画图",
+      "path": "程序/python笔记/python部分练习/python画图.md"
+    },
+    {
+      "basename": "python中的匿名函数lambda",
+      "path": "程序/python笔记/python函数/python中的匿名函数lambda.md"
+    },
+    {
+      "basename": "python函数",
+      "path": "总目录/python/python函数/python函数.md"
+    },
+    {
+      "basename": "python 中的call转为Java代码",
+      "path": "程序/python笔记/python代码转Java/python 中的call转为Java代码.md"
+    },
+    {
+      "basename": "pythonGUI",
+      "path": "总目录/python/pythonGUI/pythonGUI.md"
+    },
+    {
+      "basename": "pythonGUI中的button",
+      "path": "程序/python笔记/pythonGUI/pythonGUI中的button.md"
+    },
+    {
+      "basename": "python异常",
+      "path": "总目录/python/python异常/python异常.md"
+    },
+    {
+      "basename": "three杂项",
+      "path": "总目录/杂项笔记/three杂项/three杂项.md"
+    },
+    {
       "basename": "pythonGUI解释",
       "path": "程序/python笔记/pythonGUI/pythonGUI解释.md"
     },
@@ -21,20 +69,8 @@
       "path": "总目录/python/python部分练习/python练习.md"
     },
     {
-      "basename": "pythonGUI",
-      "path": "总目录/python/pythonGUI/pythonGUI.md"
-    },
-    {
       "basename": "python代码转Java",
       "path": "总目录/python/python转Java/python代码转Java.md"
-    },
-    {
-      "basename": "python的gui编程",
-      "path": "程序/python笔记/python部分练习/python的gui编程.md"
-    },
-    {
-      "basename": "python画图",
-      "path": "程序/python笔记/python部分练习/python画图.md"
     },
     {
       "basename": "python五子棋示例，转Java示例",
@@ -43,10 +79,6 @@
     {
       "basename": "pythongui转Java",
       "path": "程序/python笔记/python代码转Java/pythongui转Java.md"
-    },
-    {
-      "basename": "python 中的call转为Java代码",
-      "path": "程序/python笔记/python代码转Java/python 中的call转为Java代码.md"
     },
     {
       "basename": "python",
@@ -97,10 +129,6 @@
       "path": "程序/python笔记/python部分练习/python运算符重载.md"
     },
     {
-      "basename": "python文件练习",
-      "path": "程序/python笔记/python部分练习/python文件练习.md"
-    },
-    {
       "basename": "python中的shutil模块",
       "path": "程序/python笔记/python文件/python中的shutil模块.md"
     },
@@ -137,10 +165,6 @@
       "path": "程序/python笔记/python文件/python文件读取的方法.md"
     },
     {
-      "basename": "文件写入练习",
-      "path": "程序/python笔记/python部分练习/文件写入练习.md"
-    },
-    {
       "basename": "python文件的操作",
       "path": "程序/python笔记/python文件/python文件的操作.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "kali",
       "path": "总目录/Linux/kali/kali.md"
-    },
-    {
-      "basename": "traceback 模块生成异常和日志",
-      "path": "程序/python笔记/python异常/traceback 模块生成异常和日志.md"
-    },
-    {
-      "basename": "python异常机制",
-      "path": "程序/python笔记/python异常/python异常机制.md"
-    },
-    {
-      "basename": "FileInputStream的方法",
-      "path": "程序/java/java-IO流/FileInputStream的方法.md"
-    },
-    {
-      "basename": "python异常",
-      "path": "总目录/python/python异常/python异常.md"
-    },
-    {
-      "basename": "archlinux在vm虚拟机中使用主机共享文件夹",
-      "path": "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md"
-    },
-    {
-      "basename": "archlinux使用代理无法访问git去除代理方法",
-      "path": "程序/Linux笔记/archlinux使用代理无法访问git去除代理方法.md"
     }
   ],
   "omittedPaths": [],
