@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "第一部分写出扫雷的格子",
-      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md"
+      "basename": "python函数",
+      "path": "总目录/python/python函数/python函数.md"
+    },
+    {
+      "basename": "python",
+      "path": "总目录/python/python.md"
+    },
+    {
+      "basename": "python中的字符串",
+      "path": "总目录/python/python字符串/python中的字符串.md"
     },
     {
       "basename": "npm和pnpm",
       "path": "程序/vue/vuex项目xm笔记/npm和pnpm.md"
+    },
+    {
+      "basename": "nvm，node版本控制工具",
+      "path": "程序/vue/vuex项目xm笔记/nvm，node版本控制工具.md"
     },
     {
       "basename": "pythonGUI中的label",
@@ -35,10 +47,6 @@
     {
       "basename": "python中的匿名函数lambda",
       "path": "程序/python笔记/python函数/python中的匿名函数lambda.md"
-    },
-    {
-      "basename": "python函数",
-      "path": "总目录/python/python函数/python函数.md"
     },
     {
       "basename": "python 中的call转为Java代码",
@@ -91,14 +99,6 @@
     {
       "basename": "pythongui转Java",
       "path": "程序/python笔记/python代码转Java/pythongui转Java.md"
-    },
-    {
-      "basename": "python",
-      "path": "总目录/python/python.md"
-    },
-    {
-      "basename": "python中的字符串",
-      "path": "总目录/python/python字符串/python中的字符串.md"
     },
     {
       "basename": "根",
@@ -195,10 +195,6 @@
     {
       "basename": "文本文件和二进制文件",
       "path": "程序/python笔记/python文件/文本文件和二进制文件.md"
-    },
-    {
-      "basename": "python序列",
-      "path": "总目录/python/python序列/python序列.md"
     }
   ],
   "omittedPaths": [],
