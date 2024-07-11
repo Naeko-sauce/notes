@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d482818ead96286d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程序/python笔记/python文件/python中的os模块.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb007f1a1612fc51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总目录/python/python函数/python函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9cf7aaf985054d17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasted Image 20240107125827_699.png.md",
+                "file": "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总目录/python/python函数/python函数.md",
+                "file": "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总目录/python/python函数/python函数.md",
+                "file": "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总目录/python/python函数/python函数.md"
+                "file": "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md"
               }
             }
           },
@@ -212,21 +187,28 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fb007f1a1612fc51",
+  "active": "9cf7aaf985054d17",
   "lastOpenFiles": [
-    "程序/python笔记/python函数/python函数的定义.md",
+    "程序/vue/vuex项目xm笔记/vite目录介绍.md",
+    "程序/vue/vuex项目xm笔记/npm和pnpm.md",
+    "Pasted Image 20240107125827_699.png.md",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md",
+    "程序/python笔记/python文件/python中的os模块.md",
     "程序/python笔记/python函数/python函数定义.md",
+    "总目录/vue/vue项目/vue项目.md",
+    "总目录/vue/vue项目/未命名.md",
     "总目录/python/python函数/python函数.md",
+    "程序/python笔记/python函数/python函数的定义.md",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg",
-    "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目",
     "总目录/python/python.md",
     "总目录/python/python字符串/python中的字符串.md",
-    "程序/vue/vuex项目xm笔记/npm和pnpm.md",
     "程序/vue/vuex项目xm笔记/nvm，node版本控制工具.md",
     "程序/python笔记/pythonGUI/pythonGUI中的label.md",
-    "Pasted Image 20240107125827_699.png.md",
     "程序/python笔记/python部分练习/python的gui编程.md",
     "程序/python笔记/python部分练习/文件写入练习.md",
     "程序/python笔记/python部分练习/python文件练习.md",
@@ -236,13 +218,6 @@
     "总目录/python/pythonGUI/pythonGUI.md",
     "程序/python笔记/pythonGUI/pythonGUI中的button.md",
     "总目录/python/python异常/python异常.md",
-    "总目录/杂项笔记/three杂项/three杂项.md",
-    "程序/python笔记/pythonGUI/pythonGUI解释.md",
-    "程序/python笔记/pythonGUI/pythonGUI的一些组件.md",
-    "程序/python笔记/python文件/python中的os模块.md",
-    "程序/python笔记/python部分练习/pythongui窗口练习.md",
-    "总目录/python/python部分练习/python练习.md",
-    "总目录/python/python转Java/python代码转Java.md",
     "总目录/python/pythonGUI",
     "程序/python笔记/pythonGUI",
     "总目录/python/python文件",

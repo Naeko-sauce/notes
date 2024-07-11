@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "vue构建项目和vue+vite构建项目的不同",
+      "path": "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md"
+    },
+    {
+      "basename": "vite目录介绍",
+      "path": "程序/vue/vuex项目xm笔记/vite目录介绍.md"
+    },
+    {
+      "basename": "npm和pnpm",
+      "path": "程序/vue/vuex项目xm笔记/npm和pnpm.md"
+    },
+    {
+      "basename": "python中的os模块",
+      "path": "程序/python笔记/python文件/python中的os模块.md"
+    },
+    {
+      "basename": "vue项目",
+      "path": "总目录/vue/vue项目/vue项目.md"
+    },
+    {
       "basename": "python函数",
       "path": "总目录/python/python函数/python函数.md"
     },
@@ -13,20 +33,12 @@
       "path": "总目录/python/python字符串/python中的字符串.md"
     },
     {
-      "basename": "npm和pnpm",
-      "path": "程序/vue/vuex项目xm笔记/npm和pnpm.md"
-    },
-    {
       "basename": "nvm，node版本控制工具",
       "path": "程序/vue/vuex项目xm笔记/nvm，node版本控制工具.md"
     },
     {
       "basename": "pythonGUI中的label",
       "path": "程序/python笔记/pythonGUI/pythonGUI中的label.md"
-    },
-    {
-      "basename": "Pasted Image 20240107125827_699.png",
-      "path": "Pasted Image 20240107125827_699.png.md"
     },
     {
       "basename": "python的gui编程",
@@ -75,10 +87,6 @@
     {
       "basename": "pythonGUI的一些组件",
       "path": "程序/python笔记/pythonGUI/pythonGUI的一些组件.md"
-    },
-    {
-      "basename": "python中的os模块",
-      "path": "程序/python笔记/python文件/python中的os模块.md"
     },
     {
       "basename": "pythongui窗口练习",
@@ -179,22 +187,6 @@
     {
       "basename": "python文件的操作",
       "path": "程序/python笔记/python文件/python文件的操作.md"
-    },
-    {
-      "basename": "python文件处理with",
-      "path": "程序/python笔记/python异常/python文件处理with.md"
-    },
-    {
-      "basename": "python中的close",
-      "path": "程序/python笔记/python文件/python中的close.md"
-    },
-    {
-      "basename": "python文件操作模块",
-      "path": "程序/python笔记/python文件/python文件操作模块.md"
-    },
-    {
-      "basename": "文本文件和二进制文件",
-      "path": "程序/python笔记/python文件/文本文件和二进制文件.md"
     }
   ],
   "omittedPaths": [],
