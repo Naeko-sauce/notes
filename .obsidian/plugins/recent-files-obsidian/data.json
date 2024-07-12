@@ -9,20 +9,32 @@
       "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md"
     },
     {
-      "basename": "第二部分创建二维数组注释代码",
-      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md"
-    },
-    {
       "basename": "第一部分写出扫雷的格子",
       "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md"
     },
     {
-      "basename": "vue项目",
-      "path": "总目录/vue/vue项目/vue项目.md"
+      "basename": "第二部分创建二维数组注释代码",
+      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md"
+    },
+    {
+      "basename": "vue构建项目和vue+vite构建项目的不同",
+      "path": "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md"
+    },
+    {
+      "basename": "vite目录介绍",
+      "path": "程序/vue/vuex项目xm笔记/vite目录介绍.md"
     },
     {
       "basename": "npm和pnpm",
       "path": "程序/vue/vuex项目xm笔记/npm和pnpm.md"
+    },
+    {
+      "basename": "python中的os模块",
+      "path": "程序/python笔记/python文件/python中的os模块.md"
+    },
+    {
+      "basename": "vue项目",
+      "path": "总目录/vue/vue项目/vue项目.md"
     },
     {
       "basename": "python函数",
@@ -43,10 +55,6 @@
     {
       "basename": "pythonGUI中的label",
       "path": "程序/python笔记/pythonGUI/pythonGUI中的label.md"
-    },
-    {
-      "basename": "Pasted Image 20240107125827_699.png",
-      "path": "Pasted Image 20240107125827_699.png.md"
     },
     {
       "basename": "python的gui编程",
@@ -95,10 +103,6 @@
     {
       "basename": "pythonGUI的一些组件",
       "path": "程序/python笔记/pythonGUI/pythonGUI的一些组件.md"
-    },
-    {
-      "basename": "python中的os模块",
-      "path": "程序/python笔记/python文件/python中的os模块.md"
     },
     {
       "basename": "pythongui窗口练习",
@@ -195,10 +199,6 @@
     {
       "basename": "python文件读取的方法",
       "path": "程序/python笔记/python文件/python文件读取的方法.md"
-    },
-    {
-      "basename": "python文件的操作",
-      "path": "程序/python笔记/python文件/python文件的操作.md"
     }
   ],
   "omittedPaths": [],
