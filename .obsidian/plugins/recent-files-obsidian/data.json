@@ -1,24 +1,22 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> python
-      "basename": "8080cpu",
-      "path": "程序/汇编/8080cpu.md"
+      "basename": "vue项目",
+      "path": "总目录/vue/vue项目/vue项目.md"
     },
     {
-      "basename": "vue构建项目和vue+vite构建项目的不同",
-      "path": "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md"
-    },
-    {
-<<<<<<< HEAD
-=======
       "basename": "vue原始代码和重构代码对比",
       "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/vue原始代码和重构代码对比.md"
     },
     {
+      "basename": "第一部分写出扫雷的格子",
+      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md"
+    },
+    {
+      "basename": "第四部分把二维数组动态添加到HTML中",
+      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md"
+    },
+    {
       "basename": "8080cpu",
       "path": "程序/汇编/8080cpu.md"
     },
@@ -27,9 +25,6 @@
       "path": "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md"
     },
     {
->>>>>>> vue
-=======
->>>>>>> python
       "basename": "vite目录介绍",
       "path": "程序/vue/vuex项目xm笔记/vite目录介绍.md"
     },
@@ -40,10 +35,6 @@
     {
       "basename": "python中的os模块",
       "path": "程序/python笔记/python文件/python中的os模块.md"
-    },
-    {
-      "basename": "vue项目",
-      "path": "总目录/vue/vue项目/vue项目.md"
     },
     {
       "basename": "python函数",
