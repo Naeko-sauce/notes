@@ -179,6 +179,7 @@
       "obsidian-memos:Memos": false
     }
   },
+<<<<<<< HEAD
   "active": "9cf7aaf985054d17",
   "lastOpenFiles": [
     "程序/vue/vuex项目xm笔记/vue扫雷项目/vue原始代码和重构代码对比.md",
@@ -187,13 +188,27 @@
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg",
     "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md",
+=======
+  "active": "da63714648023070",
+  "lastOpenFiles": [
+    "程序/汇编/8080cpu.md",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md",
+    "程序/python笔记/python函数/python函数定义.md",
+>>>>>>> python
     "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md",
+    "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md",
+    "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
+    "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/vue/vuex项目xm笔记/vue扫雷项目",
     "程序/python笔记/python函数/python函数的定义.md",
     "Pasted Image 20240107125827_699.png.md",
+<<<<<<< HEAD
     "程序/汇编/8080cpu.md",
     "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
+=======
+>>>>>>> python
     "程序/vue/vuex项目xm笔记/vite目录介绍.md",
     "程序/vue/vuex项目xm笔记/npm和pnpm.md",
     "程序/python笔记/python文件/python中的os模块.md",
@@ -210,6 +225,10 @@
     "程序/python笔记/python部分练习/python画图.md",
     "程序/python笔记/python函数/python中的匿名函数lambda.md",
     "程序/python笔记/python代码转Java/python 中的call转为Java代码.md",
+<<<<<<< HEAD
+=======
+    "总目录/python/pythonGUI/pythonGUI.md",
+>>>>>>> python
     "总目录/python/pythonGUI",
     "程序/python笔记/pythonGUI",
     "总目录/python/python文件",

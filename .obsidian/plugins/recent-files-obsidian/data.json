@@ -2,6 +2,9 @@
   "recentFiles": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> python
       "basename": "8080cpu",
       "path": "程序/汇编/8080cpu.md"
     },
@@ -10,6 +13,7 @@
       "path": "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md"
     },
     {
+<<<<<<< HEAD
 =======
       "basename": "vue原始代码和重构代码对比",
       "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/vue原始代码和重构代码对比.md"
@@ -24,6 +28,8 @@
     },
     {
 >>>>>>> vue
+=======
+>>>>>>> python
       "basename": "vite目录介绍",
       "path": "程序/vue/vuex项目xm笔记/vite目录介绍.md"
     },
