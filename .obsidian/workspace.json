@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/pythonGUI/pythonGUI中的button.md",
+                "file": "程序/git-github/git如何新建分支并提交.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:程序 **",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/python笔记/pythonGUI/pythonGUI中的button.md",
+                "file": "程序/git-github/git如何新建分支并提交.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/python笔记/pythonGUI/pythonGUI中的button.md",
+                "file": "程序/git-github/git如何新建分支并提交.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/python笔记/pythonGUI/pythonGUI中的button.md"
+                "file": "程序/git-github/git如何新建分支并提交.md"
               }
             }
           },
@@ -206,6 +206,10 @@
   },
   "active": "fe43322c9893545f",
   "lastOpenFiles": [
+    "程序/git-github/git命令.md",
+    "程序/git-github/git如何新建分支并提交.md",
+    "程序/杂项笔记/python杂项/python时间模块的一些用法.md",
+    "程序/python笔记/pythonGUI/pythonGUI中的button.md",
     "程序/c/c 声明变量.md",
     "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md",
     "程序/魔法/v2一些协议配置的详细解释.md",
@@ -231,10 +235,6 @@
     "总目录/vue/vue项目/未命名.md",
     "总目录/python/python函数/python函数.md",
     "总目录/python/python.md",
-    "总目录/python/python字符串/python中的字符串.md",
-    "程序/vue/vuex项目xm笔记/nvm，node版本控制工具.md",
-    "程序/python笔记/pythonGUI/pythonGUI中的label.md",
-    "程序/python笔记/python部分练习/python的gui编程.md",
     "总目录/python/pythonGUI",
     "程序/python笔记/pythonGUI",
     "总目录/python/python文件",

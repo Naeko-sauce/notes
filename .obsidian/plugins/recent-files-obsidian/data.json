@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "git如何新建分支并提交",
+      "path": "程序/git-github/git如何新建分支并提交.md"
+    },
+    {
+      "basename": "git命令",
+      "path": "程序/git-github/git命令.md"
+    },
+    {
+      "basename": "python时间模块的一些用法",
+      "path": "程序/杂项笔记/python杂项/python时间模块的一些用法.md"
+    },
+    {
       "basename": "pythonGUI中的button",
       "path": "程序/python笔记/pythonGUI/pythonGUI中的button.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "python中的shutil模块",
       "path": "程序/python笔记/python文件/python中的shutil模块.md"
-    },
-    {
-      "basename": "成员操作符",
-      "path": "程序/python笔记/字符串/成员操作符.md"
-    },
-    {
-      "basename": "python中os.path模块方法",
-      "path": "程序/python笔记/python文件/python中os.path模块方法.md"
-    },
-    {
-      "basename": "python中os模块的大部分方法",
-      "path": "程序/python笔记/python文件/python中os模块的大部分方法.md"
     }
   ],
   "omittedPaths": [],
