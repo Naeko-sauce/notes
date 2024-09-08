@@ -1,6 +1,13 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
+=======
+      "basename": "git如何新建分支并提交",
+      "path": "程序/git-github/git如何新建分支并提交.md"
+    },
+    {
+>>>>>>> git
       "basename": "github添加ssh密钥给git",
       "path": "程序/git-github/github添加ssh密钥给git.md"
     },
