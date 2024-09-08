@@ -5,6 +5,10 @@
       "path": "程序/git-github/git如何新建分支并提交.md"
     },
     {
+      "basename": "github添加ssh密钥给git",
+      "path": "程序/git-github/github添加ssh密钥给git.md"
+    },
+    {
       "basename": "git命令",
       "path": "程序/git-github/git命令.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "python运算符重载",
       "path": "程序/python笔记/python部分练习/python运算符重载.md"
-    },
-    {
-      "basename": "python中的shutil模块",
-      "path": "程序/python笔记/python文件/python中的shutil模块.md"
     }
   ],
   "omittedPaths": [],
