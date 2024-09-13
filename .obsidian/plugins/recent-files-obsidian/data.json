@@ -1,6 +1,13 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
+=======
+      "basename": "python字典推导式",
+      "path": "程序/python笔记/python循环/python字典推导式.md"
+    },
+    {
+>>>>>>> python
       "basename": "并行，并发，串行的区别",
       "path": "程序/python笔记/python线程/并行，并发，串行的区别.md"
     },
