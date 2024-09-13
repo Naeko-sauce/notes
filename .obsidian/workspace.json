@@ -27,8 +27,12 @@
             "id": "fe43322c9893545f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程序/python笔记/python循环/python字典推导式.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -123,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程序/python笔记/python循环/python字典推导式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程序/python笔记/python循环/python字典推导式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程序/python笔记/python循环/python字典推导式.md"
+              }
             }
           },
           {
