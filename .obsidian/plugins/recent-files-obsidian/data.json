@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "vim的所有命令",
+      "path": "程序/vim/vim的所有命令.md"
+    },
+    {
+      "basename": "vim的三种编辑模式",
+      "path": "程序/vim/vim的三种编辑模式.md"
+    },
+    {
+      "basename": "arch配置neovim的全局",
+      "path": "程序/vim/arch配置neovim的全局.md"
+    },
+    {
       "basename": "vim基础",
       "path": "程序/vim/vim基础.md"
     },
@@ -11,18 +23,6 @@
     {
       "basename": "python",
       "path": "总目录/python/python.md"
-    },
-    {
-      "basename": "python线程",
-      "path": "总目录/python/python线程/python线程.md"
-    },
-    {
-      "basename": "并行，并发，串行的区别",
-      "path": "程序/python笔记/python线程/并行，并发，串行的区别.md"
-    },
-    {
-      "basename": "git如何新建分支并提交",
-      "path": "程序/git-github/git如何新建分支并提交.md"
     },
     {
       "basename": "git如果一直提示需要输入密钥的原因",
@@ -59,18 +59,6 @@
     {
       "basename": "vue项目",
       "path": "总目录/vue/vue项目/vue项目.md"
-    },
-    {
-      "basename": "vue原始代码和重构代码对比",
-      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/vue原始代码和重构代码对比.md"
-    },
-    {
-      "basename": "第一部分写出扫雷的格子",
-      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md"
-    },
-    {
-      "basename": "第四部分把二维数组动态添加到HTML中",
-      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md"
     },
     {
       "basename": "8080cpu",
@@ -187,18 +175,6 @@
     {
       "basename": "python中的os.walk",
       "path": "程序/python笔记/python文件/python中的os.walk.md"
-    },
-    {
-      "basename": "python文件",
-      "path": "总目录/python/python文件/python文件.md"
-    },
-    {
-      "basename": "python杂项",
-      "path": "总目录/杂项笔记/python杂项/python杂项.md"
-    },
-    {
-      "basename": "python模块化编程流程",
-      "path": "程序/杂项笔记/python杂项/python模块化编程流程.md"
     }
   ],
   "omittedPaths": [],
