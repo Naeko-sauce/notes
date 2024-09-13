@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "vim的所有命令",
+      "path": "程序/vim/vim的所有命令.md"
+    },
+    {
+      "basename": "vim的三种编辑模式",
+      "path": "程序/vim/vim的三种编辑模式.md"
+    },
+    {
+      "basename": "arch配置neovim的全局",
+      "path": "程序/vim/arch配置neovim的全局.md"
+    },
+    {
+      "basename": "vim基础",
+      "path": "程序/vim/vim基础.md"
+    },
+    {
+      "basename": "vim",
+      "path": "总目录/vim/vim.md"
+    },
+    {
+      "basename": "python",
+      "path": "总目录/python/python.md"
+    },
+    {
+      "basename": "git如果一直提示需要输入密钥的原因",
+      "path": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
+    },
+    {
+      "basename": "git命令",
+      "path": "程序/git-github/git命令.md"
+    },
+    {
+      "basename": "pythonGUI中的button",
+      "path": "程序/python笔记/pythonGUI/pythonGUI中的button.md"
+    },
+    {
+      "basename": "c 声明变量",
+      "path": "程序/c/c 声明变量.md"
+    },
+    {
+      "basename": "网络通信的基本流程",
+      "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
+    },
+    {
+      "basename": "v2一些协议配置的详细解释",
+      "path": "程序/魔法/v2一些协议配置的详细解释.md"
+    },
+    {
+      "basename": "v2的协议和节点",
+      "path": "程序/魔法/v2的协议和节点.md"
+    },
+    {
+      "basename": "hysteria2",
+      "path": "程序/魔法/hysteria2.md"
+    },
+    {
+      "basename": "vue项目",
+      "path": "总目录/vue/vue项目/vue项目.md"
+    },
+    {
       "basename": "8080cpu",
       "path": "程序/汇编/8080cpu.md"
     },
@@ -21,16 +81,8 @@
       "path": "程序/python笔记/python文件/python中的os模块.md"
     },
     {
-      "basename": "vue项目",
-      "path": "总目录/vue/vue项目/vue项目.md"
-    },
-    {
       "basename": "python函数",
       "path": "总目录/python/python函数/python函数.md"
-    },
-    {
-      "basename": "python",
-      "path": "总目录/python/python.md"
     },
     {
       "basename": "python中的字符串",
@@ -71,10 +123,6 @@
     {
       "basename": "pythonGUI",
       "path": "总目录/python/pythonGUI/pythonGUI.md"
-    },
-    {
-      "basename": "pythonGUI中的button",
-      "path": "程序/python笔记/pythonGUI/pythonGUI中的button.md"
     },
     {
       "basename": "python异常",
@@ -127,66 +175,6 @@
     {
       "basename": "python中的os.walk",
       "path": "程序/python笔记/python文件/python中的os.walk.md"
-    },
-    {
-      "basename": "python文件",
-      "path": "总目录/python/python文件/python文件.md"
-    },
-    {
-      "basename": "python杂项",
-      "path": "总目录/杂项笔记/python杂项/python杂项.md"
-    },
-    {
-      "basename": "python模块化编程流程",
-      "path": "程序/杂项笔记/python杂项/python模块化编程流程.md"
-    },
-    {
-      "basename": "python字符串常用方法",
-      "path": "程序/python笔记/字符串/python字符串常用方法.md"
-    },
-    {
-      "basename": "python中的walk",
-      "path": "程序/python笔记/python部分练习/python中的walk.md"
-    },
-    {
-      "basename": "python运算符重载",
-      "path": "程序/python笔记/python部分练习/python运算符重载.md"
-    },
-    {
-      "basename": "python中的shutil模块",
-      "path": "程序/python笔记/python文件/python中的shutil模块.md"
-    },
-    {
-      "basename": "成员操作符",
-      "path": "程序/python笔记/字符串/成员操作符.md"
-    },
-    {
-      "basename": "python中os.path模块方法",
-      "path": "程序/python笔记/python文件/python中os.path模块方法.md"
-    },
-    {
-      "basename": "python中os模块的大部分方法",
-      "path": "程序/python笔记/python文件/python中os模块的大部分方法.md"
-    },
-    {
-      "basename": "java",
-      "path": "总目录/java/java.md"
-    },
-    {
-      "basename": "python中的csv模块",
-      "path": "程序/python笔记/python文件/python中的csv模块.md"
-    },
-    {
-      "basename": "python循环",
-      "path": "总目录/python/python循环/python循环.md"
-    },
-    {
-      "basename": "pickle序列化和反序列化",
-      "path": "程序/python笔记/python文件/pickle序列化和反序列化.md"
-    },
-    {
-      "basename": "python文件读取的方法",
-      "path": "程序/python笔记/python文件/python文件读取的方法.md"
     }
   ],
   "omittedPaths": [],
