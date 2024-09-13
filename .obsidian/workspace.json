@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/vim/vim基础.md",
+                "file": "程序/vim/vim的所有命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/vim/vim基础.md",
+                "file": "程序/vim/vim的所有命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/vim/vim基础.md",
+                "file": "程序/vim/vim的所有命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/vim/vim基础.md"
+                "file": "程序/vim/vim的所有命令.md"
               }
             }
           },
@@ -206,6 +206,10 @@
   },
   "active": "fe43322c9893545f",
   "lastOpenFiles": [
+    "程序/vim/vim的三种编辑模式.md",
+    "程序/vim/arch配置neovim的全局.md",
+    "程序/vim/vim的所有命令.md",
+    "程序/vim/vim基础.md",
     "总目录/vim/vim.md",
     "总目录/python/python.md",
     "总目录/python/python线程/python线程.md",
@@ -233,10 +237,6 @@
     "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目",
     "程序/python笔记/python函数/python函数的定义.md",
-    "Pasted Image 20240107125827_699.png.md",
-    "程序/汇编/8080cpu.md",
-    "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
-    "程序/vue/vuex项目xm笔记/vite目录介绍.md",
     "总目录/python/pythonGUI",
     "程序/python笔记/pythonGUI",
     "总目录/python/python文件",
