@@ -27,8 +27,12 @@
             "id": "fe43322c9893545f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程序/vim/vim基础.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "path:程序 **",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程序/vim/vim基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程序/vim/vim基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程序/vim/vim基础.md"
+              }
             }
           },
           {
@@ -198,11 +206,16 @@
   },
   "active": "fe43322c9893545f",
   "lastOpenFiles": [
-    "总目录/git-github/git-github.md",
-    "程序/git-github/github添加ssh密钥给git.md",
+    "总目录/vim/vim.md",
+    "总目录/python/python.md",
+    "总目录/python/python线程/python线程.md",
+    "程序/python笔记/python线程/并行，并发，串行的区别.md",
+    "总目录/python/python线程",
     "程序/git-github/git如何新建分支并提交.md",
+    "程序/python笔记/python线程",
+    "程序/git-github/git如果一直提示需要输入密钥的原因.md",
+    "程序/git-github/github添加ssh密钥给git.md",
     "程序/git-github/git命令.md",
-    "程序/杂项笔记/python杂项/python时间模块的一些用法.md",
     "程序/python笔记/pythonGUI/pythonGUI中的button.md",
     "程序/c/c 声明变量.md",
     "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md",
@@ -224,17 +237,12 @@
     "程序/汇编/8080cpu.md",
     "程序/vue/vuex项目xm笔记/vue构建项目和vue+vite构建项目的不同.md",
     "程序/vue/vuex项目xm笔记/vite目录介绍.md",
-    "程序/vue/vuex项目xm笔记/npm和pnpm.md",
-    "程序/python笔记/python文件/python中的os模块.md",
-    "总目录/vue/vue项目/未命名.md",
     "总目录/python/pythonGUI",
     "程序/python笔记/pythonGUI",
     "总目录/python/python文件",
     "程序/python笔记/python文件",
     "总目录/python/python异常",
     "程序/python笔记/python异常",
-    "总目录/git-github",
-    "程序/git-github",
-    "程序/Linux笔记/未命名"
+    "总目录/git-github"
   ]
 }
