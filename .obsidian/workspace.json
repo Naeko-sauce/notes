@@ -29,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/vim/vim的所有命令.md",
-                "mode": "source",
+                "file": "程序/python笔记/python线程/并行，并发，串行的区别.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/vim/vim的所有命令.md",
+                "file": "程序/python笔记/python线程/并行，并发，串行的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/vim/vim的所有命令.md",
+                "file": "程序/python笔记/python线程/并行，并发，串行的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/vim/vim的所有命令.md"
+                "file": "程序/python笔记/python线程/并行，并发，串行的区别.md"
               }
             }
           },
@@ -204,23 +204,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "da63714648023070",
+  "active": "fe43322c9893545f",
   "lastOpenFiles": [
+    "总目录/python/python线程/python线程.md",
+    "程序/vim/vim的所有命令.md",
+    "程序/vim/vim的三种编辑模式.md",
+    "程序/python笔记/python循环/python字典推导式.md",
+    "程序/python笔记/python线程/并行，并发，串行的区别.md",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg",
-    "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目/vue原始代码和重构代码对比.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目",
-    "程序/python笔记/python线程/并行，并发，串行的区别.md",
     "程序/python笔记/python线程",
     "程序/git-github/git如何新建分支并提交.md",
-    "总目录/python/python线程/python线程.md",
     "总目录/python/python线程",
-    "程序/vim/vim的三种编辑模式.md",
-    "程序/vim/vim的所有命令.md",
     "程序/vim/arch配置neovim的全局.md",
     "程序/vim/vim基础.md",
     "总目录/vim/vim.md",

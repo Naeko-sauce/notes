@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "并行，并发，串行的区别",
+      "path": "程序/python笔记/python线程/并行，并发，串行的区别.md"
+    },
+    {
+      "basename": "python线程",
+      "path": "总目录/python/python线程/python线程.md"
+    },
+    {
       "basename": "vim的所有命令",
       "path": "程序/vim/vim的所有命令.md"
     },
     {
       "basename": "vim的三种编辑模式",
       "path": "程序/vim/vim的三种编辑模式.md"
+    },
+    {
+      "basename": "python字典推导式",
+      "path": "程序/python笔记/python循环/python字典推导式.md"
     },
     {
       "basename": "arch配置neovim的全局",
