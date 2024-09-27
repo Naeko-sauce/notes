@@ -11,16 +11,24 @@
             "id": "9cf7aaf985054d17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "cd764c2ff9b766dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程序/网络安全/kali安装lamp环境.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -29,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/密码学/单项散列算法.md",
+                "file": "寄/2023-11-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/密码学/单项散列算法.md",
+                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/密码学/单项散列算法.md",
+                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/密码学/单项散列算法.md"
+                "file": "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md"
               }
             }
           },
@@ -204,39 +211,39 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "fe43322c9893545f",
+  "active": "da63714648023070",
   "lastOpenFiles": [
-    "程序/报错合集/linux报错/archlinux挂载报错.md",
-    "程序/密码学/单项散列算法.md",
-    "程序/python笔记/python循环/python字典推导式.md",
-    "程序/python笔记/python线程/并行，并发，串行的区别.md",
-    "总目录/python/python线程/python线程.md",
-    "程序/vim/vim的所有命令.md",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md",
+    "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md",
+    "程序/vue/vuex项目xm笔记/npm和pnpm.md",
+    "程序/vim/vim的三种编辑模式.md",
+    "程序/魔法/hysteria2.md",
+    "程序/网络安全/网络安全的基本攻击模式.md",
+    "程序/网络安全/网络安全常用术语.md",
+    "程序/社会工程/社工思路有手机号查询半成品姓名.md",
+    "程序/社会工程/社工网站.md",
+    "程序/社会工程/简户思路.md",
+    "程序/网络安全/kali安装lamp环境.md",
+    "程序/社会工程/简户网站.md",
+    "程序/c/c语言中的%和&.md",
+    "程序/c/c 语言中printf，const，scanf的用法.md",
+    "程序/c/c 声明变量.md",
+    "程序/汇编/8086cpu地址加法器.md",
+    "程序/汇编/汇编指令存放地址.md",
+    "程序/汇编/段地址.md",
+    "寄/2023-11-16.md",
+    "寄/2023-11-17.md",
+    "2023-11-15.md",
+    "程序/降头.md",
+    "寄/2023-11-15.md",
+    "程序/c Sharp笔记/ref和out的区别.md",
+    "程序/c Sharp笔记/out的用处.md",
+    "程序/c Sharp笔记/C Sharp中staitc.md",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg",
-    "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md",
-    "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md",
-    "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md",
-    "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md",
-    "程序/vue/vuex项目xm笔记/vue扫雷项目/vue原始代码和重构代码对比.md",
     "程序/vue/vuex项目xm笔记/vue扫雷项目",
     "程序/python笔记/python线程",
-    "程序/git-github/git如何新建分支并提交.md",
     "总目录/python/python线程",
-    "程序/vim/vim的三种编辑模式.md",
-    "程序/vim/arch配置neovim的全局.md",
-    "程序/vim/vim基础.md",
-    "总目录/vim/vim.md",
-    "总目录/python/python.md",
-    "程序/git-github/git如果一直提示需要输入密钥的原因.md",
-    "程序/git-github/github添加ssh密钥给git.md",
-    "程序/git-github/git命令.md",
-    "程序/python笔记/pythonGUI/pythonGUI中的button.md",
-    "程序/c/c 声明变量.md",
-    "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md",
-    "程序/魔法/v2一些协议配置的详细解释.md",
-    "程序/魔法/v2的协议和节点.md",
-    "程序/魔法/hysteria2.md",
     "总目录/python/pythonGUI",
     "程序/python笔记/pythonGUI",
     "总目录/python/python文件",
