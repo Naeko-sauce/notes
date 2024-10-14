@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/汇编/第一段汇编代码.md",
+                "file": "程序/python笔记/python线程/python线程join和守护线程.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:程序 **",
+                "query": "join",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序/汇编/第一段汇编代码.md",
+                "file": "程序/python笔记/python线程/python线程join和守护线程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序/汇编/第一段汇编代码.md",
+                "file": "程序/python笔记/python线程/python线程join和守护线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序/汇编/第一段汇编代码.md"
+                "file": "程序/python笔记/python线程/python线程join和守护线程.md"
               }
             }
           },
@@ -226,8 +226,11 @@
   },
   "active": "8a83f9257e97706a",
   "lastOpenFiles": [
-    "总目录/汇编/汇编.md",
+    "总目录/python/python线程/python线程.md",
+    "程序/python笔记/python线程/python线程join和守护线程.md",
+    "程序/python笔记/python文件/python文件操作模块.md",
     "程序/汇编/第一段汇编代码.md",
+    "总目录/汇编/汇编.md",
     "程序/汇编/汇编中的inc指令.md",
     "程序/汇编/汇编指令存放地址.md",
     "程序/汇编/汇编常用的指令.md",
@@ -249,9 +252,6 @@
     "程序/杂项笔记/网络协议杂项/各种代理.md",
     "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md",
     "程序/杂项笔记/网络协议杂项/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md",
-    "程序/杂项笔记/网络协议杂项/http代理详细解释.md",
-    "程序/杂项笔记/网络协议杂项/HTTP，TCP，UDP.md",
-    "总目录/网络安全/网络安全.md",
     "程序/网络安全/web",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg",

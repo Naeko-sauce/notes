@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "python线程join和守护线程",
+      "path": "程序/python笔记/python线程/python线程join和守护线程.md"
+    },
+    {
+      "basename": "python线程",
+      "path": "总目录/python/python线程/python线程.md"
+    },
+    {
+      "basename": "python文件操作模块",
+      "path": "程序/python笔记/python文件/python文件操作模块.md"
+    },
+    {
       "basename": "第一段汇编代码",
       "path": "程序/汇编/第一段汇编代码.md"
     },
@@ -83,10 +95,6 @@
     {
       "basename": "网络安全",
       "path": "总目录/网络安全/网络安全.md"
-    },
-    {
-      "basename": "python线程",
-      "path": "总目录/python/python线程/python线程.md"
     },
     {
       "basename": "python文件",
@@ -191,10 +199,6 @@
     {
       "basename": "C Sharp中的泛型",
       "path": "程序/c Sharp笔记/C Sharp中的泛型.md"
-    },
-    {
-      "basename": "C Sharp访问修饰符",
-      "path": "程序/c Sharp笔记/C Sharp访问修饰符.md"
     }
   ],
   "omittedPaths": [],
