@@ -1,204 +1,200 @@
 {
   "recentFiles": [
     {
-      "basename": "python线程join和守护线程",
-      "path": "程序/python笔记/python线程/python线程join和守护线程.md"
+      "basename": "逻辑或运算",
+      "path": "程序/数字电子/逻辑或运算.md"
     },
     {
-      "basename": "python线程",
-      "path": "总目录/python/python线程/python线程.md"
+      "basename": "逻辑异或",
+      "path": "程序/数字电子/逻辑异或.md"
     },
     {
-      "basename": "python文件操作模块",
-      "path": "程序/python笔记/python文件/python文件操作模块.md"
+      "basename": "逻辑或非",
+      "path": "程序/数字电子/逻辑或非.md"
     },
     {
-      "basename": "第一段汇编代码",
-      "path": "程序/汇编/第一段汇编代码.md"
+      "basename": "同或",
+      "path": "程序/数字电子/同或.md"
     },
     {
-      "basename": "汇编",
-      "path": "总目录/汇编/汇编.md"
-    },
-    {
-      "basename": "汇编中的inc指令",
-      "path": "程序/汇编/汇编中的inc指令.md"
-    },
-    {
-      "basename": "汇编指令存放地址",
-      "path": "程序/汇编/汇编指令存放地址.md"
-    },
-    {
-      "basename": "汇编常用的指令",
-      "path": "程序/汇编/汇编常用的指令.md"
-    },
-    {
-      "basename": "汇编的组成",
-      "path": "程序/汇编/汇编的组成.md"
-    },
-    {
-      "basename": "汇编中的循环",
-      "path": "程序/汇编/汇编中的循环.md"
-    },
-    {
-      "basename": "段地址",
-      "path": "程序/汇编/段地址.md"
-    },
-    {
-      "basename": "如何使代码段中的代码被执行",
-      "path": "程序/汇编/如何使代码段中的代码被执行.md"
-    },
-    {
-      "basename": "debug",
-      "path": "程序/汇编/debug.md"
-    },
-    {
-      "basename": "cpu栈",
-      "path": "程序/汇编/cpu栈.md"
-    },
-    {
-      "basename": "段寄存器",
-      "path": "程序/汇编/段寄存器.md"
-    },
-    {
-      "basename": "汇编中的RAM和ROM",
-      "path": "程序/汇编/汇编中的RAM和ROM.md"
-    },
-    {
-      "basename": "网络通信的基本流程",
-      "path": "程序/杂项笔记/网络协议杂项/网络通信的基本流程.md"
-    },
-    {
-      "basename": "8086cpu地址加法器",
-      "path": "程序/汇编/8086cpu地址加法器.md"
-    },
-    {
-      "basename": "各种代理",
-      "path": "程序/杂项笔记/网络协议杂项/各种代理.md"
-    },
-    {
-      "basename": "socks5代理详细解释",
-      "path": "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md"
-    },
-    {
-      "basename": "http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单",
-      "path": "程序/杂项笔记/网络协议杂项/http和socks 5代理访问外网为什么会被拦截并且服务器ip会被加入黑名单.md"
-    },
-    {
-      "basename": "http代理详细解释",
-      "path": "程序/杂项笔记/网络协议杂项/http代理详细解释.md"
-    },
-    {
-      "basename": "HTTP，TCP，UDP",
-      "path": "程序/杂项笔记/网络协议杂项/HTTP，TCP，UDP.md"
-    },
-    {
-      "basename": "网络安全",
-      "path": "总目录/网络安全/网络安全.md"
-    },
-    {
-      "basename": "python文件",
-      "path": "总目录/python/python文件/python文件.md"
-    },
-    {
-      "basename": "常用系统函数",
-      "path": "程序/php/常用系统函数.md"
-    },
-    {
-      "basename": "第四部分把二维数组动态添加到HTML中",
-      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md"
-    },
-    {
-      "basename": "第一部分写出扫雷的格子",
-      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第一部分写出扫雷的格子.md"
-    },
-    {
-      "basename": "第三部分创建自定义二维数组",
-      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md"
-    },
-    {
-      "basename": "npm和pnpm",
-      "path": "程序/vue/vuex项目xm笔记/npm和pnpm.md"
-    },
-    {
-      "basename": "vim的三种编辑模式",
-      "path": "程序/vim/vim的三种编辑模式.md"
-    },
-    {
-      "basename": "hysteria2",
-      "path": "程序/魔法/hysteria2.md"
-    },
-    {
-      "basename": "网络安全的基本攻击模式",
-      "path": "程序/网络安全/网络安全的基本攻击模式.md"
-    },
-    {
-      "basename": "网络安全常用术语",
-      "path": "程序/网络安全/网络安全常用术语.md"
+      "basename": "逻辑与非",
+      "path": "程序/数字电子/逻辑与非.md"
     },
     {
       "basename": "社工思路有手机号查询半成品姓名",
       "path": "程序/社会工程/社工思路有手机号查询半成品姓名.md"
     },
     {
-      "basename": "社工网站",
-      "path": "程序/社会工程/社工网站.md"
+      "basename": "网络安全常用术语",
+      "path": "程序/网络安全/网络安全常用术语.md"
     },
     {
-      "basename": "简户思路",
-      "path": "程序/社会工程/简户思路.md"
-    },
-    {
-      "basename": "kali安装lamp环境",
-      "path": "程序/网络安全/kali安装lamp环境.md"
-    },
-    {
-      "basename": "简户网站",
-      "path": "程序/社会工程/简户网站.md"
+      "basename": "与运算",
+      "path": "程序/数字电子/与运算.md"
     },
     {
       "basename": "c语言中的%和&",
       "path": "程序/c/c语言中的%和&.md"
     },
     {
-      "basename": "c 语言中printf，const，scanf的用法",
-      "path": "程序/c/c 语言中printf，const，scanf的用法.md"
+      "basename": "Burp Suite工具",
+      "path": "程序/网络安全/Burp Suite工具.md"
     },
     {
-      "basename": "c 声明变量",
-      "path": "程序/c/c 声明变量.md"
+      "basename": "网络安全的基本攻击模式",
+      "path": "程序/网络安全/网络安全的基本攻击模式.md"
     },
     {
-      "basename": "2023-11-16",
-      "path": "寄/2023-11-16.md"
+      "basename": "kali安装lamp环境",
+      "path": "程序/网络安全/kali安装lamp环境.md"
     },
     {
-      "basename": "2023-11-17",
-      "path": "寄/2023-11-17.md"
+      "basename": "v2的协议和节点",
+      "path": "程序/魔法/v2的协议和节点.md"
+    },
+    {
+      "basename": "v2一些协议配置的详细解释",
+      "path": "程序/魔法/v2一些协议配置的详细解释.md"
+    },
+    {
+      "basename": "javascript className",
+      "path": "程序/javascript/javascript className.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "模板/日记模板/日记模板.md"
+    },
+    {
+      "basename": "灵感",
+      "path": "模板/灵感模板/灵感.md"
+    },
+    {
+      "basename": "第二部分创建二维数组注释代码",
+      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md"
+    },
+    {
+      "basename": "第四部分把二维数组动态添加到HTML中",
+      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md"
+    },
+    {
+      "basename": "第三部分创建自定义二维数组",
+      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第三部分创建自定义二维数组.md"
+    },
+    {
+      "basename": "arch配置neovim的全局",
+      "path": "程序/vim/arch配置neovim的全局.md"
+    },
+    {
+      "basename": "vim的三种编辑模式",
+      "path": "程序/vim/vim的三种编辑模式.md"
+    },
+    {
+      "basename": "vim的所有命令",
+      "path": "程序/vim/vim的所有命令.md"
+    },
+    {
+      "basename": "git如何新建分支并提交",
+      "path": "程序/git-github/git如何新建分支并提交.md"
+    },
+    {
+      "basename": "git如果一直提示需要输入密钥的原因",
+      "path": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
+    },
+    {
+      "basename": "git命令",
+      "path": "程序/git-github/git命令.md"
+    },
+    {
+      "basename": "天干地支基础",
+      "path": "算卦/天干地支基础.md"
+    },
+    {
+      "basename": "阴阳",
+      "path": "算卦/阴阳.md"
+    },
+    {
+      "basename": "五行基础",
+      "path": "算卦/五行基础.md"
+    },
+    {
+      "basename": "2023-11-15",
+      "path": "2023-11-15.md"
+    },
+    {
+      "basename": "github添加ssh密钥给git",
+      "path": "程序/git-github/github添加ssh密钥给git.md"
     },
     {
       "basename": "降头",
       "path": "程序/降头.md"
     },
     {
-      "basename": "ref和out的区别",
-      "path": "程序/c Sharp笔记/ref和out的区别.md"
+      "basename": "SQL Server简单创建命令",
+      "path": "程序/SQL Server/SQL Server简单创建命令.md"
     },
     {
-      "basename": "out的用处",
-      "path": "程序/c Sharp笔记/out的用处.md"
+      "basename": "T-SQL",
+      "path": "程序/SQL Server/T-SQL.md"
     },
     {
-      "basename": "C Sharp中staitc",
-      "path": "程序/c Sharp笔记/C Sharp中staitc.md"
+      "basename": "javascript",
+      "path": "程序/javascript/javascript.md"
     },
     {
-      "basename": "C Sharp中的Array list用处和与Java中的Array list的不同",
-      "path": "程序/c Sharp笔记/C Sharp中的Array list用处和与Java中的Array list的不同.md"
+      "basename": "javascript 获取html元素",
+      "path": "程序/javascript/javascript 获取html元素.md"
     },
     {
-      "basename": "C Sharp中的泛型",
-      "path": "程序/c Sharp笔记/C Sharp中的泛型.md"
+      "basename": "非运算",
+      "path": "程序/数字电子/非运算.md"
+    },
+    {
+      "basename": "b53a14bcfaacae48cdabe552dd69e750",
+      "path": "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg"
+    },
+    {
+      "basename": "socks5代理详细解释",
+      "path": "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md"
+    },
+    {
+      "basename": "socks原理图",
+      "path": "程序/杂项笔记/网络协议杂项/socks原理图.png"
+    },
+    {
+      "basename": "Pasted image 20241021002038",
+      "path": "程序/杂项笔记/网络协议杂项/Pasted image 20241021002038.png"
+    },
+    {
+      "basename": "IPSec和openvpn的优缺点和作用",
+      "path": "程序/杂项笔记/网络协议杂项/IPSec和openvpn的优缺点和作用.md"
+    },
+    {
+      "basename": "b53a14bcfaacae48cdabe552dd69e750 1",
+      "path": "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg"
+    },
+    {
+      "basename": "社工网站",
+      "path": "程序/社会工程/社工网站.md"
+    },
+    {
+      "basename": "vps和服务器的区别",
+      "path": "程序/杂项笔记/网络协议杂项/vps和服务器的区别.md"
+    },
+    {
+      "basename": "DNS污染",
+      "path": "程序/杂项笔记/网络协议杂项/DNS污染.md"
+    },
+    {
+      "basename": "GFW防火墙是怎么拦截外网",
+      "path": "程序/杂项笔记/网络协议杂项/GFW防火墙是怎么拦截外网.md"
+    },
+    {
+      "basename": "python线程join和守护线程",
+      "path": "程序/python笔记/python线程/python线程join和守护线程.md"
+    },
+    {
+      "basename": "python线程",
+      "path": "总目录/python/python线程/python线程.md"
     }
   ],
   "omittedPaths": [],
