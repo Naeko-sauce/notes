@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "段寄存器",
+      "path": "程序/汇编/段寄存器.md"
+    },
+    {
+      "basename": "python线程",
+      "path": "总目录/python/python线程/python线程.md"
+    },
+    {
+      "basename": "kali安装lamp环境",
+      "path": "程序/网络安全/kali安装lamp环境.md"
+    },
+    {
       "basename": "逻辑或运算",
       "path": "程序/数字电子/逻辑或运算.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "网络安全的基本攻击模式",
       "path": "程序/网络安全/网络安全的基本攻击模式.md"
-    },
-    {
-      "basename": "kali安装lamp环境",
-      "path": "程序/网络安全/kali安装lamp环境.md"
     },
     {
       "basename": "v2的协议和节点",
@@ -191,10 +199,6 @@
     {
       "basename": "python线程join和守护线程",
       "path": "程序/python笔记/python线程/python线程join和守护线程.md"
-    },
-    {
-      "basename": "python线程",
-      "path": "总目录/python/python线程/python线程.md"
     }
   ],
   "omittedPaths": [],
