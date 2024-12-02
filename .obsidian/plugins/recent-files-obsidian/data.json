@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "同或",
+      "path": "程序/数字电子/同或.md"
+    },
+    {
+      "basename": "pythongui转Java",
+      "path": "程序/python笔记/python代码转Java/pythongui转Java.md"
+    },
+    {
+      "basename": "python 中的call转为Java代码",
+      "path": "程序/python笔记/python代码转Java/python 中的call转为Java代码.md"
+    },
+    {
+      "basename": "示例1",
+      "path": "程序/python笔记/python代码转Java/示例1.md"
+    },
+    {
       "basename": "段寄存器",
       "path": "程序/汇编/段寄存器.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "逻辑或非",
       "path": "程序/数字电子/逻辑或非.md"
-    },
-    {
-      "basename": "同或",
-      "path": "程序/数字电子/同或.md"
     },
     {
       "basename": "逻辑与非",
@@ -187,18 +199,6 @@
     {
       "basename": "vps和服务器的区别",
       "path": "程序/杂项笔记/网络协议杂项/vps和服务器的区别.md"
-    },
-    {
-      "basename": "DNS污染",
-      "path": "程序/杂项笔记/网络协议杂项/DNS污染.md"
-    },
-    {
-      "basename": "GFW防火墙是怎么拦截外网",
-      "path": "程序/杂项笔记/网络协议杂项/GFW防火墙是怎么拦截外网.md"
-    },
-    {
-      "basename": "python线程join和守护线程",
-      "path": "程序/python笔记/python线程/python线程join和守护线程.md"
     }
   ],
   "omittedPaths": [],
