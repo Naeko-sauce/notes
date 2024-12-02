@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "javascript",
+      "path": "总目录/javascript/javascript.md"
+    },
+    {
+      "basename": "vite目录介绍",
+      "path": "程序/vue/vuex项目xm笔记/vite目录介绍.md"
+    },
+    {
+      "basename": "js中var和const和let",
+      "path": "程序/javascript/js中var和const和let.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "程序/javascript/javascript.md"
+    },
+    {
+      "basename": "javascript 获取html元素",
+      "path": "程序/javascript/javascript 获取html元素.md"
+    },
+    {
+      "basename": "javascript className",
+      "path": "程序/javascript/javascript className.md"
+    },
+    {
+      "basename": "透视相机",
+      "path": "程序/three.js/透视相机.md"
+    },
+    {
       "basename": "同或",
       "path": "程序/数字电子/同或.md"
     },
@@ -75,10 +103,6 @@
     {
       "basename": "v2一些协议配置的详细解释",
       "path": "程序/魔法/v2一些协议配置的详细解释.md"
-    },
-    {
-      "basename": "javascript className",
-      "path": "程序/javascript/javascript className.md"
     },
     {
       "basename": "日记模板",
@@ -157,14 +181,6 @@
       "path": "程序/SQL Server/T-SQL.md"
     },
     {
-      "basename": "javascript",
-      "path": "程序/javascript/javascript.md"
-    },
-    {
-      "basename": "javascript 获取html元素",
-      "path": "程序/javascript/javascript 获取html元素.md"
-    },
-    {
       "basename": "非运算",
       "path": "程序/数字电子/非运算.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Pasted image 20241021002038",
       "path": "程序/杂项笔记/网络协议杂项/Pasted image 20241021002038.png"
-    },
-    {
-      "basename": "IPSec和openvpn的优缺点和作用",
-      "path": "程序/杂项笔记/网络协议杂项/IPSec和openvpn的优缺点和作用.md"
-    },
-    {
-      "basename": "b53a14bcfaacae48cdabe552dd69e750 1",
-      "path": "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg"
-    },
-    {
-      "basename": "社工网站",
-      "path": "程序/社会工程/社工网站.md"
-    },
-    {
-      "basename": "vps和服务器的区别",
-      "path": "程序/杂项笔记/网络协议杂项/vps和服务器的区别.md"
     }
   ],
   "omittedPaths": [],
