@@ -2,3 +2,4 @@
 [[javascript 获取html元素]]
 [[javascript className]]
 [[js中var和const和let]]
+[[js箭头函数]]

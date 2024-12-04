@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "js箭头函数",
+      "path": "程序/javascript/js箭头函数.md"
+    },
+    {
       "basename": "javascript",
       "path": "总目录/javascript/javascript.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "socks原理图",
       "path": "程序/杂项笔记/网络协议杂项/socks原理图.png"
-    },
-    {
-      "basename": "Pasted image 20241021002038",
-      "path": "程序/杂项笔记/网络协议杂项/Pasted image 20241021002038.png"
     }
   ],
   "omittedPaths": [],

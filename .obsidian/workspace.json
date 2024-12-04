@@ -21,10 +21,14 @@
             "id": "90eb767414108b22",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "程序/javascript/js箭头函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "js箭头函数"
             }
           }
         ],
@@ -220,6 +224,7 @@
   },
   "active": "90eb767414108b22",
   "lastOpenFiles": [
+    "程序/javascript/js箭头函数.md",
     "总目录/javascript/javascript.md",
     "程序/vue/vuex项目xm笔记/vite目录介绍.md",
     "程序/javascript/js中var和const和let.md",
@@ -245,7 +250,6 @@
     "程序/网络安全/Burp Suite工具.md",
     "程序/网络安全/网络安全的基本攻击模式.md",
     "程序/魔法/v2的协议和节点.md",
-    "程序/魔法/v2一些协议配置的详细解释.md",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
     "程序/杂项笔记/网络协议杂项/Pasted image 20241021002038.png",
