@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "js箭头函数",
-      "path": "程序/javascript/js箭头函数.md"
+      "basename": "js作用域链",
+      "path": "程序/javascript/js作用域链.md"
+    },
+    {
+      "basename": "three旋转为什么要用圆周率",
+      "path": "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "程序/javascript/javascript.md"
     },
     {
       "basename": "javascript",
       "path": "总目录/javascript/javascript.md"
+    },
+    {
+      "basename": "python虚拟环境",
+      "path": "程序/杂项笔记/python杂项/python虚拟环境.md"
+    },
+    {
+      "basename": "T-SQL",
+      "path": "程序/SQL Server/T-SQL.md"
+    },
+    {
+      "basename": "SQL Server",
+      "path": "程序/SQL Server/SQL Server.md"
+    },
+    {
+      "basename": "SQL Server简单创建命令",
+      "path": "程序/SQL Server/SQL Server简单创建命令.md"
+    },
+    {
+      "basename": "js箭头函数",
+      "path": "程序/javascript/js箭头函数.md"
+    },
+    {
+      "basename": "vue项目",
+      "path": "总目录/vue/vue项目/vue项目.md"
     },
     {
       "basename": "vite目录介绍",
@@ -15,10 +47,6 @@
     {
       "basename": "js中var和const和let",
       "path": "程序/javascript/js中var和const和let.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "程序/javascript/javascript.md"
     },
     {
       "basename": "javascript 获取html元素",
@@ -171,34 +199,6 @@
     {
       "basename": "github添加ssh密钥给git",
       "path": "程序/git-github/github添加ssh密钥给git.md"
-    },
-    {
-      "basename": "降头",
-      "path": "程序/降头.md"
-    },
-    {
-      "basename": "SQL Server简单创建命令",
-      "path": "程序/SQL Server/SQL Server简单创建命令.md"
-    },
-    {
-      "basename": "T-SQL",
-      "path": "程序/SQL Server/T-SQL.md"
-    },
-    {
-      "basename": "非运算",
-      "path": "程序/数字电子/非运算.md"
-    },
-    {
-      "basename": "b53a14bcfaacae48cdabe552dd69e750",
-      "path": "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg"
-    },
-    {
-      "basename": "socks5代理详细解释",
-      "path": "程序/杂项笔记/网络协议杂项/socks5代理详细解释.md"
-    },
-    {
-      "basename": "socks原理图",
-      "path": "程序/杂项笔记/网络协议杂项/socks原理图.png"
     }
   ],
   "omittedPaths": [],

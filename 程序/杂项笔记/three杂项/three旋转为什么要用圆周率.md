@@ -8,6 +8,6 @@
 
 ```javascript
 gsap.to(cube.rotation, { y: THREE.MathUtils.degToRad(90), duration: 5 });
-```
+``` 
 
 这里，`THREE.MathUtils.degToRad(90)` 将 90 度转换为对应的弧度。
