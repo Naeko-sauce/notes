@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "天干地支基础",
+      "path": "算卦/天干地支基础.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "总目录/javascript/javascript.md"
+    },
+    {
       "basename": "js作用域链",
       "path": "程序/javascript/js作用域链.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "javascript",
       "path": "程序/javascript/javascript.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "总目录/javascript/javascript.md"
     },
     {
       "basename": "python虚拟环境",
@@ -179,10 +183,6 @@
     {
       "basename": "git命令",
       "path": "程序/git-github/git命令.md"
-    },
-    {
-      "basename": "天干地支基础",
-      "path": "算卦/天干地支基础.md"
     },
     {
       "basename": "阴阳",

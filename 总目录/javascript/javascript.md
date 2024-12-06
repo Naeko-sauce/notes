@@ -3,3 +3,4 @@
 [[javascript className]]
 [[js中var和const和let]]
 [[js箭头函数]]
+[[js作用域链]]
