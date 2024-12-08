@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "javascript",
+      "path": "总目录/javascript/javascript.md"
+    },
+    {
+      "basename": "js展开运算符",
+      "path": "程序/javascript/js展开运算符.md"
+    },
+    {
+      "basename": "js arguments伪数组",
+      "path": "程序/javascript/js arguments伪数组.md"
+    },
+    {
+      "basename": "汇编中的循环",
+      "path": "程序/汇编/汇编中的循环.md"
+    },
+    {
+      "basename": "汇编中的inc指令",
+      "path": "程序/汇编/汇编中的inc指令.md"
+    },
+    {
+      "basename": "cpu栈",
+      "path": "程序/汇编/cpu栈.md"
+    },
+    {
       "basename": "js闭包",
       "path": "程序/javascript/js闭包.md"
     },
     {
       "basename": "js垃圾回收机制",
       "path": "程序/javascript/js垃圾回收机制.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "总目录/javascript/javascript.md"
     },
     {
       "basename": "天干地支基础",
@@ -179,26 +199,6 @@
     {
       "basename": "vim的所有命令",
       "path": "程序/vim/vim的所有命令.md"
-    },
-    {
-      "basename": "git如何新建分支并提交",
-      "path": "程序/git-github/git如何新建分支并提交.md"
-    },
-    {
-      "basename": "git如果一直提示需要输入密钥的原因",
-      "path": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
-    },
-    {
-      "basename": "git命令",
-      "path": "程序/git-github/git命令.md"
-    },
-    {
-      "basename": "阴阳",
-      "path": "算卦/阴阳.md"
-    },
-    {
-      "basename": "五行基础",
-      "path": "算卦/五行基础.md"
     }
   ],
   "omittedPaths": [],

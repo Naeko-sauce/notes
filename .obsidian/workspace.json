@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/javascript/js闭包.md",
+                "file": "总目录/javascript/javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "js闭包"
+              "title": "javascript"
             }
           }
         ]
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "void",
+                "query": "loop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,9 +213,14 @@
   },
   "active": "af32d5bc34a75dc2",
   "lastOpenFiles": [
-    "程序/javascript/js垃圾回收机制.md",
+    "程序/javascript/js展开运算符.md",
+    "程序/javascript/js arguments伪数组.md",
+    "程序/汇编/汇编中的循环.md",
+    "程序/汇编/汇编中的inc指令.md",
+    "程序/汇编/cpu栈.md",
     "程序/javascript/js闭包.md",
     "总目录/javascript/javascript.md",
+    "程序/javascript/js垃圾回收机制.md",
     "算卦/天干地支基础.md",
     "程序/javascript/js作用域链.md",
     "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md",
@@ -234,11 +239,6 @@
     "程序/数字电子/同或.md",
     "程序/python笔记/python代码转Java/pythongui转Java.md",
     "程序/python笔记/python代码转Java/python 中的call转为Java代码.md",
-    "程序/python笔记/python代码转Java/示例1.md",
-    "程序/汇编/段寄存器.md",
-    "总目录/python/python线程/python线程.md",
-    "程序/网络安全/kali安装lamp环境.md",
-    "程序/数字电子/逻辑或运算.md",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
     "程序/杂项笔记/网络协议杂项/Pasted image 20241021002038.png",
