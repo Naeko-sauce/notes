@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "python线程进程协程",
+      "path": "程序/python笔记/python线程/python线程进程协程.md"
+    },
+    {
+      "basename": "python线程join和守护线程",
+      "path": "程序/python笔记/python线程/python线程join和守护线程.md"
+    },
+    {
+      "basename": "并行，并发，串行的区别",
+      "path": "程序/python笔记/python线程/并行，并发，串行的区别.md"
+    },
+    {
+      "basename": "python同步和异步",
+      "path": "程序/python笔记/python线程/python同步和异步.md"
+    },
+    {
+      "basename": "js数组解构",
+      "path": "程序/javascript/js数组解构.md"
+    },
+    {
       "basename": "通用寄存器和段寄存器",
       "path": "程序/汇编/通用寄存器和段寄存器.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "v2的协议和节点",
       "path": "程序/魔法/v2的协议和节点.md"
-    },
-    {
-      "basename": "v2一些协议配置的详细解释",
-      "path": "程序/魔法/v2一些协议配置的详细解释.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "模板/日记模板/日记模板.md"
-    },
-    {
-      "basename": "灵感",
-      "path": "模板/灵感模板/灵感.md"
-    },
-    {
-      "basename": "第二部分创建二维数组注释代码",
-      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第二部分创建二维数组注释代码.md"
-    },
-    {
-      "basename": "第四部分把二维数组动态添加到HTML中",
-      "path": "程序/vue/vuex项目xm笔记/vue扫雷项目/第四部分把二维数组动态添加到HTML中.md"
     }
   ],
   "omittedPaths": [],

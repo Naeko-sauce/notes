@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/汇编/通用寄存器和段寄存器.md",
+                "file": "程序/python笔记/python线程/python线程进程协程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通用寄存器和段寄存器"
+              "title": "python线程进程协程"
             }
           }
         ]
@@ -211,10 +211,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "af32d5bc34a75dc2",
+  "active": "da63714648023070",
   "lastOpenFiles": [
-    "程序/汇编/8080cpu.md",
+    "程序/python笔记/python线程/python线程join和守护线程.md",
+    "程序/python笔记/python线程/并行，并发，串行的区别.md",
+    "程序/python笔记/python线程/python同步和异步.md",
+    "程序/javascript/js数组解构.md",
     "程序/汇编/通用寄存器和段寄存器.md",
+    "程序/汇编/8080cpu.md",
     "程序/汇编/8086cpu地址加法器.md",
     "程序/汇编/第一段汇编代码.md",
     "未命名.canvas",
@@ -236,10 +240,6 @@
     "程序/SQL Server/SQL Server.md",
     "程序/SQL Server/SQL Server简单创建命令.md",
     "总目录/vue/vue项目/vue项目.md",
-    "程序/vue/vuex项目xm笔记/vite目录介绍.md",
-    "程序/javascript/js中var和const和let.md",
-    "程序/javascript/javascript 获取html元素.md",
-    "程序/javascript/javascript className.md",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
     "程序/杂项笔记/网络协议杂项/Pasted image 20241021002038.png",
