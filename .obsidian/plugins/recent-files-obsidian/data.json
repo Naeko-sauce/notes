@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-04-21 23.09.38.excalidraw",
+      "path": "程序/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md"
+    },
+    {
+      "basename": "python元组推导式",
+      "path": "程序/杂项笔记/python杂项/python元组推导式.md"
+    },
+    {
+      "basename": "pythongui窗口练习",
+      "path": "程序/python笔记/python部分练习/pythongui窗口练习.md"
+    },
+    {
+      "basename": "three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行",
+      "path": "程序/three.js/three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行.md"
+    },
+    {
+      "basename": "python的类型",
+      "path": "程序/杂项笔记/python杂项/python的类型.md"
+    },
+    {
+      "basename": "逻辑与非",
+      "path": "程序/数字电子/逻辑与非.md"
+    },
+    {
+      "basename": "git如果一直提示需要输入密钥的原因",
+      "path": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
+    },
+    {
+      "basename": "根",
+      "path": "总目录/根.md"
+    },
+    {
+      "basename": "LANMP",
+      "path": "程序/网络安全/LANMP.md"
+    },
+    {
+      "basename": "更改linux磁盘文件用户访问权限",
+      "path": "程序/Linux笔记/更改linux磁盘文件用户访问权限.md"
+    },
+    {
+      "basename": "archlinux在vm虚拟机中使用主机共享文件夹",
+      "path": "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md"
+    },
+    {
+      "basename": "js垃圾回收机制",
+      "path": "程序/javascript/js垃圾回收机制.md"
+    },
+    {
+      "basename": "js闭包",
+      "path": "程序/javascript/js闭包.md"
+    },
+    {
+      "basename": "DNS污染",
+      "path": "程序/杂项笔记/网络协议杂项/DNS污染.md"
+    },
+    {
+      "basename": "js arguments伪数组",
+      "path": "程序/javascript/js arguments伪数组.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "总目录/javascript/javascript.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "模板/日记模板/日记模板.md"
+    },
+    {
+      "basename": "js作用域链",
+      "path": "程序/javascript/js作用域链.md"
+    },
+    {
+      "basename": "vim的三种编辑模式",
+      "path": "程序/vim/vim的三种编辑模式.md"
+    },
+    {
+      "basename": "vim",
+      "path": "总目录/vim/vim.md"
+    },
+    {
+      "basename": "社会工程",
+      "path": "总目录/社会工程/社会工程.md"
+    },
+    {
       "basename": "python线程进程协程",
       "path": "程序/python笔记/python线程/python线程进程协程.md"
     },
@@ -41,16 +125,8 @@
       "path": "程序/javascript/js箭头函数.md"
     },
     {
-      "basename": "javascript",
-      "path": "总目录/javascript/javascript.md"
-    },
-    {
       "basename": "js展开运算符",
       "path": "程序/javascript/js展开运算符.md"
-    },
-    {
-      "basename": "js arguments伪数组",
-      "path": "程序/javascript/js arguments伪数组.md"
     },
     {
       "basename": "汇编中的循环",
@@ -65,20 +141,8 @@
       "path": "程序/汇编/cpu栈.md"
     },
     {
-      "basename": "js闭包",
-      "path": "程序/javascript/js闭包.md"
-    },
-    {
-      "basename": "js垃圾回收机制",
-      "path": "程序/javascript/js垃圾回收机制.md"
-    },
-    {
       "basename": "天干地支基础",
       "path": "算卦/天干地支基础.md"
-    },
-    {
-      "basename": "js作用域链",
-      "path": "程序/javascript/js作用域链.md"
     },
     {
       "basename": "three旋转为什么要用圆周率",
@@ -135,70 +199,6 @@
     {
       "basename": "pythongui转Java",
       "path": "程序/python笔记/python代码转Java/pythongui转Java.md"
-    },
-    {
-      "basename": "python 中的call转为Java代码",
-      "path": "程序/python笔记/python代码转Java/python 中的call转为Java代码.md"
-    },
-    {
-      "basename": "示例1",
-      "path": "程序/python笔记/python代码转Java/示例1.md"
-    },
-    {
-      "basename": "段寄存器",
-      "path": "程序/汇编/段寄存器.md"
-    },
-    {
-      "basename": "python线程",
-      "path": "总目录/python/python线程/python线程.md"
-    },
-    {
-      "basename": "kali安装lamp环境",
-      "path": "程序/网络安全/kali安装lamp环境.md"
-    },
-    {
-      "basename": "逻辑或运算",
-      "path": "程序/数字电子/逻辑或运算.md"
-    },
-    {
-      "basename": "逻辑异或",
-      "path": "程序/数字电子/逻辑异或.md"
-    },
-    {
-      "basename": "逻辑或非",
-      "path": "程序/数字电子/逻辑或非.md"
-    },
-    {
-      "basename": "逻辑与非",
-      "path": "程序/数字电子/逻辑与非.md"
-    },
-    {
-      "basename": "社工思路有手机号查询半成品姓名",
-      "path": "程序/社会工程/社工思路有手机号查询半成品姓名.md"
-    },
-    {
-      "basename": "网络安全常用术语",
-      "path": "程序/网络安全/网络安全常用术语.md"
-    },
-    {
-      "basename": "与运算",
-      "path": "程序/数字电子/与运算.md"
-    },
-    {
-      "basename": "c语言中的%和&",
-      "path": "程序/c/c语言中的%和&.md"
-    },
-    {
-      "basename": "Burp Suite工具",
-      "path": "程序/网络安全/Burp Suite工具.md"
-    },
-    {
-      "basename": "网络安全的基本攻击模式",
-      "path": "程序/网络安全/网络安全的基本攻击模式.md"
-    },
-    {
-      "basename": "v2的协议和节点",
-      "path": "程序/魔法/v2的协议和节点.md"
     }
   ],
   "omittedPaths": [],

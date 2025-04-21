@@ -13,15 +13,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/python笔记/python线程/python线程进程协程.md",
+                "file": "模板/日记模板/日记模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python线程进程协程"
+              "title": "日记模板"
+            }
+          },
+          {
+            "id": "1a2a329726ce81ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序/javascript/js arguments伪数组.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "js arguments伪数组"
+            }
+          },
+          {
+            "id": "2a693627c7cdf9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序/杂项笔记/python杂项/python元组推导式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "python元组推导式"
+            }
+          },
+          {
+            "id": "045f8fefd161571c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "程序/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-21 23.09.38.excalidraw"
+            }
+          },
+          {
+            "id": "6295d7780f2c4a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序/python笔记/python部分练习/pythongui窗口练习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pythongui窗口练习"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -50,7 +105,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -211,35 +267,39 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "da63714648023070",
+  "active": "045f8fefd161571c",
   "lastOpenFiles": [
+    "程序/杂项笔记/python杂项/python元组推导式.md",
+    "程序/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md",
+    "程序/半自动化项目/未命名.md",
+    "程序/半自动化项目",
+    "未命名 1",
+    "未命名",
+    "程序/python笔记/python部分练习/pythongui窗口练习.md",
+    "程序/three.js/three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行.md",
+    "程序/杂项笔记/网络协议杂项/Pasted image 20250318232010.png",
+    "程序/杂项笔记/python杂项/python的类型.md",
+    "程序/数字电子/逻辑与非.md",
+    "程序/git-github/git如果一直提示需要输入密钥的原因.md",
+    "总目录/根.md",
+    "程序/网络安全/LANMP.md",
+    "程序/Linux笔记/更改linux磁盘文件用户访问权限.md",
+    "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md",
+    "程序/javascript/js垃圾回收机制.md",
+    "程序/javascript/js闭包.md",
+    "程序/杂项笔记/网络协议杂项/DNS污染.md",
+    "总目录/javascript/javascript.md",
+    "程序/javascript/js作用域链.md",
+    "程序/vim/vim的三种编辑模式.md",
+    "总目录/vim/vim.md",
+    "总目录/社会工程/社会工程.md",
+    "程序/python笔记/python线程/python线程进程协程.md",
     "程序/python笔记/python线程/python线程join和守护线程.md",
     "程序/python笔记/python线程/并行，并发，串行的区别.md",
     "程序/python笔记/python线程/python同步和异步.md",
     "程序/javascript/js数组解构.md",
     "程序/汇编/通用寄存器和段寄存器.md",
-    "程序/汇编/8080cpu.md",
-    "程序/汇编/8086cpu地址加法器.md",
-    "程序/汇编/第一段汇编代码.md",
     "未命名.canvas",
-    "程序/javascript/js箭头函数.md",
-    "总目录/javascript/javascript.md",
-    "程序/javascript/js展开运算符.md",
-    "程序/javascript/js arguments伪数组.md",
-    "程序/汇编/汇编中的循环.md",
-    "程序/汇编/汇编中的inc指令.md",
-    "程序/汇编/cpu栈.md",
-    "程序/javascript/js闭包.md",
-    "程序/javascript/js垃圾回收机制.md",
-    "算卦/天干地支基础.md",
-    "程序/javascript/js作用域链.md",
-    "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md",
-    "程序/javascript/javascript.md",
-    "程序/杂项笔记/python杂项/python虚拟环境.md",
-    "程序/SQL Server/T-SQL.md",
-    "程序/SQL Server/SQL Server.md",
-    "程序/SQL Server/SQL Server简单创建命令.md",
-    "总目录/vue/vue项目/vue项目.md",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
     "程序/杂项笔记/网络协议杂项/Pasted image 20241021002038.png",
@@ -250,9 +310,6 @@
     "总目录/python/python线程",
     "总目录/python/pythonGUI",
     "程序/python笔记/pythonGUI",
-    "总目录/python/python文件",
-    "程序/python笔记/python文件",
-    "总目录/python/python异常",
-    "程序/python笔记/python异常"
+    "总目录/python/python文件"
   ]
 }
