@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "archLinux黑曜石和vs无法正常输入中文",
+      "path": "程序/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md"
+    },
+    {
       "basename": "Drawing 2025-04-21 23.09.38.excalidraw",
       "path": "程序/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "透视相机",
       "path": "程序/three.js/透视相机.md"
-    },
-    {
-      "basename": "同或",
-      "path": "程序/数字电子/同或.md"
     }
   ],
   "omittedPaths": [],
