@@ -4,93 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7d3f89cd9eef3b25",
+        "id": "f55a58b5292f887e",
         "type": "tabs",
         "children": [
           {
-            "id": "af32d5bc34a75dc2",
+            "id": "3069b14c2cd2188d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模板/日记模板/日记模板.md",
+                "file": "程序/Web开发/ThreeJS/threejs设置阻尼效果.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日记模板"
-            }
-          },
-          {
-            "id": "1a2a329726ce81ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程序/javascript/js arguments伪数组.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "js arguments伪数组"
-            }
-          },
-          {
-            "id": "2a693627c7cdf9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程序/杂项笔记/python杂项/python元组推导式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "python元组推导式"
-            }
-          },
-          {
-            "id": "045f8fefd161571c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "程序/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-21 23.09.38.excalidraw"
-            }
-          },
-          {
-            "id": "ba9f9ac23d6dfae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程序/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "archLinux黑曜石和vs无法正常输入中文"
-            }
-          },
-          {
-            "id": "6295d7780f2c4a23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程序/python笔记/python部分练习/pythongui窗口练习.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pythongui窗口练习"
+              "title": "threejs设置阻尼效果"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "通用寄存器",
+                "query": "tag:#系统工具",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,9 +186,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "6643f67f693d3c49",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -278,53 +219,54 @@
       "flomo-importer:Flomo Importer": false,
       "templater-obsidian:Templater": false,
       "3d-graph-new:Global 3D Graph": false,
+      "copilot:Open Copilot Chat": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ba9f9ac23d6dfae4",
+  "active": "da63714648023070",
   "lastOpenFiles": [
-    "程序/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md",
-    "程序/杂项笔记/网络协议杂项/Pasted Image 20250423234929_955.png",
-    "程序/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md",
-    "程序/杂项笔记/python杂项/python元组推导式.md",
-    "程序/半自动化项目/未命名.md",
-    "程序/半自动化项目",
-    "未命名 1",
-    "未命名",
-    "程序/python笔记/python部分练习/pythongui窗口练习.md",
-    "程序/three.js/three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行.md",
-    "程序/杂项笔记/网络协议杂项/Pasted image 20250318232010.png",
-    "程序/杂项笔记/python杂项/python的类型.md",
-    "程序/数字电子/逻辑与非.md",
-    "程序/git-github/git如果一直提示需要输入密钥的原因.md",
-    "总目录/根.md",
-    "程序/网络安全/LANMP.md",
-    "程序/Linux笔记/更改linux磁盘文件用户访问权限.md",
-    "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md",
-    "程序/javascript/js垃圾回收机制.md",
-    "程序/javascript/js闭包.md",
-    "程序/杂项笔记/网络协议杂项/DNS污染.md",
-    "总目录/javascript/javascript.md",
-    "程序/javascript/js作用域链.md",
-    "程序/vim/vim的三种编辑模式.md",
-    "总目录/vim/vim.md",
-    "总目录/社会工程/社会工程.md",
-    "程序/python笔记/python线程/python线程进程协程.md",
-    "程序/python笔记/python线程/python线程join和守护线程.md",
-    "程序/python笔记/python线程/并行，并发，串行的区别.md",
-    "程序/python笔记/python线程/python同步和异步.md",
-    "程序/javascript/js数组解构.md",
+    "程序/Web开发/ThreeJS/three锥形相机.md",
+    "程序/Web开发/ThreeJS/three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行.md",
+    "程序/Web开发/ThreeJS/three循环渲染.md",
+    "程序/Web开发/ThreeJS/透视相机.md",
+    "程序/Web开发/ThreeJS/使用gsap移动.md",
+    "程序/Web开发/CSS/预处理器/sass.md",
+    "程序/Web开发/CSS/变量系统/CSS变量.md",
+    "程序/安全/密码学/单项散列算法.md",
+    "程序/安全/密码学/三重des和des的区别.md",
+    "程序/Web开发/CSS/动画/过渡.md",
+    "Web开发/CSS教程/09-CSS工程化最佳实践/CSS工程化与性能优化.md",
+    "Web开发/CSS教程/08-Sass预处理器指南/Sass语法与实战.md",
+    "Web开发/CSS教程/07-CSS自定义属性与变量/CSS变量使用指南.md",
+    "Web开发/CSS教程/06-CSS动画与过渡效果/CSS动画与过渡实践.md",
+    "Web开发/CSS教程/05-响应式设计与媒体查询/响应式布局设计原则.md",
+    "Web开发/CSS教程/04-Grid网格布局系统/Grid布局实战教程.md",
+    "Web开发/CSS教程/03-Flexbox弹性布局/Flex布局完全指南.md",
+    "Web开发/CSS教程/02-CSS盒模型详解/标准盒模型与IE盒模型.md",
+    "Web开发/CSS教程/01-CSS选择器基础/CSS选择器与伪类伪元素.md",
+    "Web开发/CSS教程/09-CSS工程化最佳实践/README.md",
+    "Web开发/CSS教程/09-CSS工程化最佳实践",
+    "Web开发/CSS教程/08-Sass预处理器指南/README.md",
+    "Web开发/CSS教程/08-Sass预处理器指南",
+    "Web开发/CSS教程/07-CSS自定义属性与变量/README.md",
+    "Web开发/CSS教程/07-CSS自定义属性与变量",
+    "Web开发/CSS教程/06-CSS动画与过渡效果/README.md",
+    "Web开发/CSS教程/06-CSS动画与过渡效果",
+    "Web开发/CSS教程/05-响应式设计与媒体查询/README.md",
+    "Web开发/CSS教程/05-响应式设计与媒体查询",
+    "Web开发/CSS教程/04-Grid网格布局系统/README.md",
+    "Web开发/CSS教程/04-Grid网格布局系统",
+    "Web开发/CSS教程/03-Flexbox弹性布局/README.md",
+    "Web开发/CSS教程/03-Flexbox弹性布局",
+    "Web开发/CSS教程/02-CSS盒模型详解",
+    "Web开发/CSS教程/01-CSS选择器基础",
+    "Web开发/CSS教程/09-工程化",
     "未命名.canvas",
+    "程序/杂项笔记/网络协议杂项/Pasted Image 20250423234929_955.png",
+    "程序/杂项笔记/网络协议杂项/Pasted image 20250318232010.png",
     "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750.jpg",
     "程序/杂项笔记/网络协议杂项/socks原理图.png",
     "程序/杂项笔记/网络协议杂项/Pasted image 20241021002038.png",
-    "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg",
-    "程序/网络安全/web",
-    "程序/vue/vuex项目xm笔记/vue扫雷项目",
-    "程序/python笔记/python线程",
-    "总目录/python/python线程",
-    "总目录/python/pythonGUI",
-    "程序/python笔记/pythonGUI",
-    "总目录/python/python文件"
+    "程序/杂项笔记/网络协议杂项/b53a14bcfaacae48cdabe552dd69e750 1.jpg"
   ]
 }

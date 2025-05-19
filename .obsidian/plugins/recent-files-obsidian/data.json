@@ -1,12 +1,160 @@
 {
   "recentFiles": [
     {
-      "basename": "archLinux黑曜石和vs无法正常输入中文",
-      "path": "程序/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md"
+      "basename": "threejs设置阻尼效果",
+      "path": "程序/Web开发/ThreeJS/threejs设置阻尼效果.md"
+    },
+    {
+      "basename": "three锥形相机",
+      "path": "程序/Web开发/ThreeJS/three锥形相机.md"
+    },
+    {
+      "basename": "three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行",
+      "path": "程序/Web开发/ThreeJS/three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行.md"
+    },
+    {
+      "basename": "three循环渲染",
+      "path": "程序/Web开发/ThreeJS/three循环渲染.md"
+    },
+    {
+      "basename": "透视相机",
+      "path": "程序/Web开发/ThreeJS/透视相机.md"
+    },
+    {
+      "basename": "使用gsap移动",
+      "path": "程序/Web开发/ThreeJS/使用gsap移动.md"
+    },
+    {
+      "basename": "sass",
+      "path": "程序/Web开发/CSS/预处理器/sass.md"
+    },
+    {
+      "basename": "CSS变量",
+      "path": "程序/Web开发/CSS/变量系统/CSS变量.md"
+    },
+    {
+      "basename": "单项散列算法",
+      "path": "程序/安全/密码学/单项散列算法.md"
+    },
+    {
+      "basename": "三重des和des的区别",
+      "path": "程序/安全/密码学/三重des和des的区别.md"
+    },
+    {
+      "basename": "过渡",
+      "path": "程序/Web开发/CSS/动画/过渡.md"
+    },
+    {
+      "basename": "README",
+      "path": "程序/Web开发/CSS/README.md"
+    },
+    {
+      "basename": "基本概念",
+      "path": "程序/Web开发/CSS/盒模型/基本概念.md"
+    },
+    {
+      "basename": "基础概念",
+      "path": "程序/Web开发/CSS/flexbox/基础概念.md"
+    },
+    {
+      "basename": "基础选择器",
+      "path": "程序/Web开发/CSS/选择器/基础选择器.md"
+    },
+    {
+      "basename": "选择器",
+      "path": "程序/Web开发/CSS/选择器.md"
+    },
+    {
+      "basename": "练习平台",
+      "path": "资源/练习平台.md"
+    },
+    {
+      "basename": "three点击暂停动画",
+      "path": "程序/Web开发/ThreeJS/three点击暂停动画.md"
+    },
+    {
+      "basename": "README",
+      "path": "程序/Web开发/ThreeJS/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "总目录/README.md"
+    },
+    {
+      "basename": "python中的布尔值",
+      "path": "程序/其他/杂项笔记/python杂项/python中的布尔值.md"
+    },
+    {
+      "basename": "指南",
+      "path": "性能优化/指南.md"
+    },
+    {
+      "basename": "README",
+      "path": "SQL Server/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Linux/README.md"
+    },
+    {
+      "basename": "知识地图",
+      "path": "知识地图.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "README",
+      "path": "模板/README.md"
+    },
+    {
+      "basename": "搜索技巧",
+      "path": "搜索技巧.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "Flask",
+      "path": "Web开发/Flask.md"
+    },
+    {
+      "basename": "README",
+      "path": "总目录/python/README.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "模板/日记模板/日记模板.md"
+    },
+    {
+      "basename": "README",
+      "path": "总目录/javascript/README.md"
+    },
+    {
+      "basename": "根",
+      "path": "总目录/根.md"
+    },
+    {
+      "basename": "第一段汇编代码",
+      "path": "程序/硬件与底层/汇编/第一段汇编代码.md"
+    },
+    {
+      "basename": "五行基础",
+      "path": "算卦/五行基础.md"
+    },
+    {
+      "basename": "灵感",
+      "path": "模板/灵感模板/灵感.md"
     },
     {
       "basename": "Drawing 2025-04-21 23.09.38.excalidraw",
       "path": "程序/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md"
+    },
+    {
+      "basename": "archLinux黑曜石和vs无法正常输入中文",
+      "path": "程序/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md"
     },
     {
       "basename": "Pasted Image 20250423234929_955",
@@ -37,10 +185,6 @@
       "path": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
     },
     {
-      "basename": "根",
-      "path": "总目录/根.md"
-    },
-    {
       "basename": "LANMP",
       "path": "程序/网络安全/LANMP.md"
     },
@@ -55,150 +199,6 @@
     {
       "basename": "js垃圾回收机制",
       "path": "程序/javascript/js垃圾回收机制.md"
-    },
-    {
-      "basename": "js闭包",
-      "path": "程序/javascript/js闭包.md"
-    },
-    {
-      "basename": "DNS污染",
-      "path": "程序/杂项笔记/网络协议杂项/DNS污染.md"
-    },
-    {
-      "basename": "js arguments伪数组",
-      "path": "程序/javascript/js arguments伪数组.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "总目录/javascript/javascript.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "模板/日记模板/日记模板.md"
-    },
-    {
-      "basename": "js作用域链",
-      "path": "程序/javascript/js作用域链.md"
-    },
-    {
-      "basename": "vim的三种编辑模式",
-      "path": "程序/vim/vim的三种编辑模式.md"
-    },
-    {
-      "basename": "vim",
-      "path": "总目录/vim/vim.md"
-    },
-    {
-      "basename": "社会工程",
-      "path": "总目录/社会工程/社会工程.md"
-    },
-    {
-      "basename": "python线程进程协程",
-      "path": "程序/python笔记/python线程/python线程进程协程.md"
-    },
-    {
-      "basename": "python线程join和守护线程",
-      "path": "程序/python笔记/python线程/python线程join和守护线程.md"
-    },
-    {
-      "basename": "并行，并发，串行的区别",
-      "path": "程序/python笔记/python线程/并行，并发，串行的区别.md"
-    },
-    {
-      "basename": "python同步和异步",
-      "path": "程序/python笔记/python线程/python同步和异步.md"
-    },
-    {
-      "basename": "js数组解构",
-      "path": "程序/javascript/js数组解构.md"
-    },
-    {
-      "basename": "通用寄存器和段寄存器",
-      "path": "程序/汇编/通用寄存器和段寄存器.md"
-    },
-    {
-      "basename": "8086cpu地址加法器",
-      "path": "程序/汇编/8086cpu地址加法器.md"
-    },
-    {
-      "basename": "第一段汇编代码",
-      "path": "程序/汇编/第一段汇编代码.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
-    },
-    {
-      "basename": "js箭头函数",
-      "path": "程序/javascript/js箭头函数.md"
-    },
-    {
-      "basename": "js展开运算符",
-      "path": "程序/javascript/js展开运算符.md"
-    },
-    {
-      "basename": "汇编中的循环",
-      "path": "程序/汇编/汇编中的循环.md"
-    },
-    {
-      "basename": "汇编中的inc指令",
-      "path": "程序/汇编/汇编中的inc指令.md"
-    },
-    {
-      "basename": "cpu栈",
-      "path": "程序/汇编/cpu栈.md"
-    },
-    {
-      "basename": "天干地支基础",
-      "path": "算卦/天干地支基础.md"
-    },
-    {
-      "basename": "three旋转为什么要用圆周率",
-      "path": "程序/杂项笔记/three杂项/three旋转为什么要用圆周率.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "程序/javascript/javascript.md"
-    },
-    {
-      "basename": "python虚拟环境",
-      "path": "程序/杂项笔记/python杂项/python虚拟环境.md"
-    },
-    {
-      "basename": "T-SQL",
-      "path": "程序/SQL Server/T-SQL.md"
-    },
-    {
-      "basename": "SQL Server",
-      "path": "程序/SQL Server/SQL Server.md"
-    },
-    {
-      "basename": "SQL Server简单创建命令",
-      "path": "程序/SQL Server/SQL Server简单创建命令.md"
-    },
-    {
-      "basename": "vue项目",
-      "path": "总目录/vue/vue项目/vue项目.md"
-    },
-    {
-      "basename": "vite目录介绍",
-      "path": "程序/vue/vuex项目xm笔记/vite目录介绍.md"
-    },
-    {
-      "basename": "js中var和const和let",
-      "path": "程序/javascript/js中var和const和let.md"
-    },
-    {
-      "basename": "javascript 获取html元素",
-      "path": "程序/javascript/javascript 获取html元素.md"
-    },
-    {
-      "basename": "javascript className",
-      "path": "程序/javascript/javascript className.md"
-    },
-    {
-      "basename": "透视相机",
-      "path": "程序/three.js/透视相机.md"
     }
   ],
   "omittedPaths": [],
