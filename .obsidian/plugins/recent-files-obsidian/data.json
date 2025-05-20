@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "总目录/README.md"
+    },
+    {
       "basename": "threejs设置阻尼效果",
       "path": "程序/Web开发/ThreeJS/threejs设置阻尼效果.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "README",
       "path": "程序/Web开发/ThreeJS/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "总目录/README.md"
     },
     {
       "basename": "python中的布尔值",
