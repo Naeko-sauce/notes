@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "archLinux黑曜石和vs无法正常输入中文",
+      "path": "程序/其他/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md"
+    },
+    {
+      "basename": "archlinux挂载报错",
+      "path": "程序/其他/报错合集/linux报错/archlinux挂载报错.md"
+    },
+    {
+      "basename": "Drawing 2025-04-21 23.09.38.excalidraw",
+      "path": "程序/工具项目/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md"
+    },
+    {
+      "basename": "README",
+      "path": "程序/工具项目/README.md"
+    },
+    {
+      "basename": "SQL Server",
+      "path": "程序/编程语言/SQL/SQL Server.md"
+    },
+    {
+      "basename": "python字符串大小写转换方法",
+      "path": "程序/编程语言/Python/字符串/python字符串大小写转换方法.md"
+    },
+    {
+      "basename": "python os.system",
+      "path": "程序/其他/杂项笔记/python杂项/python os.system.md"
+    },
+    {
+      "basename": "hysteria2",
+      "path": "程序/其他/魔法/hysteria2.md"
+    },
+    {
+      "basename": "v2的协议和节点",
+      "path": "程序/其他/魔法/v2的协议和节点.md"
+    },
+    {
+      "basename": "v2一些协议配置的详细解释",
+      "path": "程序/其他/魔法/v2一些协议配置的详细解释.md"
+    },
+    {
+      "basename": "vue用pnpm i下载资源时报错",
+      "path": "程序/其他/报错合集/vue报错/vue用pnpm i下载资源时报错.md"
+    },
+    {
+      "basename": "lazyvim安装使用空格s+g搜索报错解决方法",
+      "path": "程序/其他/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md"
+    },
+    {
+      "basename": "archlinux使用yay安装python编辑器报错找不到软件包",
+      "path": "程序/其他/报错合集/linux报错/archlinux使用yay安装python编辑器报错找不到软件包.md"
+    },
+    {
+      "basename": "练习平台",
+      "path": "资源/练习平台.md"
+    },
+    {
+      "basename": "c 语言中printf，const，scanf的用法",
+      "path": "程序/编程语言/C/c 语言中printf，const，scanf的用法.md"
+    },
+    {
+      "basename": "简户思路",
+      "path": "程序/安全/社会工程/简户思路.md"
+    },
+    {
+      "basename": "基础概念",
+      "path": "程序/Web开发/CSS/grid/基础概念.md"
+    },
+    {
+      "basename": "README",
+      "path": "Linux/README.md"
+    },
+    {
+      "basename": "指南",
+      "path": "性能优化/指南.md"
+    },
+    {
       "basename": "README",
       "path": "总目录/README.md"
     },
@@ -69,10 +145,6 @@
       "path": "程序/Web开发/CSS/选择器.md"
     },
     {
-      "basename": "练习平台",
-      "path": "资源/练习平台.md"
-    },
-    {
       "basename": "three点击暂停动画",
       "path": "程序/Web开发/ThreeJS/three点击暂停动画.md"
     },
@@ -85,16 +157,8 @@
       "path": "程序/其他/杂项笔记/python杂项/python中的布尔值.md"
     },
     {
-      "basename": "指南",
-      "path": "性能优化/指南.md"
-    },
-    {
       "basename": "README",
       "path": "SQL Server/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Linux/README.md"
     },
     {
       "basename": "知识地图",
@@ -135,70 +199,6 @@
     {
       "basename": "根",
       "path": "总目录/根.md"
-    },
-    {
-      "basename": "第一段汇编代码",
-      "path": "程序/硬件与底层/汇编/第一段汇编代码.md"
-    },
-    {
-      "basename": "五行基础",
-      "path": "算卦/五行基础.md"
-    },
-    {
-      "basename": "灵感",
-      "path": "模板/灵感模板/灵感.md"
-    },
-    {
-      "basename": "Drawing 2025-04-21 23.09.38.excalidraw",
-      "path": "程序/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md"
-    },
-    {
-      "basename": "archLinux黑曜石和vs无法正常输入中文",
-      "path": "程序/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md"
-    },
-    {
-      "basename": "Pasted Image 20250423234929_955",
-      "path": "程序/杂项笔记/网络协议杂项/Pasted Image 20250423234929_955.png"
-    },
-    {
-      "basename": "python元组推导式",
-      "path": "程序/杂项笔记/python杂项/python元组推导式.md"
-    },
-    {
-      "basename": "pythongui窗口练习",
-      "path": "程序/python笔记/python部分练习/pythongui窗口练习.md"
-    },
-    {
-      "basename": "three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行",
-      "path": "程序/three.js/three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行.md"
-    },
-    {
-      "basename": "python的类型",
-      "path": "程序/杂项笔记/python杂项/python的类型.md"
-    },
-    {
-      "basename": "逻辑与非",
-      "path": "程序/数字电子/逻辑与非.md"
-    },
-    {
-      "basename": "git如果一直提示需要输入密钥的原因",
-      "path": "程序/git-github/git如果一直提示需要输入密钥的原因.md"
-    },
-    {
-      "basename": "LANMP",
-      "path": "程序/网络安全/LANMP.md"
-    },
-    {
-      "basename": "更改linux磁盘文件用户访问权限",
-      "path": "程序/Linux笔记/更改linux磁盘文件用户访问权限.md"
-    },
-    {
-      "basename": "archlinux在vm虚拟机中使用主机共享文件夹",
-      "path": "程序/Linux笔记/archlinux在vm虚拟机中使用主机共享文件夹.md"
-    },
-    {
-      "basename": "js垃圾回收机制",
-      "path": "程序/javascript/js垃圾回收机制.md"
     }
   ],
   "omittedPaths": [],

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总目录/README.md",
+                "file": "程序/其他/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "archLinux黑曜石和vs无法正常输入中文"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#系统工具",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,37 +225,37 @@
   },
   "active": "3069b14c2cd2188d",
   "lastOpenFiles": [
+    "程序/其他/报错合集/linux报错/archlinux挂载报错.md",
+    "程序/其他/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md",
+    "程序/工具项目/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md",
+    "程序/工具项目/README.md",
+    "程序/编程语言/SQL/SQL Server.md",
+    "程序/编程语言/Python/字符串/python字符串大小写转换方法.md",
+    "程序/其他/杂项笔记/python杂项/python os.system.md",
+    "程序/其他/魔法/hysteria2.md",
+    "程序/其他/魔法/v2的协议和节点.md",
+    "程序/其他/魔法/v2一些协议配置的详细解释.md",
+    "程序/其他/报错合集/vue报错/vue用pnpm i下载资源时报错.md",
+    "程序/其他/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md",
+    "程序/其他/报错合集/linux报错/archlinux使用yay安装python编辑器报错找不到软件包.md",
+    "资源/练习平台.md",
+    "程序/编程语言/C/c 语言中printf，const，scanf的用法.md",
+    "程序/安全/社会工程/简户思路.md",
+    "程序/Web开发/CSS/grid/基础概念.md",
+    "Linux/README.md",
+    "性能优化/指南.md",
+    "总目录/README.md",
     "程序/Web开发/ThreeJS/threejs设置阻尼效果.md",
     "程序/Web开发/ThreeJS/three锥形相机.md",
     "程序/Web开发/ThreeJS/three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行.md",
     "程序/Web开发/ThreeJS/three循环渲染.md",
     "程序/Web开发/ThreeJS/透视相机.md",
     "程序/Web开发/ThreeJS/使用gsap移动.md",
-    "程序/Web开发/CSS/预处理器/sass.md",
-    "程序/Web开发/CSS/变量系统/CSS变量.md",
-    "程序/安全/密码学/单项散列算法.md",
-    "程序/安全/密码学/三重des和des的区别.md",
-    "程序/Web开发/CSS/动画/过渡.md",
-    "Web开发/CSS教程/09-CSS工程化最佳实践/CSS工程化与性能优化.md",
-    "Web开发/CSS教程/08-Sass预处理器指南/Sass语法与实战.md",
-    "Web开发/CSS教程/07-CSS自定义属性与变量/CSS变量使用指南.md",
-    "Web开发/CSS教程/06-CSS动画与过渡效果/CSS动画与过渡实践.md",
-    "Web开发/CSS教程/05-响应式设计与媒体查询/响应式布局设计原则.md",
-    "Web开发/CSS教程/04-Grid网格布局系统/Grid布局实战教程.md",
-    "Web开发/CSS教程/03-Flexbox弹性布局/Flex布局完全指南.md",
-    "Web开发/CSS教程/02-CSS盒模型详解/标准盒模型与IE盒模型.md",
-    "Web开发/CSS教程/01-CSS选择器基础/CSS选择器与伪类伪元素.md",
-    "Web开发/CSS教程/09-CSS工程化最佳实践/README.md",
     "Web开发/CSS教程/09-CSS工程化最佳实践",
-    "Web开发/CSS教程/08-Sass预处理器指南/README.md",
     "Web开发/CSS教程/08-Sass预处理器指南",
-    "Web开发/CSS教程/07-CSS自定义属性与变量/README.md",
     "Web开发/CSS教程/07-CSS自定义属性与变量",
-    "Web开发/CSS教程/06-CSS动画与过渡效果/README.md",
     "Web开发/CSS教程/06-CSS动画与过渡效果",
-    "Web开发/CSS教程/05-响应式设计与媒体查询/README.md",
     "Web开发/CSS教程/05-响应式设计与媒体查询",
-    "Web开发/CSS教程/04-Grid网格布局系统/README.md",
     "Web开发/CSS教程/04-Grid网格布局系统",
     "Web开发/CSS教程/03-Flexbox弹性布局",
     "Web开发/CSS教程/02-CSS盒模型详解",
