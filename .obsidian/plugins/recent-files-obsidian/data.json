@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "js闭包",
+      "path": "程序/Web开发/JS/js闭包.md"
+    },
+    {
+      "basename": "js中go和ao和vo对象",
+      "path": "程序/Web开发/JS/js中go和ao和vo对象.md"
+    },
+    {
+      "basename": "javascript className",
+      "path": "程序/编程语言/JavaScript/javascript className.md"
+    },
+    {
+      "basename": "javascript 获取html元素",
+      "path": "程序/编程语言/JavaScript/javascript 获取html元素.md"
+    },
+    {
+      "basename": "JavaScript开发",
+      "path": "总目录/javascript/JavaScript开发.md"
+    },
+    {
+      "basename": "Three.js 开发指南",
+      "path": "程序/Web开发/ThreeJS/Three.js 开发指南.md"
+    },
+    {
+      "basename": "CSS基础概念与语法",
+      "path": "Web开发/CSS教程/基础知识/CSS基础概念与语法.md"
+    },
+    {
+      "basename": "CSS完全教程",
+      "path": "Web开发/CSS教程/CSS完全教程.md"
+    },
+    {
+      "basename": "最佳实践",
+      "path": "Vue/最佳实践.md"
+    },
+    {
+      "basename": "技术知识库总目录",
+      "path": "总目录/技术知识库总目录.md"
+    },
+    {
+      "basename": "CSS指南",
+      "path": "程序/Web开发/CSS/CSS指南.md"
+    },
+    {
       "basename": "archLinux黑曜石和vs无法正常输入中文",
       "path": "程序/其他/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md"
     },
@@ -77,10 +121,6 @@
       "path": "性能优化/指南.md"
     },
     {
-      "basename": "README",
-      "path": "总目录/README.md"
-    },
-    {
       "basename": "threejs设置阻尼效果",
       "path": "程序/Web开发/ThreeJS/threejs设置阻尼效果.md"
     },
@@ -125,10 +165,6 @@
       "path": "程序/Web开发/CSS/动画/过渡.md"
     },
     {
-      "basename": "README",
-      "path": "程序/Web开发/CSS/README.md"
-    },
-    {
       "basename": "基本概念",
       "path": "程序/Web开发/CSS/盒模型/基本概念.md"
     },
@@ -149,10 +185,6 @@
       "path": "程序/Web开发/ThreeJS/three点击暂停动画.md"
     },
     {
-      "basename": "README",
-      "path": "程序/Web开发/ThreeJS/README.md"
-    },
-    {
       "basename": "python中的布尔值",
       "path": "程序/其他/杂项笔记/python杂项/python中的布尔值.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "README",
-      "path": "模板/README.md"
-    },
-    {
-      "basename": "搜索技巧",
-      "path": "搜索技巧.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
-    },
-    {
-      "basename": "Flask",
-      "path": "Web开发/Flask.md"
-    },
-    {
-      "basename": "README",
-      "path": "总目录/python/README.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "模板/日记模板/日记模板.md"
-    },
-    {
-      "basename": "README",
-      "path": "总目录/javascript/README.md"
-    },
-    {
-      "basename": "根",
-      "path": "总目录/根.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,6 @@
 # Sass 预处理器教程
 
-[[../README|← 返回CSS指南]]
+[[CSS指南|← 返回CSS指南]]
 
 #CSS #Sass #预处理器 #前端开发
 

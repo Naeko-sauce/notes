@@ -50,7 +50,7 @@ Python是一门优雅、简洁且功能强大的编程语言，广泛应用于We
 
 ## 相关知识
 
-- [[../javascript/README|JavaScript]] - 前端交互
+- [[JavaScript开发|JavaScript]] - 前端交互
 - [[../SQL Server/README|数据库]] - 数据存储
 - [[../Linux/README|Linux]] - 部署环境
 - [[../git-github/README|Git]] - 版本控制
