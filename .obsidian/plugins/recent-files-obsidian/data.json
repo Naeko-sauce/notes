@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "js闭包",
-      "path": "程序/Web开发/JS/js闭包.md"
+      "basename": "js中的arguments",
+      "path": "程序/Web开发/JS/js中的arguments.md"
+    },
+    {
+      "basename": "ref的用处",
+      "path": "程序/编程语言/CSharp/ref的用处.md"
+    },
+    {
+      "basename": "C Sharp中staitc",
+      "path": "程序/编程语言/CSharp/C Sharp中staitc.md"
+    },
+    {
+      "basename": "C Sharp中的泛型",
+      "path": "程序/编程语言/CSharp/C Sharp中的泛型.md"
+    },
+    {
+      "basename": "C Sharp访问修饰符",
+      "path": "程序/编程语言/CSharp/C Sharp访问修饰符.md"
+    },
+    {
+      "basename": "this的绑定规则",
+      "path": "程序/Web开发/JS/this的绑定规则.md"
+    },
+    {
+      "basename": "this的指向",
+      "path": "程序/Web开发/JS/this的指向.md"
     },
     {
       "basename": "js中go和ao和vo对象",
       "path": "程序/Web开发/JS/js中go和ao和vo对象.md"
+    },
+    {
+      "basename": "js中的apply",
+      "path": "程序/Web开发/JS/js中的apply.md"
+    },
+    {
+      "basename": "js闭包",
+      "path": "程序/Web开发/JS/js闭包.md"
     },
     {
       "basename": "javascript className",
@@ -167,38 +199,6 @@
     {
       "basename": "基本概念",
       "path": "程序/Web开发/CSS/盒模型/基本概念.md"
-    },
-    {
-      "basename": "基础概念",
-      "path": "程序/Web开发/CSS/flexbox/基础概念.md"
-    },
-    {
-      "basename": "基础选择器",
-      "path": "程序/Web开发/CSS/选择器/基础选择器.md"
-    },
-    {
-      "basename": "选择器",
-      "path": "程序/Web开发/CSS/选择器.md"
-    },
-    {
-      "basename": "three点击暂停动画",
-      "path": "程序/Web开发/ThreeJS/three点击暂停动画.md"
-    },
-    {
-      "basename": "python中的布尔值",
-      "path": "程序/其他/杂项笔记/python杂项/python中的布尔值.md"
-    },
-    {
-      "basename": "README",
-      "path": "SQL Server/README.md"
-    },
-    {
-      "basename": "知识地图",
-      "path": "知识地图.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

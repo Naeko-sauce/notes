@@ -11,12 +11,14 @@
             "id": "3069b14c2cd2188d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "程序/Web开发/JS/js闭包.md"
+                "file": "程序/Web开发/JS/js中的arguments.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "js闭包"
+              "icon": "lucide-file",
+              "title": "js中的arguments"
             }
           }
         ]
@@ -223,7 +225,15 @@
   },
   "active": "3069b14c2cd2188d",
   "lastOpenFiles": [
+    "程序/编程语言/CSharp/ref的用处.md",
+    "程序/Web开发/JS/js中的arguments.md",
+    "程序/编程语言/CSharp/C Sharp中staitc.md",
+    "程序/编程语言/CSharp/C Sharp中的泛型.md",
+    "程序/编程语言/CSharp/C Sharp访问修饰符.md",
+    "程序/Web开发/JS/this的绑定规则.md",
+    "程序/Web开发/JS/this的指向.md",
     "程序/Web开发/JS/js中go和ao和vo对象.md",
+    "程序/Web开发/JS/js中的apply.md",
     "程序/Web开发/JS/js闭包.md",
     "程序/编程语言/JavaScript/javascript className.md",
     "程序/杂项笔记/网络协议杂项/Pasted Image 20250616231506_752.png",
@@ -246,13 +256,6 @@
     "程序/编程语言/SQL/SQL Server.md",
     "程序/编程语言/Python/字符串/python字符串大小写转换方法.md",
     "程序/其他/杂项笔记/python杂项/python os.system.md",
-    "程序/其他/魔法/hysteria2.md",
-    "程序/其他/魔法/v2的协议和节点.md",
-    "程序/其他/魔法/v2一些协议配置的详细解释.md",
-    "程序/其他/报错合集/vue报错/vue用pnpm i下载资源时报错.md",
-    "程序/其他/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md",
-    "程序/其他/报错合集/linux报错/archlinux使用yay安装python编辑器报错找不到软件包.md",
-    "资源/练习平台.md",
     "Web开发/CSS教程/09-CSS工程化最佳实践",
     "Web开发/CSS教程/08-Sass预处理器指南",
     "Web开发/CSS教程/07-CSS自定义属性与变量",
