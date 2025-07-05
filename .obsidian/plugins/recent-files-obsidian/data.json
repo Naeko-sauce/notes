@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "js中纯函数的概念",
+      "path": "程序/Web开发/JS/js中纯函数的概念.md"
+    },
+    {
       "basename": "js中的arguments",
       "path": "程序/Web开发/JS/js中的arguments.md"
+    },
+    {
+      "basename": "js中的apply",
+      "path": "程序/Web开发/JS/js中的apply.md"
+    },
+    {
+      "basename": "技术知识库总目录",
+      "path": "总目录/技术知识库总目录.md"
+    },
+    {
+      "basename": "README",
+      "path": "Linux/README.md"
     },
     {
       "basename": "ref的用处",
@@ -31,10 +47,6 @@
     {
       "basename": "js中go和ao和vo对象",
       "path": "程序/Web开发/JS/js中go和ao和vo对象.md"
-    },
-    {
-      "basename": "js中的apply",
-      "path": "程序/Web开发/JS/js中的apply.md"
     },
     {
       "basename": "js闭包",
@@ -67,10 +79,6 @@
     {
       "basename": "最佳实践",
       "path": "Vue/最佳实践.md"
-    },
-    {
-      "basename": "技术知识库总目录",
-      "path": "总目录/技术知识库总目录.md"
     },
     {
       "basename": "CSS指南",
@@ -145,10 +153,6 @@
       "path": "程序/Web开发/CSS/grid/基础概念.md"
     },
     {
-      "basename": "README",
-      "path": "Linux/README.md"
-    },
-    {
       "basename": "指南",
       "path": "性能优化/指南.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "过渡",
       "path": "程序/Web开发/CSS/动画/过渡.md"
-    },
-    {
-      "basename": "基本概念",
-      "path": "程序/Web开发/CSS/盒模型/基本概念.md"
     }
   ],
   "omittedPaths": [],
