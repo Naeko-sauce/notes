@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/Web开发/JS/js中纯函数的概念.md",
+                "file": "程序/Web开发/JS/js柯里化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "js中纯函数的概念"
+              "title": "js柯里化"
             }
           }
         ]
@@ -225,8 +225,9 @@
   },
   "active": "3069b14c2cd2188d",
   "lastOpenFiles": [
-    "程序/Web开发/JS/js中的arguments.md",
     "程序/Web开发/JS/js中纯函数的概念.md",
+    "程序/Web开发/JS/js柯里化.md",
+    "程序/Web开发/JS/js中的arguments.md",
     "程序/Web开发/JS/js中的apply.md",
     "总目录/技术知识库总目录.md",
     "Linux/README.md",
@@ -255,7 +256,6 @@
     "程序/其他/报错合集/linux报错/archlinux挂载报错.md",
     "程序/工具项目/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md",
     "程序/工具项目/README.md",
-    "程序/编程语言/SQL/SQL Server.md",
     "Web开发/CSS教程/09-CSS工程化最佳实践",
     "Web开发/CSS教程/08-Sass预处理器指南",
     "Web开发/CSS教程/07-CSS自定义属性与变量",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "js柯里化",
+      "path": "程序/Web开发/JS/js柯里化.md"
+    },
+    {
       "basename": "js中纯函数的概念",
       "path": "程序/Web开发/JS/js中纯函数的概念.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "三重des和des的区别",
       "path": "程序/安全/密码学/三重des和des的区别.md"
-    },
-    {
-      "basename": "过渡",
-      "path": "程序/Web开发/CSS/动画/过渡.md"
     }
   ],
   "omittedPaths": [],
