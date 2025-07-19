@@ -11,17 +11,28 @@
             "id": "3069b14c2cd2188d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "程序/Web开发/JS/js柯里化.md",
-                "mode": "source",
-                "source": false
+                "file": "程序/系统与工具/Linux/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
               },
-              "icon": "lucide-file",
-              "title": "js柯里化"
+              "icon": "excalidraw-icon",
+              "title": "vm和虚拟机的关系，和linux的内存分布关系图，和目录结构"
+            }
+          },
+          {
+            "id": "d7874260b67877ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/测试.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "测试"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,45 +234,45 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3069b14c2cd2188d",
+  "active": "da63714648023070",
   "lastOpenFiles": [
-    "程序/Web开发/JS/js中纯函数的概念.md",
-    "程序/Web开发/JS/js柯里化.md",
-    "程序/Web开发/JS/js中的arguments.md",
-    "程序/Web开发/JS/js中的apply.md",
+    "程序/编程语言/Python/python部分练习/python文件练习.md",
+    "程序/编程语言/Python/python部分练习/python的gui编程.md",
+    "程序/系统与工具/Linux/archlinux中vscod无法访问模块.md",
+    "程序/系统与工具/Linux/hyprland桌面.md",
+    "Excalidraw/测试.md",
+    "程序/系统与工具/Linux/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md",
+    "Excalidraw",
+    "程序/硬件与底层/汇编/第一段汇编代码.md",
+    "README.md",
+    "搜索技巧.md",
     "总目录/技术知识库总目录.md",
-    "Linux/README.md",
-    "程序/编程语言/CSharp/ref的用处.md",
-    "程序/编程语言/CSharp/C Sharp中staitc.md",
-    "程序/编程语言/CSharp/C Sharp中的泛型.md",
+    "程序/硬件与底层/数字电子/非运算.md",
+    "程序/硬件与底层/汇编/汇编的组成.md",
+    "程序/编程语言/PHP/基础1.md",
+    "程序/编程语言/Python/python函数/python中的legb规则.md",
+    "程序/编程语言/PHP/文件包含.md",
+    "程序/编程语言/PHP/函数.md",
+    "程序/编程语言/README.md",
+    "程序/编程语言/JavaScript/js闭包.md",
+    "程序/编程语言/JavaScript/js箭头函数.md",
+    "程序/编程语言/JavaScript/js数组解构.md",
+    "程序/编程语言/JavaScript/js arguments伪数组.md",
+    "程序/编程语言/Java/逆向.md",
+    "程序/编程语言/Java/构造函数.md",
+    "程序/编程语言/CSharp/C Sharp中的Array list用处和与Java中的Array list的不同.md",
     "程序/编程语言/CSharp/C Sharp访问修饰符.md",
-    "程序/Web开发/JS/this的绑定规则.md",
-    "程序/Web开发/JS/this的指向.md",
-    "程序/Web开发/JS/js中go和ao和vo对象.md",
-    "程序/Web开发/JS/js闭包.md",
-    "程序/编程语言/JavaScript/javascript className.md",
+    "程序/安全/网络安全/LANMP.md",
     "程序/杂项笔记/网络协议杂项/Pasted Image 20250616231506_752.png",
     "程序/杂项笔记/网络协议杂项",
     "程序/杂项笔记",
-    "程序/编程语言/JavaScript/javascript 获取html元素.md",
-    "总目录/javascript/JavaScript开发.md",
     "2025年项目",
-    "程序/Web开发/ThreeJS/Three.js 开发指南.md",
-    "Web开发/CSS教程/基础知识/CSS基础概念与语法.md",
-    "Web开发/CSS教程/CSS完全教程.md",
-    "Vue/最佳实践.md",
     "Vue",
-    "程序/Web开发/CSS/CSS指南.md",
-    "程序/其他/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md",
-    "程序/其他/报错合集/linux报错/archlinux挂载报错.md",
-    "程序/工具项目/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md",
-    "程序/工具项目/README.md",
     "Web开发/CSS教程/09-CSS工程化最佳实践",
     "Web开发/CSS教程/08-Sass预处理器指南",
     "Web开发/CSS教程/07-CSS自定义属性与变量",
     "Web开发/CSS教程/06-CSS动画与过渡效果",
     "Web开发/CSS教程/05-响应式设计与媒体查询",
-    "Web开发/CSS教程/04-Grid网格布局系统",
     "未命名.canvas",
     "程序/杂项笔记/网络协议杂项/Pasted Image 20250423234929_955.png",
     "程序/杂项笔记/网络协议杂项/Pasted image 20250318232010.png",

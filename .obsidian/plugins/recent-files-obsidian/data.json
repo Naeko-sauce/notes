@@ -1,6 +1,174 @@
 {
   "recentFiles": [
     {
+      "basename": "测试",
+      "path": "Excalidraw/测试.md"
+    },
+    {
+      "basename": "python文件练习",
+      "path": "程序/编程语言/Python/python部分练习/python文件练习.md"
+    },
+    {
+      "basename": "python的gui编程",
+      "path": "程序/编程语言/Python/python部分练习/python的gui编程.md"
+    },
+    {
+      "basename": "archlinux中vscod无法访问模块",
+      "path": "程序/系统与工具/Linux/archlinux中vscod无法访问模块.md"
+    },
+    {
+      "basename": "hyprland桌面",
+      "path": "程序/系统与工具/Linux/hyprland桌面.md"
+    },
+    {
+      "basename": "vm和虚拟机的关系，和linux的内存分布关系图，和目录结构",
+      "path": "程序/系统与工具/Linux/centos/vm和虚拟机的关系，和linux的内存分布关系图，和目录结构.md"
+    },
+    {
+      "basename": "第一段汇编代码",
+      "path": "程序/硬件与底层/汇编/第一段汇编代码.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "搜索技巧",
+      "path": "搜索技巧.md"
+    },
+    {
+      "basename": "技术知识库总目录",
+      "path": "总目录/技术知识库总目录.md"
+    },
+    {
+      "basename": "非运算",
+      "path": "程序/硬件与底层/数字电子/非运算.md"
+    },
+    {
+      "basename": "汇编的组成",
+      "path": "程序/硬件与底层/汇编/汇编的组成.md"
+    },
+    {
+      "basename": "基础1",
+      "path": "程序/编程语言/PHP/基础1.md"
+    },
+    {
+      "basename": "python中的legb规则",
+      "path": "程序/编程语言/Python/python函数/python中的legb规则.md"
+    },
+    {
+      "basename": "文件包含",
+      "path": "程序/编程语言/PHP/文件包含.md"
+    },
+    {
+      "basename": "函数",
+      "path": "程序/编程语言/PHP/函数.md"
+    },
+    {
+      "basename": "README",
+      "path": "程序/编程语言/README.md"
+    },
+    {
+      "basename": "js闭包",
+      "path": "程序/编程语言/JavaScript/js闭包.md"
+    },
+    {
+      "basename": "js箭头函数",
+      "path": "程序/编程语言/JavaScript/js箭头函数.md"
+    },
+    {
+      "basename": "js数组解构",
+      "path": "程序/编程语言/JavaScript/js数组解构.md"
+    },
+    {
+      "basename": "js arguments伪数组",
+      "path": "程序/编程语言/JavaScript/js arguments伪数组.md"
+    },
+    {
+      "basename": "逆向",
+      "path": "程序/编程语言/Java/逆向.md"
+    },
+    {
+      "basename": "构造函数",
+      "path": "程序/编程语言/Java/构造函数.md"
+    },
+    {
+      "basename": "C Sharp中的Array list用处和与Java中的Array list的不同",
+      "path": "程序/编程语言/CSharp/C Sharp中的Array list用处和与Java中的Array list的不同.md"
+    },
+    {
+      "basename": "C Sharp访问修饰符",
+      "path": "程序/编程语言/CSharp/C Sharp访问修饰符.md"
+    },
+    {
+      "basename": "LANMP",
+      "path": "程序/安全/网络安全/LANMP.md"
+    },
+    {
+      "basename": "README",
+      "path": "程序/安全/README.md"
+    },
+    {
+      "basename": "LAMP和LANMP的区别",
+      "path": "程序/安全/网络安全/LAMP和LANMP的区别.md"
+    },
+    {
+      "basename": "单项散列算法",
+      "path": "程序/安全/密码学/单项散列算法.md"
+    },
+    {
+      "basename": "三重des和des的区别",
+      "path": "程序/安全/密码学/三重des和des的区别.md"
+    },
+    {
+      "basename": "数字签名",
+      "path": "程序/安全/密码学/数字签名.md"
+    },
+    {
+      "basename": "伪随机数生成器",
+      "path": "程序/安全/密码学/伪随机数生成器.md"
+    },
+    {
+      "basename": "隐写术和密码的区别",
+      "path": "程序/安全/密码学/隐写术和密码的区别.md"
+    },
+    {
+      "basename": "cbc模式",
+      "path": "程序/安全/密码学/cbc模式.md"
+    },
+    {
+      "basename": "ECB模式的优缺点",
+      "path": "程序/安全/密码学/ECB模式的优缺点.md"
+    },
+    {
+      "basename": "kali安装lamp环境",
+      "path": "程序/安全/网络安全/kali安装lamp环境.md"
+    },
+    {
+      "basename": "使用LAMP部署DVWA",
+      "path": "程序/安全/网络安全/使用LAMP部署DVWA.md"
+    },
+    {
+      "basename": "网络安全常用术语",
+      "path": "程序/安全/网络安全/网络安全常用术语.md"
+    },
+    {
+      "basename": "npm下载文件下载不了改变代理",
+      "path": "程序/其他/报错合集/前端报错/npm下载文件下载不了改变代理.md"
+    },
+    {
+      "basename": "段地址",
+      "path": "程序/硬件与底层/汇编/段地址.md"
+    },
+    {
+      "basename": "Pasted Image 20250616231506_752",
+      "path": "程序/杂项笔记/网络协议杂项/Pasted Image 20250616231506_752.png"
+    },
+    {
+      "basename": "README",
+      "path": "程序/Web开发/README.md"
+    },
+    {
       "basename": "js柯里化",
       "path": "程序/Web开发/JS/js柯里化.md"
     },
@@ -17,10 +185,6 @@
       "path": "程序/Web开发/JS/js中的apply.md"
     },
     {
-      "basename": "技术知识库总目录",
-      "path": "总目录/技术知识库总目录.md"
-    },
-    {
       "basename": "README",
       "path": "Linux/README.md"
     },
@@ -35,170 +199,6 @@
     {
       "basename": "C Sharp中的泛型",
       "path": "程序/编程语言/CSharp/C Sharp中的泛型.md"
-    },
-    {
-      "basename": "C Sharp访问修饰符",
-      "path": "程序/编程语言/CSharp/C Sharp访问修饰符.md"
-    },
-    {
-      "basename": "this的绑定规则",
-      "path": "程序/Web开发/JS/this的绑定规则.md"
-    },
-    {
-      "basename": "this的指向",
-      "path": "程序/Web开发/JS/this的指向.md"
-    },
-    {
-      "basename": "js中go和ao和vo对象",
-      "path": "程序/Web开发/JS/js中go和ao和vo对象.md"
-    },
-    {
-      "basename": "js闭包",
-      "path": "程序/Web开发/JS/js闭包.md"
-    },
-    {
-      "basename": "javascript className",
-      "path": "程序/编程语言/JavaScript/javascript className.md"
-    },
-    {
-      "basename": "javascript 获取html元素",
-      "path": "程序/编程语言/JavaScript/javascript 获取html元素.md"
-    },
-    {
-      "basename": "JavaScript开发",
-      "path": "总目录/javascript/JavaScript开发.md"
-    },
-    {
-      "basename": "Three.js 开发指南",
-      "path": "程序/Web开发/ThreeJS/Three.js 开发指南.md"
-    },
-    {
-      "basename": "CSS基础概念与语法",
-      "path": "Web开发/CSS教程/基础知识/CSS基础概念与语法.md"
-    },
-    {
-      "basename": "CSS完全教程",
-      "path": "Web开发/CSS教程/CSS完全教程.md"
-    },
-    {
-      "basename": "最佳实践",
-      "path": "Vue/最佳实践.md"
-    },
-    {
-      "basename": "CSS指南",
-      "path": "程序/Web开发/CSS/CSS指南.md"
-    },
-    {
-      "basename": "archLinux黑曜石和vs无法正常输入中文",
-      "path": "程序/其他/报错合集/linux报错/archLinux黑曜石和vs无法正常输入中文.md"
-    },
-    {
-      "basename": "archlinux挂载报错",
-      "path": "程序/其他/报错合集/linux报错/archlinux挂载报错.md"
-    },
-    {
-      "basename": "Drawing 2025-04-21 23.09.38.excalidraw",
-      "path": "程序/工具项目/半自动化项目/Drawing 2025-04-21 23.09.38.excalidraw.md"
-    },
-    {
-      "basename": "README",
-      "path": "程序/工具项目/README.md"
-    },
-    {
-      "basename": "SQL Server",
-      "path": "程序/编程语言/SQL/SQL Server.md"
-    },
-    {
-      "basename": "python字符串大小写转换方法",
-      "path": "程序/编程语言/Python/字符串/python字符串大小写转换方法.md"
-    },
-    {
-      "basename": "python os.system",
-      "path": "程序/其他/杂项笔记/python杂项/python os.system.md"
-    },
-    {
-      "basename": "hysteria2",
-      "path": "程序/其他/魔法/hysteria2.md"
-    },
-    {
-      "basename": "v2的协议和节点",
-      "path": "程序/其他/魔法/v2的协议和节点.md"
-    },
-    {
-      "basename": "v2一些协议配置的详细解释",
-      "path": "程序/其他/魔法/v2一些协议配置的详细解释.md"
-    },
-    {
-      "basename": "vue用pnpm i下载资源时报错",
-      "path": "程序/其他/报错合集/vue报错/vue用pnpm i下载资源时报错.md"
-    },
-    {
-      "basename": "lazyvim安装使用空格s+g搜索报错解决方法",
-      "path": "程序/其他/报错合集/neovim/lazyvim安装使用空格s+g搜索报错解决方法.md"
-    },
-    {
-      "basename": "archlinux使用yay安装python编辑器报错找不到软件包",
-      "path": "程序/其他/报错合集/linux报错/archlinux使用yay安装python编辑器报错找不到软件包.md"
-    },
-    {
-      "basename": "练习平台",
-      "path": "资源/练习平台.md"
-    },
-    {
-      "basename": "c 语言中printf，const，scanf的用法",
-      "path": "程序/编程语言/C/c 语言中printf，const，scanf的用法.md"
-    },
-    {
-      "basename": "简户思路",
-      "path": "程序/安全/社会工程/简户思路.md"
-    },
-    {
-      "basename": "基础概念",
-      "path": "程序/Web开发/CSS/grid/基础概念.md"
-    },
-    {
-      "basename": "指南",
-      "path": "性能优化/指南.md"
-    },
-    {
-      "basename": "threejs设置阻尼效果",
-      "path": "程序/Web开发/ThreeJS/threejs设置阻尼效果.md"
-    },
-    {
-      "basename": "three锥形相机",
-      "path": "程序/Web开发/ThreeJS/three锥形相机.md"
-    },
-    {
-      "basename": "three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行",
-      "path": "程序/Web开发/ThreeJS/three在 Vue 项目中，特别是使用 SSR（服务端渲染）的项目里，代码会在两个地方运行.md"
-    },
-    {
-      "basename": "three循环渲染",
-      "path": "程序/Web开发/ThreeJS/three循环渲染.md"
-    },
-    {
-      "basename": "透视相机",
-      "path": "程序/Web开发/ThreeJS/透视相机.md"
-    },
-    {
-      "basename": "使用gsap移动",
-      "path": "程序/Web开发/ThreeJS/使用gsap移动.md"
-    },
-    {
-      "basename": "sass",
-      "path": "程序/Web开发/CSS/预处理器/sass.md"
-    },
-    {
-      "basename": "CSS变量",
-      "path": "程序/Web开发/CSS/变量系统/CSS变量.md"
-    },
-    {
-      "basename": "单项散列算法",
-      "path": "程序/安全/密码学/单项散列算法.md"
-    },
-    {
-      "basename": "三重des和des的区别",
-      "path": "程序/安全/密码学/三重des和des的区别.md"
     }
   ],
   "omittedPaths": [],
