@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "tags第一版2025-8-25",
+      "path": "程序/工具项目/blog项目/tags第一版2025-8-25.md"
+    },
+    {
+      "basename": "指南",
+      "path": "性能优化/指南.md"
+    },
+    {
       "basename": "测试",
       "path": "Excalidraw/测试.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "ref的用处",
       "path": "程序/编程语言/CSharp/ref的用处.md"
-    },
-    {
-      "basename": "C Sharp中staitc",
-      "path": "程序/编程语言/CSharp/C Sharp中staitc.md"
-    },
-    {
-      "basename": "C Sharp中的泛型",
-      "path": "程序/编程语言/CSharp/C Sharp中的泛型.md"
     }
   ],
   "omittedPaths": [],
