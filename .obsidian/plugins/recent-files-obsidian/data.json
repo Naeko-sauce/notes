@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-8-25",
+      "path": "程序/工具项目/blog项目/项目目录/2025-8-25.md"
+    },
+    {
       "basename": "tags第一版2025-8-25",
       "path": "程序/工具项目/blog项目/tags第一版2025-8-25.md"
+    },
+    {
+      "basename": "README",
+      "path": "程序/工具项目/README.md"
     },
     {
       "basename": "指南",
@@ -191,14 +199,6 @@
     {
       "basename": "js中的apply",
       "path": "程序/Web开发/JS/js中的apply.md"
-    },
-    {
-      "basename": "README",
-      "path": "Linux/README.md"
-    },
-    {
-      "basename": "ref的用处",
-      "path": "程序/编程语言/CSharp/ref的用处.md"
     }
   ],
   "omittedPaths": [],

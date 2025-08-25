@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/工具项目/blog项目/tags第一版2025-8-25.md",
+                "file": "程序/工具项目/blog项目/项目目录/2025-8-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tags第一版2025-8-25"
+              "title": "2025-8-25"
             }
           }
         ],
@@ -238,8 +238,11 @@
   },
   "active": "d7874260b67877ba",
   "lastOpenFiles": [
-    "性能优化/指南.md",
+    "程序/工具项目/blog项目/项目目录",
     "程序/工具项目/blog项目/tags第一版2025-8-25.md",
+    "程序/工具项目/blog项目/项目目录/2025-8-25.md",
+    "程序/工具项目/README.md",
+    "性能优化/指南.md",
     "程序/工具项目/blog项目",
     "Excalidraw/测试.md",
     "程序/编程语言/Python/python部分练习/python文件练习.md",
@@ -263,9 +266,6 @@
     "程序/编程语言/JavaScript/js箭头函数.md",
     "程序/编程语言/JavaScript/js数组解构.md",
     "程序/编程语言/JavaScript/js arguments伪数组.md",
-    "程序/编程语言/Java/逆向.md",
-    "程序/编程语言/Java/构造函数.md",
-    "程序/编程语言/CSharp/C Sharp中的Array list用处和与Java中的Array list的不同.md",
     "程序/杂项笔记/网络协议杂项/Pasted Image 20250616231506_752.png",
     "程序/杂项笔记/网络协议杂项",
     "程序/杂项笔记",
